@@ -1,30 +1,30 @@
 海南卫视,http://ipipip/rtp/239.254.96.179:7154
 三沙卫视,http://ipipip/rtp/239.254.96.184:7158
 海南自贸,http://ipipip/rtp/239.254.96.185:8162
-海南公共,http://ipipip/rtp/239.254.96.186:8164
+海南社会与法,http://ipipip/rtp/239.254.96.186:8164
 海南文旅,http://ipipip/rtp/239.254.96.191:8176
 海南少儿,http://ipipip/rtp/239.254.96.192:8178
 海南新闻,http://ipipip/rtp/239.254.96.190:8174
-海口1,http://ipipip/rtp/239.254.96.103:7808
-三亚1,http://ipipip/rtp/239.254.96.106:8832
-澄迈,http://ipipip/rtp/239.254.96.111:7772
-CCTV-1综合,http://ipipip/rtp/239.254.96.82:7640
-CCTV-2财经,http://ipipip/rtp/239.254.96.124:7084
-CCTV-3综艺,http://ipipip/rtp/239.254.96.67:7520
-CCTV-4中文国际,http://ipipip/rtp/239.254.96.180:7092
-CCTV-5体育,http://ipipip/rtp/239.254.96.66:7512
-CCTV-5+体育赛事,http://ipipip/rtp/239.254.96.83:7004
-CCTV-6电影,http://ipipip/rtp/239.254.96.63:7488
-CCTV-7国防军事,http://ipipip/rtp/239.254.96.125:7104
-CCTV-8电视剧,http://ipipip/rtp/239.254.96.62:7480
-CCTV-9纪录,http://ipipip/rtp/239.254.96.126:7112
-CCTV-10科教,http://ipipip/rtp/239.254.96.127:7116
-CCTV-11戏曲,http://ipipip/rtp/239.254.96.187:8166
-CCTV-12社会与法,http://ipipip/rtp/239.254.96.128:7124
-CCTV-14少儿,http://ipipip/rtp/239.254.96.129:7132
-CCTV-15音乐,http://ipipip/rtp/239.254.96.188:8170
-CCTV-16奥林匹克,http://ipipip/rtp/239.254.96.170:8206
-CCTV-17农业农村,http://ipipip/rtp/239.254.96.57:8204
+海口综合,http://ipipip/rtp/239.254.96.103:7808
+三亚综合,http://ipipip/rtp/239.254.96.106:8832
+澄迈综合,http://ipipip/rtp/239.254.96.111:7772
+CCTV-1 综合,http://ipipip/rtp/239.254.96.82:7640
+CCTV-2 财经,http://ipipip/rtp/239.254.96.124:7084
+CCTV-3 综艺,http://ipipip/rtp/239.254.96.67:7520
+CCTV-4 中文国际,http://ipipip/rtp/239.254.96.180:7092
+CCTV-5 体育,http://ipipip/rtp/239.254.96.66:7512
+CCTV-5+ 体育赛事,http://ipipip/rtp/239.254.96.83:7004
+CCTV-6 电影,http://ipipip/rtp/239.254.96.63:7488
+CCTV-7 国防军事,http://ipipip/rtp/239.254.96.125:7104
+CCTV-8 电视剧,http://ipipip/rtp/239.254.96.62:7480
+CCTV-9 纪录,http://ipipip/rtp/239.254.96.126:7112
+CCTV-10 科教,http://ipipip/rtp/239.254.96.127:7116
+CCTV-11 戏曲,http://ipipip/rtp/239.254.96.187:8166
+CCTV-12 社会与法,http://ipipip/rtp/239.254.96.128:7124
+CCTV-14 少儿,http://ipipip/rtp/239.254.96.129:7132
+CCTV-15 音乐,http://ipipip/rtp/239.254.96.188:8170
+CCTV-16 奥林匹克,http://ipipip/rtp/239.254.96.170:8206
+CCTV-17 农业农村,http://ipipip/rtp/239.254.96.57:8204
 湖南卫视,http://ipipip/rtp/239.254.96.85:7664
 浙江卫视,http://ipipip/rtp/239.254.96.89:7696
 江苏卫视,http://ipipip/rtp/239.254.96.88:7688
@@ -58,7 +58,7 @@ CCTV-17农业农村,http://ipipip/rtp/239.254.96.57:8204
 云南卫视,http://ipipip/rtp/239.254.96.33:7248
 宁夏卫视,http://ipipip/rtp/239.254.96.52:7400
 兵团卫视,http://ipipip/rtp/239.254.96.153:8126
-山东教育卫视,http://ipipip/rtp/239.254.96.151:8118
+山东教育,http://ipipip/rtp/239.254.96.151:8118
 金鹰纪实,http://ipipip/rtp/239.254.96.154:7156
 CETV1,http://ipipip/rtp/239.254.96.155:7152
 CETV4,http://ipipip/rtp/239.254.96.169:8148
