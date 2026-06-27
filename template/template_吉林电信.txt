@@ -1,77 +1,234 @@
-吉林篮球,http://ipipip/rtp/239.37.0.212:5540
-吉林篮球,http://ipipip/rtp/239.37.0.216:5540
-吉林教育,http://ipipip/rtp/239.37.0.126:5540
-CCTV-1综合,http://ipipip/rtp/239.37.0.235:5540
-CCTV-1综合,http://ipipip/rtp/239.37.0.224:5540
-CCTV-1综合,http://ipipip/rtp/239.37.0.149:5540
-CCTV-1综合,http://ipipip/rtp/239.37.0.224:5540
-CCTV-1综合,http://ipipip/rtp/239.37.0.152:5540
-CCTV-3综艺,http://ipipip/rtp/239.37.0.231:5540
-CCTV-5体育,http://ipipip/rtp/239.37.0.232:5540
-CCTV-5+体育赛事,http://ipipip/rtp/239.37.0.121:5540
-CCTV-6电影,http://ipipip/rtp/239.37.0.233:5540
-CCTV-8电视剧,http://ipipip/rtp/239.37.0.234:5540
-CHC动作电影,http://ipipip/rtp/239.37.0.186:5540
-CHC影迷电影,http://ipipip/rtp/239.37.0.187:5540
-CHC家庭影院,http://ipipip/rtp/239.37.0.188:5540
-长影频道,http://ipipip/rtp/239.37.0.125:5540
-CCTV电视指南,http://ipipip/rtp/239.37.0.115:5540
-CCTV高尔夫网球,http://ipipip/rtp/239.37.0.230:5540
-CCTV卫生健康,http://ipipip/rtp/239.37.0.229:5540
-CCTV风云剧场,http://ipipip/rtp/239.37.0.114:5540
+
+北京卫视4K,http://ipipip/rtp/239.37.0.109:5540
+深圳卫视4K,http://ipipip/rtp/239.37.0.58:5540
+广东卫视4K,http://ipipip/rtp/239.37.0.62:5540
+东方卫视4K,http://ipipip/rtp/239.37.0.21:5540
+江苏卫视4K,http://ipipip/rtp/239.37.0.92:5540
+山东卫视4K,http://ipipip/rtp/239.37.0.100:5540
+四川卫视4K,http://ipipip/rtp/239.37.0.57:5540
+湖南卫视4K,http://ipipip/rtp/239.37.0.45:5540
+浙江卫视4K,http://ipipip/rtp/239.37.0.99:5540
+BRTV卡酷少儿,http://ipipip/rtp/239.37.0.60:5540
+BTV纪实科教,http://ipipip/rtp/239.37.0.162:5540
+CCTV-1 综合,http://ipipip/rtp/239.37.0.178:5540
+CCTV-1 综合,http://ipipip/rtp/239.37.0.20:5540
+CCTV-1 综合,http://ipipip/rtp/239.37.0.254:5540
+CCTV-1 综合,http://ipipip/rtp/239.37.0.8:5540
+CCTV-2 财经,http://ipipip/rtp/239.37.0.21:5540
+CCTV-2 财经,http://ipipip/rtp/239.37.0.3:5540
+CCTV-3 综艺,http://ipipip/rtp/239.37.0.189:5540
+CCTV-3 综艺,http://ipipip/rtp/239.37.0.231:5540
+CCTV-4 中文国际,http://ipipip/rtp/239.37.0.22:5540
+CCTV-5 体育,http://ipipip/rtp/239.37.0.190:5540
+CCTV-5 体育,http://ipipip/rtp/239.37.0.232:5540
+CCTV-5+ 体育赛事,http://ipipip/rtp/239.37.0.121:5540
+CCTV-6 电影,http://ipipip/rtp/239.37.0.191:5540
+CCTV-6 电影,http://ipipip/rtp/239.37.0.233:5540
+CCTV-7 国防军事,http://ipipip/rtp/239.37.0.23:5540
+CCTV-7 国防军事,http://ipipip/rtp/239.37.0.2:5540
+CCTV-8 电视剧,http://ipipip/rtp/239.37.0.192:5540
+CCTV-8 电视剧,http://ipipip/rtp/239.37.0.234:5540
+CCTV-9 纪录,http://ipipip/rtp/239.37.0.122:5540
+CCTV-9 纪录,http://ipipip/rtp/239.37.0.1:5540
+CCTV-10 科教,http://ipipip/rtp/239.37.0.25:5540
+CCTV-10 科教,http://ipipip/rtp/239.37.0.7:5540
+CCTV-11 戏曲,http://ipipip/rtp/239.37.0.227:5540
+CCTV-11 戏曲,http://ipipip/rtp/239.37.0.26:5540
+CCTV-12 社会与法,http://ipipip/rtp/239.37.0.27:5540
+CCTV-12 社会与法,http://ipipip/rtp/239.37.0.6:5540
+CCTV-13 新闻,http://ipipip/rtp/239.37.0.150:5540
+CCTV-13 新闻,http://ipipip/rtp/239.37.0.28:5540
+CCTV-14 少儿,http://ipipip/rtp/239.37.0.29:5540
+CCTV-14 少儿,http://ipipip/rtp/239.37.0.5:5540
+CCTV-15 音乐,http://ipipip/rtp/239.37.0.30:5540
+CCTV-16 奥林匹克,http://ipipip/rtp/239.37.1.21:5540
+CCTV-16 奥林匹克,http://ipipip/rtp/239.37.1.22:5540
+CCTV世界地理,http://ipipip/rtp/239.37.0.79:5540
+CCTV中视购物,http://ipipip/rtp/239.37.0.143:5540
+CCTV卫视健康,http://ipipip/rtp/239.37.0.229:5540
+CCTV国防军事,http://ipipip/rtp/239.37.0.84:5540
 CCTV央视台球,http://ipipip/rtp/239.37.0.163:5540
-北京卫视4K超高清,http://ipipip/rtp/239.37.0.109:5540
-海南卫视,http://ipipip/rtp/239.37.0.102:5540
-青海卫视,http://ipipip/rtp/239.37.0.104:5540
-陕西卫视,http://ipipip/rtp/239.37.0.103:5540
-北京纪实科教,http://ipipip/rtp/239.37.0.101:5540
-上海都市剧场,http://ipipip/rtp/239.37.0.241:5540
-上海生活时尚,http://ipipip/rtp/239.37.0.240:5540
-上海法治天地,http://ipipip/rtp/239.37.0.238:5540
-上海金色学堂,http://ipipip/rtp/239.37.0.239:5540
-上海动漫秀场,http://ipipip/rtp/239.37.0.242:5540
-上海游戏风云,http://ipipip/rtp/239.37.0.243:5540
-上海乐游频道,http://ipipip/rtp/239.37.0.236:5540
-金鹰纪实,http://ipipip/rtp/239.37.0.161:5540
-快乐垂钓,http://ipipip/rtp/239.37.0.244:5540
-茶频道,http://ipipip/rtp/239.37.0.245:5540
-河南梨园频道,http://ipipip/rtp/239.37.0.228:5540
-中国交通,http://ipipip/rtp/239.37.0.226:5540
-BesTV游戏,http://ipipip/rtp/239.37.0.162:5540
-咪咕体育,http://ipipip/rtp/239.37.0.194:5540
+CCTV央视文化精品,http://ipipip/rtp/239.37.0.83:5540
+CCTV女性时尚,http://ipipip/rtp/239.37.0.69:5540
+CCTV怀旧剧场,http://ipipip/rtp/239.37.0.82:5540
+CCTV电视指南,http://ipipip/rtp/239.37.0.115:5540
+CCTV第一剧场,http://ipipip/rtp/239.37.0.78:5540
+CCTV风云剧场,http://ipipip/rtp/239.37.0.114:5540
+CCTV风云足球,http://ipipip/rtp/239.37.0.80:5540
+CCTV风云音乐,http://ipipip/rtp/239.37.0.81:5540
+CCTV高尔夫·网球,http://ipipip/rtp/239.37.0.230:5540
 CETV1,http://ipipip/rtp/239.37.0.193:5540
-环球奇观,http://ipipip/rtp/239.37.0.105:5540
-优优宝贝,http://ipipip/rtp/239.37.0.107:5540
-新动漫,http://ipipip/rtp/239.37.0.106:5540
-扶余电视台,http://ipipip/rtp/239.37.0.180:5540
-延边卫视,http://ipipip/rtp/239.37.0.116:5540
-延边TV1,http://ipipip/rtp/239.37.0.248:5540
-延边TV2,http://ipipip/rtp/239.37.0.249:5540
-TTV洮南1,http://ipipip/rtp/239.37.0.218:5540
-农安综合,http://ipipip/rtp/239.37.0.144:5540
-生活频道,http://ipipip/rtp/239.37.0.129:5540
-新闻综合,http://ipipip/rtp/239.37.0.250:5540
-民生社会,http://ipipip/rtp/239.37.0.251:5540
-松原综合频道,http://ipipip/rtp/239.37.0.246:5540
-松原生活频道,http://ipipip/rtp/239.37.0.247:5540
-白山新闻综合1,http://ipipip/rtp/239.37.0.137:5540
-白山旅游生活2,http://ipipip/rtp/239.37.0.138:5540
-四平1,http://ipipip/rtp/239.37.0.130:5540
-四平2,http://ipipip/rtp/239.37.0.131:5540
-TTV1,http://ipipip/rtp/239.37.0.132:5540
-TTV2,http://ipipip/rtp/239.37.0.133:5540
-TTV3,http://ipipip/rtp/239.37.0.134:5540
-磐石综合频道,http://ipipip/rtp/239.37.0.164:5540
-图门电视台,http://ipipip/rtp/239.37.0.166:5540
-未知,http://ipipip/rtp/239.37.0.165:5540
-梨树新闻,http://ipipip/rtp/239.37.0.168:5540
-tv1,http://ipipip/rtp/239.37.0.167:5540
-综合纪实,http://ipipip/rtp/239.37.0.170:5540
-双辽,http://ipipip/rtp/239.37.0.169:5540
-未知综合,http://ipipip/rtp/239.37.0.172:5540
-未知TV,http://ipipip/rtp/239.37.0.171:5540
-梅河口电视台,http://ipipip/rtp/239.37.0.173:5540
-未知地方综合,http://ipipip/rtp/239.37.0.175:5540
-DFTV综合,http://ipipip/rtp/239.37.0.179:5540
+CETV早期教育,http://ipipip/rtp/239.37.0.73:5540
+中央新影-中学生,http://ipipip/rtp/239.37.0.95:5540
+中央新影-老故事,http://ipipip/rtp/239.37.0.113:5540
+CGTN ,http://ipipip/rtp/239.37.0.31:5540
+CGTN纪录,http://ipipip/rtp/239.37.0.24:5540
+CHC动作电影,http://ipipip/rtp/239.37.0.186:5540
+CHC家庭影院,http://ipipip/rtp/239.37.0.188:5540
+CHC电影,http://ipipip/rtp/239.37.0.187:5540
+DV生活,http://ipipip/rtp/239.37.0.89:5540
+LIVE直播,http://ipipip/rtp/239.37.0.139:5540
+MAX极速汽车,http://ipipip/rtp/239.37.0.237:5540
+VSPN全电竞,http://ipipip/rtp/239.37.0.140:5540
+三沙卫视,http://ipipip/rtp/239.37.0.200:5540
+三沙卫视,http://ipipip/rtp/239.37.0.201:5540
+上海纪实,http://ipipip/rtp/239.37.0.152:5540
+东丰综合,http://ipipip/rtp/239.37.0.179:5540
+东南卫视,http://ipipip/rtp/239.37.0.124:5540
+东南卫视,http://ipipip/rtp/239.37.0.42:5540
+东方卫视,http://ipipip/rtp/239.37.0.123:5540
+东方卫视,http://ipipip/rtp/239.37.0.48:5540
+中国交通,http://ipipip/rtp/239.37.0.226:5540
+临江综合,http://ipipip/rtp/239.37.0.220:5540
+九画面,http://ipipip/rtp/239.37.0.149:5540
 乾安综合,http://ipipip/rtp/239.37.0.181:5540
-未知电视台,http://ipipip/rtp/239.37.0.220:5540
+云南卫视,http://ipipip/rtp/239.37.0.63:5540
+伊通综合,http://ipipip/rtp/239.37.0.171:5540
+优购物,http://ipipip/rtp/239.37.0.182:5540
+体育赛事,http://ipipip/rtp/239.37.0.225:5540
+全纪实旅游,http://ipipip/rtp/239.37.0.236:5540
+公主岭综合,http://ipipip/rtp/239.37.0.170:5540
+兵团卫视,http://ipipip/rtp/239.37.0.59:5540
+内蒙古卫视,http://ipipip/rtp/239.37.0.36:5540
+农安新闻综合,http://ipipip/rtp/239.37.0.144:5540
+前郭综合,http://ipipip/rtp/239.37.0.146:5540
+动漫秀场,http://ipipip/rtp/239.37.0.242:5540
+动画,http://ipipip/rtp/239.37.0.147:5540
+北京卫视,http://ipipip/rtp/239.37.0.50:5540
+北京卫视,http://ipipip/rtp/239.37.0.9:5540
+双辽综合,http://ipipip/rtp/239.37.0.169:5540
+吉林7频道,http://ipipip/rtp/239.37.0.107:5540
+吉林东北戏曲,http://ipipip/rtp/239.37.0.109:5540
+吉林乡村,http://ipipip/rtp/239.37.0.105:5540
+吉林公共新闻,http://ipipip/rtp/239.37.0.106:5540
+吉林卫视,http://ipipip/rtp/239.37.0.101:5540
+吉林卫视,http://ipipip/rtp/239.37.0.111:5540
+吉林市新闻综合,http://ipipip/rtp/239.37.0.127:5540
+吉林市生活,http://ipipip/rtp/239.37.0.128:5540
+吉林市科教农业,http://ipipip/rtp/239.37.0.129:5540
+吉林影视,http://ipipip/rtp/239.37.0.103:5540
+吉林教育,http://ipipip/rtp/239.37.0.126:5540
+吉林生活,http://ipipip/rtp/239.37.0.104:5540
+吉林篮球,http://ipipip/rtp/239.37.0.108:5540
+吉林篮球,http://ipipip/rtp/239.37.0.205:5540
+吉林篮球,http://ipipip/rtp/239.37.0.206:5540
+吉林篮球,http://ipipip/rtp/239.37.0.207:5540
+吉林篮球,http://ipipip/rtp/239.37.0.208:5540
+吉林篮球,http://ipipip/rtp/239.37.0.209:5540
+吉林篮球,http://ipipip/rtp/239.37.0.210:5540
+吉林篮球,http://ipipip/rtp/239.37.0.211:5540
+吉林篮球,http://ipipip/rtp/239.37.0.213:5540
+吉林篮球,http://ipipip/rtp/239.37.0.214:5540
+吉林篮球,http://ipipip/rtp/239.37.0.216:5540
+吉林都市,http://ipipip/rtp/239.37.0.102:5540
+吉林长影,http://ipipip/rtp/239.37.0.125:5540
+哈哈炫动,http://ipipip/rtp/239.37.0.65:5540
+嘉佳卡通,http://ipipip/rtp/239.37.0.67:5540
+四川卫视,http://ipipip/rtp/239.37.0.151:5540
+四川卫视,http://ipipip/rtp/239.37.0.41:5540
+四平新闻综合,http://ipipip/rtp/239.37.0.130:5540
+四平生活服务,http://ipipip/rtp/239.37.0.131:5540
+国学频道,http://ipipip/rtp/239.37.0.93:5540
+图们综合,http://ipipip/rtp/239.37.0.166:5540
+大安新闻综合,http://ipipip/rtp/239.37.0.177:5540
+天津卫视,http://ipipip/rtp/239.37.0.4:5540
+天津卫视,http://ipipip/rtp/239.37.0.64:5540
+央广购物,http://ipipip/rtp/239.37.0.184:5540
+好享购物,http://ipipip/rtp/239.37.0.185:5540
+宁夏卫视,http://ipipip/rtp/239.37.0.66:5540
+安徽卫视,http://ipipip/rtp/239.37.0.159:5540
+安徽卫视,http://ipipip/rtp/239.37.0.46:5540
+家家购物,http://ipipip/rtp/239.37.0.235:5540
+家有购物,http://ipipip/rtp/239.37.0.110:5540
+山东卫视,http://ipipip/rtp/239.37.0.15:5540
+山东卫视,http://ipipip/rtp/239.37.0.49:5540
+山西卫视,http://ipipip/rtp/239.37.0.53:5540
+幸福剧场,http://ipipip/rtp/239.37.0.222:5540
+幸福娱乐,http://ipipip/rtp/239.37.0.223:5540
+广东卫视,http://ipipip/rtp/239.37.0.12:5540
+广东卫视,http://ipipip/rtp/239.37.0.33:5540
+广西卫视,http://ipipip/rtp/239.37.0.51:5540
+延吉综合,http://ipipip/rtp/239.37.0.167:5540
+延边卫视,http://ipipip/rtp/239.37.0.116:5540
+延边卫视,http://ipipip/rtp/239.37.0.248:5540
+延边卫视,http://ipipip/rtp/239.37.0.249:5540
+彩民在线,http://ipipip/rtp/239.37.0.74:5540
+快乐垂钓,http://ipipip/rtp/239.37.0.244:5540
+扶余综合,http://ipipip/rtp/239.37.0.180:5540
+抚松综合,http://ipipip/rtp/239.37.0.219:5540
+文物宝库,http://ipipip/rtp/239.37.0.92:5540
+新疆卫视,http://ipipip/rtp/239.37.0.39:5540
+旅游卫视,http://ipipip/rtp/239.37.0.35:5540
+时尚购物,http://ipipip/rtp/239.37.0.183:5540
+松原新闻综合,http://ipipip/rtp/239.37.0.246:5540
+松原生活,http://ipipip/rtp/239.37.0.247:5540
+柳河综合,http://ipipip/rtp/239.37.0.172:5540
+梅河口综合,http://ipipip/rtp/239.37.0.173:5540
+梨园频道,http://ipipip/rtp/239.37.0.88:5540
+梨树综合,http://ipipip/rtp/239.37.0.168:5540
+武术世界,http://ipipip/rtp/239.37.0.76:5540
+每日影院,http://ipipip/rtp/239.37.0.221:5540
+江苏卫视,http://ipipip/rtp/239.37.0.112:5540
+江西卫视,http://ipipip/rtp/239.37.0.156:5540
+江西卫视,http://ipipip/rtp/239.37.0.43:5540
+汪清综合,http://ipipip/rtp/239.37.0.165:5540
+河北卫视,http://ipipip/rtp/239.37.0.154:5540
+河北卫视,http://ipipip/rtp/239.37.0.52:5540
+河南卫视,http://ipipip/rtp/239.37.0.155:5540
+河南卫视,http://ipipip/rtp/239.37.0.56:5540
+法治天地,http://ipipip/rtp/239.37.0.238:5540
+洮南综合,http://ipipip/rtp/239.37.0.218:5540
+浙江卫视,http://ipipip/rtp/239.37.0.153:5540
+浙江卫视,http://ipipip/rtp/239.37.0.37:5540
+深圳卫视,http://ipipip/rtp/239.37.0.14:5540
+深圳卫视,http://ipipip/rtp/239.37.0.47:5540
+游戏风云,http://ipipip/rtp/239.37.0.243:5540
+湖北卫视,http://ipipip/rtp/239.37.0.16:5540
+湖北卫视,http://ipipip/rtp/239.37.0.40:5540
+湖南卫视,http://ipipip/rtp/239.37.0.10:5540
+湖南卫视,http://ipipip/rtp/239.37.0.38:5540
+环球奇观,http://ipipip/rtp/239.37.0.70:5540
+甘肃卫视,http://ipipip/rtp/239.37.0.34:5540
+生活时尚,http://ipipip/rtp/239.37.0.240:5540
+电影4K,http://ipipip/rtp/239.37.0.148:5540
+白城新闻综合,http://ipipip/rtp/239.37.0.135:5540
+白城生活,http://ipipip/rtp/239.37.0.136:5540
+白山新闻综合,http://ipipip/rtp/239.37.0.137:5540
+白山旅游生活,http://ipipip/rtp/239.37.0.138:5540
+直播室,http://ipipip/rtp/239.37.0.194:5540
+磐石综合,http://ipipip/rtp/239.37.0.164:5540
+舒兰新闻综合,http://ipipip/rtp/239.37.0.217:5540
+英语辅导,http://ipipip/rtp/239.37.0.77:5540
+蛟河综合,http://ipipip/rtp/239.37.0.252:5540
+西藏卫视,http://ipipip/rtp/239.37.0.54:5540
+讲述卫视,http://ipipip/rtp/239.37.0.55:5540
+贵州卫视,http://ipipip/rtp/239.37.0.157:5540
+贵州卫视,http://ipipip/rtp/239.37.0.58:5540
+辉南综合,http://ipipip/rtp/239.37.0.174:5540
+辽宁卫视,http://ipipip/rtp/239.37.0.160:5540
+辽宁卫视,http://ipipip/rtp/239.37.0.44:5540
+辽源新闻综合,http://ipipip/rtp/239.37.0.250:5540
+辽源民生社会,http://ipipip/rtp/239.37.0.251:5540
+通化新闻综合,http://ipipip/rtp/239.37.0.132:5540
+通化生活,http://ipipip/rtp/239.37.0.133:5540
+通化生活,http://ipipip/rtp/239.37.0.134:5540
+通榆综合,http://ipipip/rtp/239.37.0.176:5540
+都市剧场,http://ipipip/rtp/239.37.0.241:5540
+重庆卫视,http://ipipip/rtp/239.37.0.158:5540
+重庆卫视,http://ipipip/rtp/239.37.0.62:5540
+重庆汽摩,http://ipipip/rtp/239.37.0.90:5540
+金色学堂,http://ipipip/rtp/239.37.0.239:5540
+金鹰卡通,http://ipipip/rtp/239.37.0.61:5540
+金鹰纪实,http://ipipip/rtp/239.37.0.161:5540
+镇赉综合,http://ipipip/rtp/239.37.0.175:5540
+长春娱乐,http://ipipip/rtp/239.37.0.97:5540
+长春市民,http://ipipip/rtp/239.37.0.98:5540
+长春经济,http://ipipip/rtp/239.37.0.99:5540
+长春综合,http://ipipip/rtp/239.37.0.96:5540
+陕西卫视,http://ipipip/rtp/239.37.0.45:5540
+集安综合,http://ipipip/rtp/239.37.0.145:5540
+青海卫视,http://ipipip/rtp/239.37.0.57:5540
+靓妆,http://ipipip/rtp/239.37.0.87:5540
+风尚生活,http://ipipip/rtp/239.37.0.224:5540
+黑龙江卫视,http://ipipip/rtp/239.37.0.13:5540
+黑龙江卫视,http://ipipip/rtp/239.37.0.32:5540
