@@ -102,3 +102,4 @@ BRTV纪实科教,http://ipipip/rtp/239.254.22.161:7000
 六盘水综合,http://ipipip/rtp/239.254.22.163:7000
 IPTV5＋,http://ipipip/rtp/239.254.22.9:7000
 VSPN全电竞,http://ipipip/rtp/239.254.22.166:7000
+

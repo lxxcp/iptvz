@@ -111,3 +111,4 @@ CHC高清电影,http://ipipip/rtp/228.0.0.233:6108
 靓妆,http://ipipip/rtp/228.0.0.86:6108
 黄冈综合,http://ipipip/rtp/228.0.0.224:6108
 黑龙江卫视,http://ipipip/rtp/228.0.0.68:6108
+

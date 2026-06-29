@@ -153,3 +153,4 @@ CHC影迷电影,http://ipipip/rtp/239.1.0.150:1025
 青海卫视,http://ipipip/rtp/239.1.1.50:1025
 靓妆,http://ipipip/rtp/239.1.0.223:1025
 黑龙江卫视,http://ipipip/rtp/239.1.0.137:1025
+

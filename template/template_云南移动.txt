@@ -53,3 +53,4 @@ CCTV-15 音乐,http://ipipip/rtp/228.0.0.15:5015
 金鹰卡通,http://ipipip/rtp/228.0.2.4:5604
 哈哈炫动,http://ipipip/rtp/228.0.2.3:5603
 动漫秀场,http://ipipip/rtp/228.0.3.3:5903
+
