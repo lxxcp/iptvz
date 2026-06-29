@@ -1,4 +1,4 @@
 1.127.21.94:8808
 116.75.142.0:8686
-http://www.pve.onetopcloud.com:16666
 124.67.68.139:4022
+http://www.pve.onetopcloud.com:16666
