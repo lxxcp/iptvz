@@ -44,7 +44,6 @@ CHC家庭影院,http://ipipip/rtp/239.10.0.86:5140
 CHC影迷电影,http://ipipip/rtp/239.10.0.88:5140
 中国交通,http://ipipip/rtp/239.10.0.143:5140
 中央新影-中学生,http://ipipip/rtp/239.11.0.247:5140
-
 东方卫视4K,http://ipipip/rtp/239.11.0.90:5140
 北京卫视4K,http://ipipip/rtp/239.10.0.91:5140
 北京卫视4K,http://ipipip/rtp/239.10.0.92:5140
@@ -94,7 +93,6 @@ CHC影迷电影,http://ipipip/rtp/239.10.0.88:5140
 黑龙江卫视,http://ipipip/rtp/239.11.0.36:5140
 天津卫视,http://ipipip/rtp/239.11.0.123:5140
 重庆卫视,http://ipipip/rtp/239.11.0.116:5140
-
 四川峨眉电影,http://ipipip/rtp/239.11.0.11:5140
 四川乡村,http://ipipip/rtp/239.11.0.4:5140
 四川卫视,http://ipipip/rtp/239.11.0.78:5140
@@ -154,7 +152,6 @@ CHC影迷电影,http://ipipip/rtp/239.10.0.88:5140
 凤凰中文,http://ipipip/rtp/239.11.0.153:5140
 凤凰资讯,http://ipipip/rtp/239.11.0.154:5140
 山东教育,http://ipipip/rtp/239.11.0.140:5140
-
 聚鲨环球精选,http://ipipip/rtp/239.10.0.228:5140
 ChannelV,http://ipipip/rtp/239.11.0.155:5140
 IPTV热播剧场,http://ipipip/rtp/239.10.0.121:5140
