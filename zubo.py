@@ -134,6 +134,10 @@ def main():
         with open(file_path, 'r', encoding="utf-8") as f:
             content = f.read()
             file_contents.append(content)
+ for file_path in glob.glob('组播_*移动.txt'):
+        with open(file_path, 'r', encoding="utf-8") as f:
+            content = f.read()
+            file_contents.append(content)
     now = datetime.datetime.now(datetime.UTC) + datetime.timedelta(hours=8)
     current_time = now.strftime("%Y/%m/%d %H:%M")
     with open("zubo_all.txt", "w", encoding="utf-8") as f:
