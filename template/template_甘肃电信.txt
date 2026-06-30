@@ -90,3 +90,4 @@ BRTV卡酷少儿,http://ipipip/udp/239.255.29.38:8231
 羽毛球精品赛事,http://ipipip/udp/239.255.29.31:8231
 IPTV5体育,http://ipipip/udp/239.255.30.115:8231
 凤凰香港,http://ipipip/udp/239.255.30.123:8231
+

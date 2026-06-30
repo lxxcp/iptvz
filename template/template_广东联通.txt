@@ -74,3 +74,4 @@ CETV2,http://ipipip/udp/239.0.1.210:4120
 CETV4,http://ipipip/udp/239.0.1.211:4121
 CGTN,http://ipipip/udp/239.0.1.76:8056
 IPTV5体育,http://ipipip/udp/239.0.1.102:4120
+

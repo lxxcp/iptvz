@@ -153,3 +153,4 @@ IPTV魅力时尚,http://ipipip/rtp/239.20.0.239:2276
 青海卫视,http://ipipip/rtp/239.20.0.154:2106
 黑龙江卫视,http://ipipip/rtp/239.20.0.123:2044
 黑龙江卫视,http://ipipip/rtp/239.20.0.91:3036
+

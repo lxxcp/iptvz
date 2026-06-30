@@ -2,8 +2,6 @@ CCTV-1 综合,http://ipipip/rtp/239.255.36.70:8231
 CCTV-2 财经,http://ipipip/rtp/239.255.36.20:8231
 CCTV-3 综艺,http://ipipip/rtp/239.255.36.118:8231
 CCTV-4 中文国际,http://ipipip/rtp/239.255.36.21:8231
-CCTV-4 欧洲,
-CCTV-4 美洲,
 CCTV-5 体育,http://ipipip/rtp/239.255.36.119:8231
 CCTV-5+ 体育赛事,http://ipipip/rtp/239.255.36.72:8231
 CCTV-6 电影,http://ipipip/rtp/239.255.36.120:8231
@@ -19,10 +17,6 @@ CCTV-15 音乐,http://ipipip/rtp/239.255.36.29:8231
 CCTV-16 奥林匹克,http://ipipip/rtp/239.255.36.122:8231
 CCTV-17 农业农村,http://ipipip/rtp/239.255.36.132:8231
 CGTN,http://ipipip/rtp/239.255.36.30:8231
-CGTN西语,
-CGTN法语,
-CGTN俄语,
-CGTN阿语,
 安徽卫视,http://ipipip/rtp/239.255.36.39:8231
 北京卫视,http://ipipip/rtp/239.255.36.60:8231
 重庆卫视,http://ipipip/rtp/239.255.36.45:8231

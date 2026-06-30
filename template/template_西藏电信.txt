@@ -1,4 +1,3 @@
-央视,#genre#
 CCTV-1 综合,http://ipipip/rtp/239.105.0.102:5140
 CCTV-2 财经,http://ipipip/rtp/239.105.0.134:5140
 CCTV-3 综艺,http://ipipip/rtp/239.105.0.120:5140
@@ -55,3 +54,4 @@ CCTV-17 农业农村,http://ipipip/rtp/239.105.0.13:5140
 嘉佳卡通,http://ipipip/rtp/239.105.0.55:5140
 金鹰卡通,http://ipipip/rtp/239.105.0.131:5140
 BRTV卡酷少儿,http://ipipip/rtp/239.105.0.132:5140
+

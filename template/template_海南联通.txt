@@ -64,3 +64,4 @@ CETV1,http://ipipip/rtp/239.254.96.155:7152
 CETV4,http://ipipip/rtp/239.254.96.169:8148
 CGTN纪录,http://ipipip/rtp/239.254.96.58:7448
 CGTN英语,http://ipipip/rtp/239.254.96.16:7112
+

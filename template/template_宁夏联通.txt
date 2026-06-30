@@ -1,4 +1,3 @@
-央视,#genre#
 CCTV-1 综合,http://ipipip/rtp/224.168.68.56:6000
 CCTV-2 财经,http://ipipip/rtp/224.168.68.71:6000
 CCTV-3 综艺,http://ipipip/rtp/224.168.68.145:6000
@@ -72,3 +71,4 @@ CETV4,http://ipipip/rtp/224.168.68.54:6000
 BRTV卡酷少儿,http://ipipip/rtp/224.168.68.118:6000
 嘉佳卡通,http://ipipip/rtp/224.168.68.110:6000
 财富天下,http://ipipip/rtp/224.168.68.114:6000
+

@@ -296,3 +296,4 @@ CGTN 俄语,http://ipipip/rtp/239.254.201.212:4220
 SLTV,http://ipipip/rtp/239.254.201.100:5179
 九屏直播,http://ipipip/rtp/239.254.200.248:6000
 中式八球国际公开赛,http://ipipip/rtp/239.254.200.187:6000
+
