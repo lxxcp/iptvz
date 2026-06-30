@@ -134,7 +134,7 @@ def main():
         with open(file_path, 'r', encoding="utf-8") as f:
             content = f.read()
             file_contents.append(content)
- for file_path in glob.glob('组播_*移动.txt'):
+    for file_path in glob.glob('组播_*移动.txt'):
         with open(file_path, 'r', encoding="utf-8") as f:
             content = f.read()
             file_contents.append(content)
