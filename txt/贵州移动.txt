@@ -1,21 +1,6 @@
 贵州移动-组播1,#genre#
 
-CCTV-4 美洲,
-CETV2,
-CETV3,
-CETV4,
-
 贵州移动-组播2,#genre#
 
-CCTV-4 美洲,
-CETV2,
-CETV3,
-CETV4,
-
 贵州移动-组播3,#genre#
-
-CCTV-4 美洲,
-CETV2,
-CETV3,
-CETV4,
 

@@ -1,27 +1,9 @@
 甘肃联通-组播1,#genre#
-CCTV-4 欧洲,
-CCTV-4 美洲,
-CGTN西语,
-CGTN法语,
-CGTN俄语,
-CGTN阿语,
 CETV2,
 
 甘肃联通-组播2,#genre#
-CCTV-4 欧洲,
-CCTV-4 美洲,
-CGTN西语,
-CGTN法语,
-CGTN俄语,
-CGTN阿语,
 CETV2,
 
 甘肃联通-组播3,#genre#
-CCTV-4 欧洲,
-CCTV-4 美洲,
-CGTN西语,
-CGTN法语,
-CGTN俄语,
-CGTN阿语,
 CETV2,
 
