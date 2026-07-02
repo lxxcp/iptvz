@@ -1,0 +1,36 @@
+CCTV-1 综合,http://ipipip/rtp/239.253.2.189:9128
+CCTV-2 财经,http://ipipip/rtp/239.253.2.162:8966
+CCTV-3 综艺,http://ipipip/rtp/239.253.2.21:9588
+CCTV-4 中文国际,http://ipipip/rtp/239.253.2.165:8984
+CCTV-5 体育,http://ipipip/rtp/239.253.2.54:9594
+CCTV-5+ 体育赛事,http://ipipip/rtp/239.253.2.176:9050
+CCTV-6 电影,http://ipipip/rtp/239.253.2.55:9600
+CCTV-7 国防军事,http://ipipip/rtp/239.253.2.163:8972
+CCTV-8 电视剧,http://ipipip/rtp/239.253.2.56:9606
+CCTV-9 纪录,http://ipipip/rtp/239.253.2.164:8978
+CCTV-10 科教,http://ipipip/rtp/239.253.2.166:8990
+CCTV-11 戏曲,http://ipipip/rtp/239.253.2.89:9558
+CCTV-12 社会与法,http://ipipip/rtp/239.253.2.167:8996
+CCTV-13 新闻,http://ipipip/rtp/239.253.2.90:9564
+CCTV-14 少儿,http://ipipip/rtp/239.253.2.185:9104
+CCTV-15 音乐,http://ipipip/rtp/239.253.2.91:9570
+CCTV-17 农业农村,http://ipipip/rtp/239.253.2.226:9350
+CGTN,http://ipipip/rtp/239.253.2.109:8648
+CCTV-1 综合,http://ipipip/rtp/239.253.7.43:53043
+CCTV-2 财经,http://ipipip/rtp/239.253.7.74:53215
+CCTV-3 综艺,http://ipipip/rtp/239.253.8.35:16064
+CCTV-4 中文国际,http://ipipip/rtp/239.253.7.71:53218
+CCTV-5 体育,http://ipipip/rtp/239.253.8.24:16065
+CCTV-5+ 体育赛事,http://ipipip/rtp/239.253.7.60:53229
+CCTV-6 电影,http://ipipip/rtp/239.253.8.25:16066
+CCTV-7 国防军事,http://ipipip/rtp/239.253.7.73:53216
+CCTV-8 电视剧,http://ipipip/rtp/239.253.8.26:16067
+CCTV-9 纪录,http://ipipip/rtp/239.253.7.72:53217
+CCTV-10 科教,http://ipipip/rtp/239.253.7.70:53219
+CCTV-11 戏曲,http://ipipip/rtp/239.253.8.18:14220
+CCTV-12 社会与法,http://ipipip/rtp/239.253.7.69:53220
+CCTV-13 新闻,http://ipipip/rtp/239.253.8.19:14220
+CCTV-14 少儿,http://ipipip/rtp/239.253.7.68:53221
+CCTV-15 音乐,http://ipipip/rtp/239.253.8.20:14220
+CGTN,http://ipipip/rtp/239.253.7.143:51015
+CCTV-17 农业农村,http://ipipip/rtp/239.253.7.50:52237

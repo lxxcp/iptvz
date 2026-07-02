@@ -1,5 +1,5 @@
 BRTV卡酷少儿,http://ipipip/rtp/226.0.1.57:3059
-CCTV1-综合,http://ipipip/rtp/226.0.1.157:3086
+CCTV-1 综合,http://ipipip/rtp/226.0.1.157:3086
 CCTV-2 财经,http://ipipip/rtp/226.0.1.158:3087
 CCTV-3 综艺,http://ipipip/rtp/226.0.1.141:2018
 CCTV-4 中文国际,http://ipipip/rtp/226.0.1.160:2019
@@ -18,7 +18,7 @@ CCTV-13 新闻,http://ipipip/rtp/226.0.1.98:2028
 CCTV-14 少儿,http://ipipip/rtp/226.0.1.170:3094
 CCTV-15 音乐,http://ipipip/rtp/226.0.1.32:3028
 CCTV-16 奥林匹克,http://ipipip/rtp/226.0.1.118:2032
-CCTV-17农业农村,http://ipipip/rtp/226.0.1.117:2033
+CCTV-17 农业农村,http://ipipip/rtp/226.0.1.117:2033
 CCTV世界地理,http://ipipip/rtp/226.0.1.169:2111
 CCTV世界地理,http://ipipip/rtp/226.0.1.94:3211
 CCTV兵器科技,http://ipipip/rtp/226.0.1.171:2115
