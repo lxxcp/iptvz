@@ -170,9 +170,8 @@ CCTV女性时尚,http://ipipip/rtp/239.255.5.42:8164
 沧州新闻,http://ipipip/rtp/239.255.2.56:8324
 沧州公共,http://ipipip/rtp/239.255.2.57:8330
 沧州影视,http://ipipip/rtp/239.255.2.58:8336
-保定新闻,http://ipipip/rtp/239.255.2.59:8342
-保定公共,http://ipipip/rtp/239.255.2.60:8348
-保定生活,http://ipipip/rtp/239.255.2.61:8354
+保定新闻综合,http://ipipip/rtp/239.255.2.59:8342
+保定民生,http://ipipip/rtp/239.255.2.61:8354
 衡水新闻,http://ipipip/rtp/239.255.2.62:8360
 衡水公共,http://ipipip/rtp/239.255.2.64:8372
 邢台综合,http://ipipip/rtp/239.255.2.65:8378

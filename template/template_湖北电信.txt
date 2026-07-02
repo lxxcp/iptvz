@@ -118,9 +118,8 @@ CHC影迷电影,http://ipipip/rtp/239.69.1.241:11088
 湖北综合,http://ipipip/rtp/239.69.1.42:9892
 武汉新闻综合,http://ipipip/rtp/239.69.1.145:10506
 武汉电视剧,http://ipipip/rtp/239.69.1.146:10512
-武汉科技生活,http://ipipip/rtp/239.69.1.251:11148
+武汉都市文体,http://ipipip/rtp/239.69.1.251:11148
 武汉教育,http://ipipip/rtp/239.69.1.60:9994
-武汉文体,http://ipipip/rtp/239.69.1.147:10518
 房县综合,http://ipipip/rtp/239.69.1.192:10794
 蔡甸综合,http://ipipip/rtp/239.69.1.245:11112
 阳新综合,http://ipipip/rtp/239.69.1.34:9844

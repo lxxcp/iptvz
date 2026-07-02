@@ -20,6 +20,7 @@ BRTV财经,http://ipipip/rtp/225.1.8.106:8002
 BRTV财经,http://ipipip/rtp/225.1.8.125:8002
 CCTV-1 综合,http://ipipip/rtp/225.1.8.101:8080
 CCTV-1 综合,http://ipipip/rtp/225.1.8.1:8008
+CCTV-1 综合,http://ipipip/rtp/225.1.8.33:8002
 CCTV-10 科教,http://ipipip/rtp/225.1.8.10:8116
 CCTV-10 科教,http://ipipip/rtp/225.1.8.110:8228
 CCTV-11 戏曲,http://ipipip/rtp/225.1.8.111:8040
@@ -119,7 +120,6 @@ CGTN,http://ipipip/rtp/225.1.8.116:8056
 北京淘剧场,http://ipipip/rtp/225.1.8.37:8002
 北京淘娱乐,http://ipipip/rtp/225.1.8.61:8002
 北京淘电影,http://ipipip/rtp/225.1.8.38:8002
-北京淘精彩,http://ipipip/rtp/225.1.8.33:8002
 北京萌宠TV,http://ipipip/rtp/225.1.8.63:8002
 密云综合,http://ipipip/rtp/225.1.8.75:8002
 房山综合,http://ipipip/rtp/225.1.8.68:8002
@@ -128,16 +128,12 @@ CGTN,http://ipipip/rtp/225.1.8.116:8056
 动作影院,http://ipipip/rtp/225.1.8.252:4120
 喜剧影院,http://ipipip/rtp/225.1.8.251:4120
 嘉佳卡通,http://ipipip/rtp/225.1.8.170:9268
-大健康,http://ipipip/rtp/225.1.8.39:8002
+重温经典,http://ipipip/rtp/225.1.8.39:8002
 家庭影院,http://ipipip/rtp/225.1.8.253:4120
 山东教育,http://ipipip/rtp/225.1.8.190:4120
-幸福剧场,http://ipipip/rtp/225.1.8.98:8002
-幸福娱乐,http://ipipip/rtp/225.1.8.99:8002
 快乐垂钓,http://ipipip/rtp/225.1.8.71:8002
 武侠剧场,http://ipipip/rtp/225.1.8.250:4120
 每日影院,http://ipipip/rtp/225.1.8.97:8002
-熊猫频道,http://ipipip/rtp/225.1.8.210:8068
-纪实人文,http://ipipip/rtp/225.1.8.53:8060
 聚鲨健康,http://ipipip/rtp/225.1.8.60:8002
 聚鲨健康,http://ipipip/rtp/225.1.8.94:8002
 聚鲨北京,http://ipipip/rtp/225.1.8.59:8002
@@ -148,7 +144,6 @@ CGTN,http://ipipip/rtp/225.1.8.116:8056
 聚鲨环球精选,http://ipipip/rtp/225.1.8.67:8002
 聚鲨生活,http://ipipip/rtp/225.1.8.62:8002
 聚鲨生活,http://ipipip/rtp/225.1.8.95:8002
-茶频道,http://ipipip/rtp/225.1.8.72:8002
 财富天下,http://ipipip/rtp/225.1.8.165:9136
 金鹰卡通,http://ipipip/rtp/225.1.8.163:9252
 金鹰纪实,http://ipipip/rtp/225.1.8.31:8156

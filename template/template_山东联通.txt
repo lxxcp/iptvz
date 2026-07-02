@@ -28,6 +28,7 @@ CCTV-13 新闻,http://ipipip/udp/239.253.254.63:8000
 CCTV-14 少儿,http://ipipip/udp/239.253.254.236:8000
 CCTV-15 音乐,http://ipipip/udp/239.253.254.16:8000
 CCTV-15 音乐,http://ipipip/udp/239.253.254.170:8000
+CCTV-16 奥林匹克,http://ipipip/udp/239.253.254.143:8000
 CCTV-17 农业农村,http://ipipip/udp/239.253.254.168:8000
 CCTV4K,http://ipipip/udp/239.253.254.122:8000
 CETV1,http://ipipip/udp/239.253.254.110:8000
@@ -55,7 +56,6 @@ CHC影迷电影,http://ipipip/udp/239.253.254.154:8000
 浙江卫视4K,http://ipipip/udp/239.253.254.27:8000
 深圳卫视4K,http://ipipip/udp/239.253.254.61:8000
 湖南卫视4K,http://ipipip/udp/239.253.254.28:8000
-
 三沙卫视,http://ipipip/udp/239.253.254.171:8000
 东南卫视,http://ipipip/udp/239.253.254.105:8000
 东南卫视,http://ipipip/udp/239.253.254.41:8000
@@ -156,7 +156,6 @@ CHC影迷电影,http://ipipip/udp/239.253.254.154:8000
 生态环境,http://ipipip/udp/239.253.254.75:8000
 生活时尚,http://ipipip/udp/239.253.254.99:8000
 精彩影视,http://ipipip/udp/239.253.254.142:8000
-茶频道,http://ipipip/udp/239.253.254.143:8000
 都市剧场,http://ipipip/udp/239.253.254.98:8000
 重庆汽摩,http://ipipip/udp/239.253.254.161:8000
 重温经典影视,http://ipipip/udp/239.253.254.81:8000
@@ -164,7 +163,6 @@ CHC影迷电影,http://ipipip/udp/239.253.254.154:8000
 金鹰卡通,http://ipipip/udp/239.253.254.117:8000
 金鹰卡通,http://ipipip/udp/239.253.254.134:8000
 金鹰纪实,http://ipipip/udp/239.253.254.103:8000
-
 华数,http://ipipip/udp/239.253.254.126:8000
 华数1,http://ipipip/udp/239.253.254.125:8000
 华数2,http://ipipip/udp/239.253.254.127:8000

@@ -61,6 +61,7 @@ BRTV财经,http://ipipip/rtp/239.3.1.116:8000
 延庆综合,http://ipipip/rtp/239.3.1.187:8001
 房山综合,http://ipipip/rtp/239.3.1.96:8001
 朝阳融媒,http://ipipip/rtp/239.3.1.163:8001
+平谷综合,http://ipipip/rtp/239.3.1.23:8001
 门头沟综合,http://ipipip/rtp/239.3.1.59:8001
 三沙卫视,http://ipipip/rtp/239.3.1.155:4120
 东南卫视,http://ipipip/rtp/239.3.1.156:8148
@@ -108,7 +109,6 @@ BRTV财经,http://ipipip/rtp/239.3.1.116:8000
 快乐垂钓,http://ipipip/rtp/239.3.1.164:8001
 收视指南,http://ipipip/rtp/239.3.1.193:8012
 经典电影,http://ipipip/rtp/239.3.1.195:9024
-茶频道,http://ipipip/rtp/239.3.1.165:8001
 证券服务,http://ipipip/rtp/239.3.1.24:8001
 财富天下,http://ipipip/rtp/239.3.1.53:9136
 重温经典,http://ipipip/rtp/239.3.1.25:8001
@@ -143,7 +143,6 @@ IPTV鉴赏,http://ipipip/rtp/239.3.1.82:4120
 IPTV音乐现场,http://ipipip/rtp/239.3.1.70:4120
 IPTV高网,http://ipipip/rtp/239.3.1.88:4120
 IPTV魅力时尚,http://ipipip/rtp/239.3.1.196:9012
-PRM,http://ipipip/rtp/239.3.1.23:8001
 优购物,http://ipipip/rtp/239.3.1.180:8001
 广播,http://ipipip/rtp/239.3.1.221:8001
 聚鲨环球精选,http://ipipip/rtp/239.3.1.160:8001
