@@ -26,8 +26,16 @@ jobs:
           bash ./zubo.sh
           time=$(date +%Y/%m/%d)
           echo "浙江频道 $time 更新,#genre#" > zubo.txt
-          # 合并所有txt文件（除了zubo.txt自身）
-          cat txt/*.txt >> zubo.txt
+          # 先添加浙江的源（如果存在）
+          if [ -f txt/浙江.txt ]; then
+              cat txt/浙江.txt >> zubo.txt
+          fi
+          # 再添加其他所有txt文件（排除浙江.txt，避免重复）
+          for file in txt/*.txt; do
+              if [ "$(basename "$file")" != "浙江.txt" ]; then
+                  cat "$file" >> zubo.txt
+              fi
+          done
 
       - name: 更新组播源
         run: |
