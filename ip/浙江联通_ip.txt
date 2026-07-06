@@ -1,5 +1,1 @@
-101.101.195.55:8200
-gslt.cchui.fun:7911
-bgs.cchui.fun:7911
-portainer.eversouthhangzhou.com.cn:8188
-z2m.eversouthhangzhou.com.cn:8188
+123.157.31.182:7912
