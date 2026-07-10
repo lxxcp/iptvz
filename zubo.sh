@@ -112,7 +112,7 @@ case $city_choice in
         ;;
     23)
         city="河北电信"
-        stream="rtp/239.254.200.45:8008"
+        stream="rtp/239.254.200.174:6000"
         ;;
     24)
         city="河南联通"
