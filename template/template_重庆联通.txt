@@ -187,3 +187,4 @@ IPTV足球,http://ipipip/rtp/225.0.4.167:7980
 青海卫视,http://ipipip/rtp/225.0.4.39:7980$576p
 黑龙江卫视,http://ipipip/rtp/225.0.4.201:7980$1080p
 黑龙江卫视,http://ipipip/rtp/225.0.4.23:7980$576p
+
