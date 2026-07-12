@@ -1,1 +1,3 @@
 106.8.17.2:14258
+dsm4.xlangnan.cn:8189
+emby.xlangnan.cn:10316
