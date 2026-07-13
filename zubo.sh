@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #pwd
 if [ $# -eq 0 ]; then
   echo "开始测试······"
@@ -17,6 +19,7 @@ if [ $# -eq 0 ]; then
 else
   city_choice=$1
 fi
+
 # 设置城市和相应的stream
 case $city_choice in
     1)
@@ -320,27 +323,55 @@ time=$(date +%m%d%H%M)
 ipfile=ip/${city}_ip.txt
 good_ip=ip/good_${city}_ip.txt
 result_ip=ip/result_${city}_ip.txt
+
+# 确保 ip 目录存在
+mkdir -p ip
+
 echo "======== 开始检索 ${city} ========"
 #echo "从 fofa 获取ip+端口"
 #curl -o test.html $url_fofa
 #grep -E '^\s*[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+:[0-9]+$' test.html | grep -oE '[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+:[0-9]+' > tmp_ipfile
+
 echo "从 '${ipfile}' 读取ip并添加到检测列表"
-cat $ipfile >> tmp_ipfile
-sort tmp_ipfile | uniq | sed '/^\s*$/d' > $ipfile
-rm -f tmp_ipfile
+
+# 检查源文件是否存在，不存在则创建空文件
+if [ ! -f "$ipfile" ]; then
+    touch "$ipfile"
+    echo "警告: ${ipfile} 不存在，已创建空文件"
+fi
+
+# 清理并去重
+sort "$ipfile" | uniq | sed '/^\s*$/d' > "${ipfile}.tmp"
+mv "${ipfile}.tmp" "$ipfile"
+
+# ========== 修复部分开始 ==========
+# 创建空的 good_ip 文件
+> "$good_ip"
+
+echo "开始检测 IP 可用性..."
 
 while IFS= read -r ip; do
-    # 尝试连接 IP 地址和端口号，并将输出保存到变量中
+    # 跳过空行
+    [ -z "$ip" ] && continue
+    
     tmp_ip=$(echo -n "$ip" | sed 's/:/ /')
-    output=$(nc -w 1 -v -z $tmp_ip 2>&1)
-    # 如果连接成功，且输出包含 "succeeded"，则将结果保存到输出文件中
-    if [[ $output == *"succeeded"* ]]; then
-        # 使用 awk 提取 IP 地址和端口号对应的字符串，并保存到输出文件中
-        echo "$output" | grep "succeeded" | awk -v ip="$ip" '{print ip}' >> $good_ip
+    
+    # 兼容多种 nc 输出格式
+    if nc -w 2 -v -z $tmp_ip 2>&1 | grep -qiE "succeeded|Connected|open|ready"; then
+        echo "$ip" >> "$good_ip"
     fi
-done < $ipfile
-lines=$(wc -l < $good_ip)
+done < "$ipfile"
+
+# 如果 good_ip 为空，直接使用原文件的所有 IP
+if [ ! -s "$good_ip" ]; then
+    echo "警告: NC 检测无结果，直接使用所有 IP 进行测速"
+    cp "$ipfile" "$good_ip"
+fi
+# ========== 修复部分结束 ==========
+
+lines=$(wc -l < "$good_ip")
 echo "连接成功 $lines 个,开始测速······"
+
 i=0
 while read line; do
     i=$((i + 1))
@@ -352,28 +383,51 @@ while read line; do
     echo "第$i/$lines个：$ip    $a"
     echo "$ip    $a" >> speedtest_${city}_$time.log
 done < $good_ip
-#cat $good_ip > $ipfile
-rm -rf zubo.tmp $good_ip
+
+rm -rf zubo.tmp
 
 echo "测速结果排序"
 awk '/M|k/{print $2"  "$1}' speedtest_${city}_$time.log | sort -n -r > $result_ip
 cat $result_ip
+
+# 提取前3个最快的 IP
 ip1=$(awk 'NR==1{print $2}' $result_ip)
 ip2=$(awk 'NR==2{print $2}' $result_ip)
 ip3=$(awk 'NR==3{print $2}' $result_ip)
-rm -f speedtest_${city}_$time.log $result_ip    
+
+# 如果某个 IP 为空，用默认值替代
+[ -z "$ip1" ] && ip1="0.0.0.0:0"
+[ -z "$ip2" ] && ip2="0.0.0.0:0"
+[ -z "$ip3" ] && ip3="0.0.0.0:0"
+
+rm -f speedtest_${city}_$time.log $result_ip
+
+# 确保 txt 目录存在
+mkdir -p txt
+
 # 用 3 个最快 ip 生成对应城市的 txt 文件
 program=template/template_${city}.txt
+
+# 检查模板文件是否存在
+if [ ! -f "$program" ]; then
+    echo "警告: 模板文件 $program 不存在，跳过生成"
+    exit 0
+fi
+
 sed "s/ipipip/$ip1/g" $program > tmp_1.txt
 sed "s/ipipip/$ip2/g" $program > tmp_2.txt
 sed "s/ipipip/$ip3/g" $program > tmp_3.txt
+
 echo "${city}-组播1,#genre#" > tmp_all.txt
 cat tmp_1.txt >> tmp_all.txt
 echo "${city}-组播2,#genre#" >> tmp_all.txt
 cat tmp_2.txt >> tmp_all.txt
 echo "${city}-组播3,#genre#" >> tmp_all.txt
 cat tmp_3.txt >> tmp_all.txt
+
 grep -vE '/{3}' tmp_all.txt > "txt/${city}.txt"
+
 rm -f tmp_1.txt tmp_2.txt tmp_3.txt tmp_all.txt
+
 echo "${city} 测试完成，生成可用文件：'txt/${city}.txt'"
 #--------合并所有城市的txt文件---------
