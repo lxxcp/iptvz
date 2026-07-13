@@ -4,7 +4,6 @@ BESTV,http://ipipip/rtp/233.50.200.235:5140$1080p
 BESTV,http://ipipip/rtp/233.50.200.236:5140$1080p
 BESTV,http://ipipip/rtp/233.50.200.237:5140$1080p
 BESTV,http://ipipip/rtp/233.50.200.244:5140$1080p
-BESTV,http://ipipip/rtp/233.50.200.245:5140$1080p
 BESTV,http://ipipip/rtp/233.50.200.246:5140$1080p
 BESTV,http://ipipip/rtp/233.50.200.247:5140$1080p
 BESTV,http://ipipip/rtp/233.50.200.31:5140$1080p
@@ -20,8 +19,8 @@ BESTV4K动画,http://ipipip/rtp/233.50.200.183:5140$2160p
 BESTV4K电影,http://ipipip/rtp/233.50.200.185:5140$2160p
 BESTV4K纪录,http://ipipip/rtp/233.50.200.182:5140$2160p
 BRTV卡酷少儿,http://ipipip/rtp/233.50.200.166:5140$1080p
-BRTV卡酷少儿,http://ipipip/rtp/233.50.202.33:5140
-BRTV纪实科教,http://ipipip/rtp/233.50.202.34:5140
+BRTV卡酷少儿,http://ipipip/rtp/233.50.202.33:5140$1080p
+BRTV纪实科教,http://ipipip/rtp/233.50.202.34:5140$1080p
 CCTV-1 综合,http://ipipip/rtp/233.50.200.130:5140$1080p
 CCTV-1 综合,http://ipipip/rtp/233.50.200.143:5140$1080p
 CCTV-1 综合,http://ipipip/rtp/233.50.200.176:5140$576p
@@ -96,7 +95,6 @@ CCTV-16 奥林匹克,http://ipipip/rtp/233.50.201.192:5140
 CCTV-16 奥林匹克,http://ipipip/rtp/233.50.201.63:5140
 CCTV-17 农业农村,http://ipipip/rtp/233.50.200.113:5140$1080p
 CCTV-17 农业农村,http://ipipip/rtp/233.50.201.35:5140
-CCTV-17 农业农村,http://ipipip/rtp/233.50.201.36:5140
 CCTV4K,http://ipipip/rtp/233.50.201.226:5140
 CETV1,http://ipipip/rtp/233.50.200.169:5140$1080p
 CETV1,http://ipipip/rtp/233.50.201.75:5140
@@ -106,11 +104,12 @@ CETV4,http://ipipip/rtp/233.50.200.174:5140$1080p
 CETV4,http://ipipip/rtp/233.50.201.172:5140$576p
 CGTN,http://ipipip/rtp/233.50.200.84:5140$576p
 CGTN,http://ipipip/rtp/233.50.201.126:5140$576p
-CGTN俄语,http://ipipip/rtp/233.50.201.39:5140
+CGTN西语,http://ipipip/rtp/233.50.201.36:5140
 CGTN法语,http://ipipip/rtp/233.50.201.37:5140
 CGTN阿语,http://ipipip/rtp/233.50.201.38:5140
-凤凰中文,http://ipipip/rtp/233.50.202.35:5140
-凤凰资讯,http://ipipip/rtp/233.50.202.36:5140
+CGTN俄语,http://ipipip/rtp/233.50.201.39:5140
+凤凰中文,http://ipipip/rtp/233.50.202.35:5140$1080p
+凤凰资讯,http://ipipip/rtp/233.50.202.36:5140$1080p
 东方卫视4K,http://ipipip/rtp/233.50.202.105:5140
 北京卫视4K,http://ipipip/rtp/233.50.202.100:5140
 四川卫视4K,http://ipipip/rtp/233.50.202.109:5140
@@ -285,16 +284,21 @@ CGTN阿语,http://ipipip/rtp/233.50.201.38:5140
 宁波影视剧,http://ipipip/rtp/233.50.201.180:5140$1080p
 宁波影视剧,http://ipipip/rtp/233.50.200.29:5140$576p
 宁波影视剧,http://ipipip/rtp/233.50.201.154:5140$576p
-嘉兴新闻综合,http://ipipip/rtp/233.50.201.163:5140$576p
 温州新闻综合,http://ipipip/rtp/233.50.201.87:5140
-丽水新闻综合,http://ipipip/rtp/233.50.201.162:5140$576p
+温州经济科技,http://ipipip/rtp/233.50.202.23:5140
+温州都市生活,http://ipipip/rtp/233.50.202.24:5140
 余姚新闻综合,http://ipipip/rtp/233.50.201.87:5140
 余杭综合,http://ipipip/rtp/233.50.201.159:5140$576p
-桐乡新闻综合,http://ipipip/rtp/233.50.201.169:5140$576p
-湖州新闻综合,http://ipipip/rtp/233.50.201.158:5140$576p
-衢州新闻综合,http://ipipip/rtp/233.50.202.11:5140
-衢州公共,http://ipipip/rtp/233.50.202.12:5140
+临平新闻,http://ipipip/rtp/233.50.202.32:5140$576p
 绍兴新闻综合,http://ipipip/rtp/233.50.201.156:5140$576p
+湖州新闻综合,http://ipipip/rtp/233.50.201.158:5140$576p
+金华新闻综合,http://ipipip/rtp/233.50.201.161:5140$576p
+丽水新闻综合,http://ipipip/rtp/233.50.201.162:5140$576p
+嘉兴新闻综合,http://ipipip/rtp/233.50.201.163:5140$576p
+桐乡新闻综合,http://ipipip/rtp/233.50.201.169:5140$576p
+衢州新闻综合,http://ipipip/rtp/233.50.202.11:5140$1080p
+衢州公共,http://ipipip/rtp/233.50.202.12:5140$1080p
+睛彩竞技,http://ipipip/rtp/233.50.200.245:5140$1080p
 睛彩广场舞蹈,http://ipipip/rtp/233.50.202.29:5140
 睛彩竞技,http://ipipip/rtp/233.50.202.26:5140
 睛彩篮球,http://ipipip/rtp/233.50.202.27:5140
@@ -302,35 +306,32 @@ CGTN阿语,http://ipipip/rtp/233.50.201.38:5140
 东方财经,http://ipipip/rtp/233.50.200.177:5140$1080p
 东方财经,http://ipipip/rtp/233.50.201.128:5140$1080p
 第一财经,http://ipipip/rtp/233.50.200.125:5140$1080p
-乐游,http://ipipip/rtp/233.50.200.148:5140$1080p
-乐游,http://ipipip/rtp/233.50.201.185:5140
-动漫秀场,http://ipipip/rtp/233.50.200.12:5140$1080p
-动漫秀场,http://ipipip/rtp/233.50.201.184:5140
 快乐垂钓,http://ipipip/rtp/233.50.200.123:5140$1080p
-快乐垂钓,http://ipipip/rtp/233.50.201.109:5140
-欢笑剧场,http://ipipip/rtp/233.50.200.229:5140$1080p
-欢笑剧场,http://ipipip/rtp/233.50.200.52:5140$2160p
-欢笑剧场,http://ipipip/rtp/233.50.201.189:5140
+快乐垂钓,http://ipipip/rtp/233.50.201.109:5140$1080p
+多彩文体,http://ipipip/rtp/233.50.200.229:5140$1080p
+多彩文体,http://ipipip/rtp/233.50.200.52:5140$2160p
+多彩文体,http://ipipip/rtp/233.50.201.189:5140$2160p
+都市剧场,http://ipipip/rtp/233.50.200.11:5140$1080p
+都市剧场,http://ipipip/rtp/233.50.201.190:5140$1080p
 法治天地,http://ipipip/rtp/233.50.200.120:5140$1080p
-法治天地,http://ipipip/rtp/233.50.201.191:5140
+法治天地,http://ipipip/rtp/233.50.201.191:5140$1080p
+动漫秀场,http://ipipip/rtp/233.50.200.12:5140$1080p
+动漫秀场,http://ipipip/rtp/233.50.201.184:5140$1080p
 游戏风云,http://ipipip/rtp/233.50.200.14:5140$1080p
-游戏风云,http://ipipip/rtp/233.50.201.183:5140
+游戏风云,http://ipipip/rtp/233.50.201.183:5140$1080p
+乐游,http://ipipip/rtp/233.50.200.148:5140$1080p
+乐游,http://ipipip/rtp/233.50.201.185:5140$1080p
+金色学堂,http://ipipip/rtp/233.50.200.122:5140$1080p
+金色学堂,http://ipipip/rtp/233.50.201.186:5140$1080p
+生活时尚,http://ipipip/rtp/233.50.200.15:5140$1080p
+生活时尚,http://ipipip/rtp/233.50.201.187:5140$1080p
 环球旅游,http://ipipip/rtp/233.50.202.31:5140
 生态环境,http://ipipip/rtp/233.50.202.103:5140
 生态环境,http://ipipip/rtp/233.50.202.37:5140
-生活时尚,http://ipipip/rtp/233.50.200.15:5140$1080p
-生活时尚,http://ipipip/rtp/233.50.201.187:5140
 电影,http://ipipip/rtp/233.50.201.108:5140
 电影-科幻,http://ipipip/rtp/233.50.201.20:5140$576p
-茶频道,http://ipipip/rtp/233.50.200.124:5140$1080p
-茶频道,http://ipipip/rtp/233.50.201.188:5140
-都市剧场,http://ipipip/rtp/233.50.200.11:5140$1080p
-都市剧场,http://ipipip/rtp/233.50.201.190:5140
-金华新闻综合,http://ipipip/rtp/233.50.201.161:5140$576p
-金色学堂,http://ipipip/rtp/233.50.200.122:5140$1080p
-金色学堂,http://ipipip/rtp/233.50.201.186:5140
 金鹰卡通,http://ipipip/rtp/233.50.200.138:5140$576p
-金鹰卡通,http://ipipip/rtp/233.50.201.73:5140
+金鹰卡通,http://ipipip/rtp/233.50.201.73:5140$576p
 聚鲨环球精选,http://ipipip/rtp/233.50.201.91:5140
 购物,http://ipipip/rtp/233.50.200.34:5140$576p
 优购物,http://ipipip/rtp/233.50.200.53:5140$576p
@@ -339,12 +340,12 @@ CGTN阿语,http://ipipip/rtp/233.50.201.38:5140
 咪咕视频,http://ipipip/rtp/233.50.201.195:5140
 机动车标识,http://ipipip/rtp/233.50.201.224:5140
 机动车标识,http://ipipip/rtp/233.50.201.225:5140
-广播,http://ipipip/rtp/233.50.201.79:5140
-广播,http://ipipip/rtp/233.50.201.80:5140
-广播,http://ipipip/rtp/233.50.201.81:5140
-广播,http://ipipip/rtp/233.50.201.82:5140
-广播,http://ipipip/rtp/233.50.201.83:5140
-广播,http://ipipip/rtp/233.50.201.84:5140
-广播,http://ipipip/rtp/233.50.201.85:5140
-广播,http://ipipip/rtp/233.50.201.86:5140
+浙江之声广播,http://ipipip/rtp/233.50.201.79:5140
+浙江新闻广播,http://ipipip/rtp/233.50.201.80:5140
+浙江经济广播,http://ipipip/rtp/233.50.201.81:5140
+浙江音乐调频,http://ipipip/rtp/233.50.201.82:5140
+浙江交通之声,http://ipipip/rtp/233.50.201.83:5140
+浙江旅游之声,http://ipipip/rtp/233.50.201.84:5140
+浙江城市之声,http://ipipip/rtp/233.50.201.85:5140
+浙江民生资讯广播,http://ipipip/rtp/233.50.201.86:5140
 
