@@ -50,6 +50,7 @@ CCTV-5 体育,http://ipipip/udp/233.50.200.108:5140$1080p
 CCTV-5 体育,http://ipipip/udp/233.50.201.17:5140$576p
 CCTV-5 体育,http://ipipip/udp/233.50.201.197:5140
 CCTV-5 体育,http://ipipip/udp/233.50.201.227:5140
+CCTV-5 体育,http://ipipip/udp/233.50.201.108:5140
 CCTV-5+ 体育赛事,http://ipipip/udp/233.50.201.220:5140
 CCTV-6 电影,http://ipipip/udp/233.50.200.109:5140$1080p
 CCTV-6 电影,http://ipipip/udp/233.50.201.18:5140$576p
@@ -241,7 +242,7 @@ CGTN俄语,http://ipipip/udp/233.50.201.39:5140
 浙江新闻,http://ipipip/udp/233.50.200.207:5140$576p
 浙江新闻,http://ipipip/udp/233.50.201.137:5140
 浙江新闻,http://ipipip/udp/233.50.201.34:5140
-浙江民生,http://ipipip/udp/233.50.201.136:5140
+浙江民生休闲,http://ipipip/udp/233.50.201.136:5140
 浙江民生休闲,http://ipipip/udp/233.50.200.206:5140$576p
 浙江民生休闲,http://ipipip/udp/233.50.201.32:5140
 浙江教科影视,http://ipipip/udp/233.50.201.134:5140
@@ -299,7 +300,7 @@ CGTN俄语,http://ipipip/udp/233.50.201.39:5140
 衢州新闻综合,http://ipipip/udp/233.50.202.11:5140$1080p
 衢州公共,http://ipipip/udp/233.50.202.12:5140$1080p
 睛彩竞技,http://ipipip/udp/233.50.200.245:5140$1080p
-睛彩广场舞蹈,http://ipipip/udp/233.50.202.29:5140
+睛彩广场舞,http://ipipip/udp/233.50.202.29:5140
 睛彩竞技,http://ipipip/udp/233.50.202.26:5140
 睛彩篮球,http://ipipip/udp/233.50.202.27:5140
 睛彩青少,http://ipipip/udp/233.50.202.28:5140
@@ -328,7 +329,6 @@ CGTN俄语,http://ipipip/udp/233.50.201.39:5140
 环球旅游,http://ipipip/udp/233.50.202.31:5140
 生态环境,http://ipipip/udp/233.50.202.103:5140
 生态环境,http://ipipip/udp/233.50.202.37:5140
-电影,http://ipipip/udp/233.50.201.108:5140
 电影-科幻,http://ipipip/udp/233.50.201.20:5140$576p
 金鹰卡通,http://ipipip/udp/233.50.200.138:5140$576p
 金鹰卡通,http://ipipip/udp/233.50.201.73:5140$576p
