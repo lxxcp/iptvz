@@ -21,7 +21,7 @@ fi
 case $city_choice in
     1)
         city="浙江电信"
-        stream="rtp/233.50.201.118:5140"
+        stream="udp/233.50.201.100:5140"
         url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiByZWdpb249Iua1meaxnyIgJiYgb3JnPSJDaGluYW5ldCIgJiYgcHJvdG9jb2w9Imh0dHAi&page=1&page_size=20"
         ;;
     2)
