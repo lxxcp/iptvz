@@ -20,6 +20,8 @@ CCTV-4 中文国际,http://ipipip/udp/239.77.0.33:5146$576p
 CCTV-4 中文国际,http://ipipip/udp/239.77.0.78:5146$1080p
 CCTV-4 中文国际,http://ipipip/udp/239.77.1.163:5146
 CCTV-4 中文国际,http://ipipip/udp/239.77.1.166:5146
+CCTV-4 欧洲,http://ipipip/udp/239.253.43.120:5146
+CCTV-4 美洲,http://ipipip/udp/239.253.43.121:5146$1080p
 CCTV-5 体育 ,http://ipipip/udp/239.77.0.176:5146$1080p
 CCTV-5 体育 ,http://ipipip/udp/239.77.0.177:5146$1080p
 CCTV-5 体育,http://ipipip/udp/239.77.0.108:5146$1080p
@@ -72,13 +74,13 @@ CCTV-16 奥林匹克,http://ipipip/udp/239.77.0.165:5146$1080p
 CCTV-16 奥林匹克,http://ipipip/udp/239.77.0.218:5146$2160p
 CCTV-16 奥林匹克,http://ipipip/udp/239.77.1.76:5146
 CCTV-16 奥林匹克,http://ipipip/udp/239.77.1.98:5146
+CCTV-16 奥林匹克,http://ipipip/udp/239.77.0.18:5146
 CCTV-17 农业农村,http://ipipip/udp/239.77.0.115:5146$576p
 CCTV-17 农业农村,http://ipipip/udp/239.77.0.198:5146$1080p
 CCTV-17 农业农村,http://ipipip/udp/239.77.1.121:5146
 CCTV4K,http://ipipip/udp/239.77.0.174:5146
 CCTV4K,http://ipipip/udp/239.77.0.194:5146$2160p
 CCTV4K,http://ipipip/udp/239.77.1.180:5146
-CCTV4美洲,http://ipipip/udp/239.253.43.121:5146$1080p
 CCTV世界地理,http://ipipip/udp/239.253.43.24:5146$1080p
 CCTV兵器科技,http://ipipip/udp/239.253.43.18:5146$1080p
 CCTV兵器科技,http://ipipip/udp/239.253.43.19:5146$1080p
@@ -277,13 +279,11 @@ IPTV谍战剧场,http://ipipip/udp/239.77.0.99:5146$1080p
 广东影视,http://ipipip/udp/239.77.0.217:5146$1080p
 广东新闻,http://ipipip/udp/239.77.0.173:5146$1080p
 广东民生,http://ipipip/udp/239.77.0.225:5146$1080p
-广东现代教育,http://ipipip/udp/239.77.0.18:5146
-广东现代教育,http://ipipip/udp/239.77.0.213:5146$1080p
 广东珠江,http://ipipip/udp/239.77.0.114:5146
 广东珠江,http://ipipip/udp/239.77.0.114:5146$1080p
 广东珠江,http://ipipip/udp/239.77.0.1:5146
 广东珠江,http://ipipip/udp/239.77.1.94:5146
-广东移动电视,http://ipipip/udp/239.77.0.20:5146$576p
+广东移动,http://ipipip/udp/239.77.0.20:5146$576p
 广东经济科教,http://ipipip/udp/239.77.0.167:5146$1080p
 广东经济科教,http://ipipip/udp/239.77.0.85:5146$1080p
 嘉佳卡通,http://ipipip/udp/239.77.0.13:5146
@@ -307,27 +307,23 @@ IPTV谍战剧场,http://ipipip/udp/239.77.0.99:5146$1080p
 深圳卫视,http://ipipip/udp/239.77.1.148:5146
 深圳卫视,http://ipipip/udp/239.77.1.21:5146
 深圳卫视,http://ipipip/udp/239.77.1.3:5146
-深圳体育健康,http://ipipip/udp/239.77.1.128:5146
-深圳体育健康,http://ipipip/udp/239.77.1.140:5146
 深圳公共,http://ipipip/udp/239.77.1.126:5146
 深圳公共,http://ipipip/udp/239.77.1.178:5146
 深圳公共,http://ipipip/udp/239.77.1.9:5146
 深圳宜和购物,http://ipipip/udp/239.77.1.39:5146
 深圳宜和购物,http://ipipip/udp/239.77.1.87:5146
-深圳宝安,http://ipipip/udp/239.77.1.206:5146
-深圳宝安,http://ipipip/udp/239.77.1.67:5146
 深圳少儿,http://ipipip/udp/239.77.1.244:5146
 深圳少儿,http://ipipip/udp/239.77.1.38:5146
 深圳电视剧,http://ipipip/udp/239.77.1.125:5146
 深圳电视剧,http://ipipip/udp/239.77.1.177:5146
 深圳电视剧,http://ipipip/udp/239.77.1.7:5146
 深圳移动电视,http://ipipip/udp/239.77.1.175:5146
-深圳财经生活,http://ipipip/udp/239.77.1.22:5146
-深圳财经生活,http://ipipip/udp/239.77.1.242:5146
 深圳都市,http://ipipip/udp/239.77.1.124:5146
 深圳都市,http://ipipip/udp/239.77.1.176:5146
 深圳都市,http://ipipip/udp/239.77.1.34:5146
 深圳龙岗,http://ipipip/udp/239.77.1.223:5146
+深圳宝安,http://ipipip/udp/239.77.1.206:5146
+深圳宝安,http://ipipip/udp/239.77.1.67:5146
 东莞新闻综合,http://ipipip/udp/239.253.43.102:5146
 东莞新闻综合,http://ipipip/udp/239.253.43.104:5146
 东莞生活资讯,http://ipipip/udp/239.253.43.103:5146
@@ -335,12 +331,8 @@ IPTV谍战剧场,http://ipipip/udp/239.77.0.99:5146$1080p
 中山综合,http://ipipip/udp/239.253.43.59:5146
 中山综合,http://ipipip/udp/239.253.43.62:5146$480p
 中山综合,http://ipipip/udp/239.77.0.185:5146$1080p
-中山香山文化,http://ipipip/udp/239.253.43.60:5146
-中山香山文化,http://ipipip/udp/239.253.43.63:5146$480p
 云浮综合,http://ipipip/udp/239.253.43.195:5146
 云浮综合,http://ipipip/udp/239.77.0.253:5146$1080p
-云浮文旅,http://ipipip/udp/239.253.43.194:5146
-云浮文旅,http://ipipip/udp/239.77.0.254:5146$1080p
 佛山综合,http://ipipip/udp/239.253.43.52:5146
 佛山综合,http://ipipip/udp/239.253.43.57:5146
 佛山公共,http://ipipip/udp/239.253.43.48:5146
@@ -359,8 +351,6 @@ IPTV谍战剧场,http://ipipip/udp/239.77.0.99:5146$1080p
 惠州都市生活,http://ipipip/udp/239.77.1.233:5146
 揭阳综合,http://ipipip/udp/239.77.0.157:5146
 揭阳综合,http://ipipip/udp/239.77.0.229:5146$1080p
-揭阳生活,http://ipipip/udp/239.77.0.158:5146
-揭阳生活,http://ipipip/udp/239.77.0.251:5146$1080p
 梅州综合,http://ipipip/rtp/239.253.43.123:5146
 梅州客家生活,http://ipipip/udp/239.253.43.124:5146
 汕头综合,http://ipipip/udp/239.253.43.30:5146
@@ -369,10 +359,8 @@ IPTV谍战剧场,http://ipipip/udp/239.77.0.99:5146$1080p
 汕头经济生活,http://ipipip/udp/239.253.43.43:5146
 汕头经济生活,http://ipipip/udp/239.253.43.46:5146$1080p
 汕头经济生活,http://ipipip/udp/239.77.1.131:5146
-汕尾新闻综合,http://ipipip/udp/239.77.0.25:5146$1080p
-汕尾新闻综合,http://ipipip/udp/239.77.1.189:5146
-汕尾文化生活,http://ipipip/udp/239.77.0.187:5146$1080p
-汕尾文化生活,http://ipipip/udp/239.77.1.190:5146
+汕尾综合,http://ipipip/udp/239.77.0.25:5146$1080p
+汕尾综合,http://ipipip/udp/239.77.1.189:5146
 江门综合,http://ipipip/udp/239.77.0.201:5146$1080p
 江门综合,http://ipipip/udp/239.77.0.195:5146
 河源综合,http://ipipip/udp/239.253.43.213:5146$480p
@@ -383,8 +371,6 @@ IPTV谍战剧场,http://ipipip/udp/239.77.0.99:5146$1080p
 清远新闻综合,http://ipipip/udp/239.253.43.33:5146$1080p
 湛江新闻综合,http://ipipip/udp/239.77.0.120:5146
 湛江新闻综合,http://ipipip/udp/239.77.0.141:5146$1080p
-湛江公共,http://ipipip/udp/239.77.0.121:5146
-湛江公共,http://ipipip/udp/239.77.0.140:5146$1080p
 潮州民生,http://ipipip/udp/239.253.43.75:5146$1080p
 珠海新闻综合,http://ipipip/udp/239.77.0.155:5146$1080p
 珠海新闻综合,http://ipipip/udp/239.77.1.230:5146
@@ -397,7 +383,6 @@ IPTV谍战剧场,http://ipipip/udp/239.77.0.99:5146$1080p
 茂名文化生活,http://ipipip/udp/239.77.0.207:5146$1080p
 茂名文化生活,http://ipipip/udp/239.77.0.205:5146
 阳江综合,http://ipipip/udp/239.253.43.82:5146$1080p
-阳江生活,http://ipipip/udp/239.253.43.83:5146$1080p
 韶关新闻综合,http://ipipip/udp/239.77.0.116:5146
 韶关新闻综合,http://ipipip/udp/239.77.0.117:5146$1080p
 
@@ -448,25 +433,16 @@ IPTV谍战剧场,http://ipipip/udp/239.77.0.99:5146$1080p
 广播,http://ipipip/udp/239.77.1.36:5146
 广播,http://ipipip/udp/239.77.1.91:5146
 广播,http://ipipip/udp/239.77.1.96:5146
-广视课堂 初一,http://ipipip/udp/239.253.43.89:5146
-广视课堂 初三,http://ipipip/udp/239.253.43.91:5146
-广视课堂 初二,http://ipipip/udp/239.253.43.90:5146
-广视课堂 小学一,http://ipipip/udp/239.253.43.76:5146
-广视课堂 小学三,http://ipipip/udp/239.253.43.78:5146
-广视课堂 小学二,http://ipipip/udp/239.253.43.77:5146
-广视课堂 小学五,http://ipipip/udp/239.253.43.80:5146
-广视课堂 小学六,http://ipipip/udp/239.253.43.81:5146
-广视课堂 小学四,http://ipipip/udp/239.253.43.79:5146
-广视课堂 高一,http://ipipip/udp/239.253.43.92:5146
-广视课堂 高二,http://ipipip/udp/239.253.43.93:5146
 快乐垂钓,http://ipipip/udp/239.77.0.145:5146$1080p
 求索纪录,http://ipipip/udp/239.77.0.21:5146$1080p
-测试,http://ipipip/udp/239.253.43.165:5146$576p
+EBU,http://ipipip/udp/239.253.43.165:5146$576p
 环球奇观,http://ipipip/udp/239.253.43.126:5146
 环球奇观,http://ipipip/udp/239.77.1.198:5146
 睛彩广场舞,http://ipipip/udp/239.77.1.23:5146
 睛彩竞技,http://ipipip/udp/239.77.1.20:5146
-茶频道,http://ipipip/udp/239.77.0.15:5146$1080p
+睛彩篮球,http://ipipip/udp/239.77.1.22:5146
+睛彩青少,http://ipipip/udp/239.77.1.21:5146
+嘉佳卡通,http://ipipip/udp/239.77.0.15:5146$1080p
 重庆汽摩,http://ipipip/udp/239.77.0.209:5146$576p
 重庆汽摩,http://ipipip/udp/239.77.1.205:5146
 金鹰卡通,http://ipipip/udp/239.77.0.164:5146$1080p
