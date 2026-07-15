@@ -240,7 +240,7 @@ CCTV4K,http://ipipip/rtp/239.16.11.1:2000$2160p
 濮阳公共,http://ipipip/rtp/239.16.20.184:11840
 灵宝综合,http://ipipip/rtp/239.16.20.59:10590
 焦作综合,http://ipipip/rtp/239.16.20.140:11400
-焦作公共,http://ipipip/rtp/239.16.20.155:11550
+焦作文旅,http://ipipip/rtp/239.16.20.155:11550
 沈丘综合,http://ipipip/rtp/239.16.10.146:2000$576p
 泌阳新闻综合,http://ipipip/rtp/239.16.10.195:2000$576p
 登封综合,http://ipipip/rtp/239.16.10.32:2000$1080p
