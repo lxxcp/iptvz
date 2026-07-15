@@ -3,3 +3,10 @@
 116.75.142.0:8686
 124.67.68.139:4022
 www.pve.onetopcloud.com:16666
+dabaoerbao2021.myds.me:9999
+vpn.zhangzp.top:4022
+tv.zhangzp.top:4022
+110.19.209.61:5999
+a.zhangzp.top:4022
+116.116.118.22:9999
+

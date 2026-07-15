@@ -268,7 +268,6 @@ CGTN阿语,http://ipipip/rtp/239.253.93.198:6376
 金鹰纪实,http://ipipip/rtp/239.253.92.103:6054
 北京卫视4K,http://ipipip/rtp/239.253.92.116:6029
 CCTV-3 综艺,http://ipipip/rtp/239.253.92.21:6226
-临时直播3,http://ipipip/rtp/239.253.92.216:6227
 CCTV4K,http://ipipip/rtp/239.253.92.219:6228
 湖南卫视4K,http://ipipip/rtp/239.253.92.220:6229
 河北文旅体育,http://ipipip/rtp/239.253.94.1:6600

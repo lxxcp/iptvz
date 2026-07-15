@@ -86,7 +86,7 @@ CHC影迷电影,http://ipipip/rtp/239.120.1.111:8254
 金鹰卡通,http://ipipip/rtp/239.120.1.139:8892
 金鹰纪实,http://ipipip/rtp/239.120.1.73:8412
 BRTV卡酷少儿,http://ipipip/rtp/239.120.1.138:8886
-求索记录,http://ipipip/rtp/239.120.1.89:9834
+求索纪录,http://ipipip/rtp/239.120.1.89:9834
 精彩影视,http://ipipip/rtp/239.120.1.101:9838
 嘉佳卡通,http://ipipip/rtp/239.120.1.108:8640
 久治,http://ipipip/rtp/239.120.1.34:9534
