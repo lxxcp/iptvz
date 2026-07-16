@@ -24,7 +24,8 @@ jobs:
         run: |
           cd $GITHUB_WORKSPACE
           bash ./zubo.sh
-          time=$(date +%Y/%m/%d)
+          # 修改时间格式，加上时分秒
+          time=$(date +"%Y/%m/%d %H:%M:%S")
           echo "浙江频道 $time 更新,#genre#" > zubo.txt
           # 先添加浙江的源（如果存在）
           if [ -f txt/浙江.txt ]; then
