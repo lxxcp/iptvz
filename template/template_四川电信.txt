@@ -22,12 +22,10 @@
 自贡综合,http://ipipip/udp/239.94.0.169:5140
 自贡文化生活,http://ipipip/udp/239.94.0.178:5140
 眉山综合,http://ipipip/udp/239.94.0.170:5140
-眉山文旅乡村,http://ipipip/udp/239.94.0.174:5140
 泸州新闻综合,http://ipipip/udp/239.94.0.163:5140
 泸州科教生活,http://ipipip/udp/239.94.0.182:5140
 攀枝花新闻综合,http://ipipip/udp/239.94.0.168:5140
 德阳新闻综合,http://ipipip/udp/239.94.0.176:5140
-德阳文旅科教,http://ipipip/udp/239.94.0.165:5140
 广元综合,http://ipipip/udp/239.94.0.167:5140
 广元文化生活,http://ipipip/udp/239.94.0.179:5140
 宜宾新闻综合,http://ipipip/udp/239.94.0.161:5140
