@@ -52,7 +52,16 @@ CETV早期教育,http://ipipip/rtp/226.0.2.99:8704
 CHC动作电影,http://ipipip/rtp/226.0.2.94:8012
 CHC家庭影院,http://ipipip/rtp/226.0.2.240:9820
 CHC影迷电影,http://ipipip/rtp/226.0.2.93:8004
-IPTV国学,http://ipipip/rtp/226.0.2.116:8840
+CCTV4K,http://ipipip/rtp/226.0.1.242:2127
+广东卫视4k,http://ipipip/rtp/226.0.1.245:2120
+深圳卫视4K,http://ipipip/rtp/226.0.1.244:2119
+北京卫视4K,http://ipipip/rtp/226.0.1.243:2118
+湖南卫视4K,http://ipipip/rtp/226.0.1.246:2125
+浙江卫视4K,http://ipipip/rtp/226.0.1.247:2123
+东方卫视4K,http://ipipip/rtp/226.0.1.248:2121
+江苏卫视4K,http://ipipip/rtp/226.0.1.249:2122
+四川卫视4K,http://ipipip/rtp/226.0.1.250:2126
+山东卫视4K,http://ipipip/rtp/226.0.1.251:2124
 东南卫视,http://ipipip/rtp/226.0.2.188:9416
 东南卫视,http://ipipip/rtp/226.0.2.40:8232
 东方卫视,http://ipipip/rtp/226.0.2.175:9312
@@ -178,3 +187,4 @@ IPTV国学,http://ipipip/rtp/226.0.2.116:8840
 黄河卫视,http://ipipip/rtp/226.0.2.235:9792
 黑龙江卫视,http://ipipip/rtp/226.0.2.151:9120
 黑龙江卫视,http://ipipip/rtp/226.0.2.48:8296
+国学频道,http://ipipip/rtp/226.0.2.116:8840
