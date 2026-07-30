@@ -197,7 +197,7 @@ CHC影迷电影,http://ipipip/udp/225.1.1.214:5002$1080p
 天下足球,http://ipipip/udp/225.1.1.105:5002$576p
 导播,http://ipipip/udp/225.1.1.78:5002$576p
 导播,http://ipipip/udp/225.1.1.79:5002$1080p
-山东教音,http://ipipip/udp/225.1.1.152:5002$1080p
+山东教育,http://ipipip/udp/225.1.1.152:5002$1080p
 快乐垂钓,http://ipipip/udp/225.1.2.18:5002$1080p
 快乐垂钓,http://ipipip/udp/225.1.2.20:5002$576p
 快乐购,http://ipipip/udp/225.1.2.24:5002$576p
