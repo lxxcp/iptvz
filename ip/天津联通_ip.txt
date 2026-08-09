@@ -1,1 +1,8 @@
 117.8.142.97:4022
+125.37.56.24:8788
+60.30.67.44:8834
+60.30.67.45:8834
+wangting.store:8834
+mail.hanxucloud.cn:4022
+web.hanxucloud.com:4022
+home.techua.net:8000
