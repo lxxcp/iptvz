@@ -1,7 +1,2 @@
 114.97.208.204:8888
 114.97.215.254:8888
-chengzhiming.f3322.net:4000
-hsza.f3322.net:4000
-marcvision.xyz:8000
-www.98-2.top:5800
-www.marcvision.xyz:8000
