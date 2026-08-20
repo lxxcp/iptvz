@@ -383,10 +383,10 @@ CGTN西语,http://ipipip/rtp/238.125.6.4:5140$576p
 墨玉电视台,http://ipipip/rtp/238.125.2.135:5140$1080p
 轮台电视台,http://ipipip/rtp/238.125.3.220:5140$576p
 轮台电视台,http://ipipip/rtp/238.125.7.101:5140$576p
-aTS-1,http://ipipip/rtp/238.125.2.128:5140$576p
-aTS-1,http://ipipip/rtp/238.125.7.231:5140$576p
-aTS-2,http://ipipip/rtp/238.125.2.127:5140$576p
-aTS-2,http://ipipip/rtp/238.125.7.232:5140$576p
+策勒1,http://ipipip/rtp/238.125.2.128:5140$576p
+策勒1,http://ipipip/rtp/238.125.7.231:5140$576p
+策勒2,http://ipipip/rtp/238.125.2.127:5140$576p
+策勒2,http://ipipip/rtp/238.125.7.232:5140$576p
 且末1,http://ipipip/rtp/238.125.3.241:5140$1080p
 且末2,http://ipipip/rtp/238.125.3.242:5140$1080p
 且末2,http://ipipip/rtp/238.125.7.184:5140$1080p
