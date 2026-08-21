@@ -1,3 +1,2 @@
 113.106.171.234:8899
 gzgxzm.dpdns.org:10086
-gzgxzm.dpdns.org:10086
