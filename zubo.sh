@@ -60,7 +60,7 @@ case $city_choice in
         ;;
     10)
         city="四川电信"
-        stream="udp/239.93.0.169:5140"
+        stream="rtp/239.94.0.11:5140"
         ;;
     11)
         city="山东电信"
