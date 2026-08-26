@@ -48,7 +48,7 @@
 河西综合,http://ipipip/udp/225.1.2.4:5002$576p
 滨海新闻综合,http://ipipip/udp/225.1.2.7:5002$576p
 滨海生活,http://ipipip/udp/225.1.2.8:5002$576p
-大港油田企业,http://ipipip/udp/225.1.2.14:5002
+大港油田企业,http://ipipip/udp/225.1.2.14:5002$1080p
 CCTV-1 综合,http://ipipip/udp/225.1.1.120:5002$1080p
 CCTV-1 综合,http://ipipip/udp/225.1.1.12:5002$576p
 CCTV-1 综合,http://ipipip/udp/225.1.1.96:5002$1080p
@@ -122,6 +122,7 @@ CHC影迷电影,http://ipipip/udp/225.1.1.214:5002$1080p
 广东卫视4K,http://ipipip/udp/225.1.2.100:5002$2160p
 广东卫视4K,http://ipipip/udp/225.1.2.206:5002$2160p
 浙江卫视4K,http://ipipip/udp/225.1.2.109:5002$2160p
+江苏卫视4K,http://ipipip/udp/225.1.2.107:5002$2160p
 深圳卫视4K,http://ipipip/udp/225.1.2.101:5002$2160p
 湖南卫视4K,http://ipipip/udp/225.1.2.110:5002$2160p
 三沙卫视,http://ipipip/udp/225.1.1.182:5002$1080p
@@ -192,7 +193,6 @@ BRTV纪实科教,http://ipipip/udp/225.1.2.30:5002$1080p
 乐游,http://ipipip/udp/225.1.1.145:5002$1080p
 乐游,http://ipipip/udp/225.1.1.74:5002$576p
 书画,http://ipipip/udp/225.1.2.22:5002$576p
-企业频道,http://ipipip/udp/225.1.2.14:5002$1080p
 优优宝贝,http://ipipip/udp/225.1.2.203:5002$576p
 动漫秀场,http://ipipip/udp/225.1.1.134:5002$1080p
 动漫秀场,http://ipipip/udp/225.1.1.67:5002$576p
@@ -230,7 +230,7 @@ FTV足球,http://ipipip/udp/225.1.1.105:5002$576p
 金色学堂,http://ipipip/udp/225.1.1.85:5002$576p
 金鹰卡通,http://ipipip/udp/225.1.2.236:5002$1080p
 金鹰纪实,http://ipipip/udp/225.1.1.124:5002$1080p
-三佳购物,http://ipipip/udp/225.1.1.157:5002$1080p
+天津三佳购物,http://ipipip/udp/225.1.1.157:5002$1080p
 东方购物,http://ipipip/udp/225.1.1.170:5002$1080p
 东方购物,http://ipipip/udp/225.1.1.181:5002$1080p
 优购物,http://ipipip/udp/225.1.1.162:5002$576p
@@ -255,6 +255,4 @@ FTV足球,http://ipipip/udp/225.1.1.105:5002$576p
 家居,http://ipipip/udp/225.1.1.243:5002$1080p
 家有购物,http://ipipip/udp/225.1.1.226:5002$576p
 家有购物,http://ipipip/udp/225.1.2.58:5002$1080p
-广播,http://ipipip/udp/225.1.2.107:5002$2160p
-无画面,http://ipipip/udp/225.1.2.190:5002$1080p
 
