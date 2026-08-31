@@ -117,8 +117,6 @@ CCTV-15 音乐,http://ipipip/rtp/239.94.0.15:5140$1080p
 CCTV-15 音乐,http://ipipip/rtp/239.94.0.38:5140$1080p
 CCTV-17 农业农村,http://ipipip/rtp/239.94.0.17:5140$1080p
 CCTV-17 农业农村,http://ipipip/rtp/239.94.0.39:5140$1080p
-
-170,http://ipipip/rtp/239.94.1.170:5140
 4K乐享,http://ipipip/rtp/239.94.1.162:5140
 4K乐享,http://ipipip/rtp/239.94.1.164:5140$1080p
 4K少儿,http://ipipip/rtp/239.94.1.70:5140

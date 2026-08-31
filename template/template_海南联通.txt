@@ -25,6 +25,10 @@ CCTV-14 少儿,http://ipipip/rtp/239.254.96.129:7132
 CCTV-15 音乐,http://ipipip/rtp/239.254.96.188:8170
 CCTV-16 奥林匹克,http://ipipip/rtp/239.254.96.170:8206
 CCTV-17 农业农村,http://ipipip/rtp/239.254.96.57:8204
+CGTN纪录,http://ipipip/rtp/239.254.96.58:7448
+CGTN,http://ipipip/rtp/239.254.96.16:7112
+CETV1,http://ipipip/rtp/239.254.96.155:7152
+CETV4,http://ipipip/rtp/239.254.96.169:8148
 湖南卫视,http://ipipip/rtp/239.254.96.85:7664
 浙江卫视,http://ipipip/rtp/239.254.96.89:7696
 江苏卫视,http://ipipip/rtp/239.254.96.88:7688
@@ -60,8 +64,4 @@ CCTV-17 农业农村,http://ipipip/rtp/239.254.96.57:8204
 兵团卫视,http://ipipip/rtp/239.254.96.153:8126
 山东教育,http://ipipip/rtp/239.254.96.151:8118
 金鹰纪实,http://ipipip/rtp/239.254.96.154:7156
-CETV1,http://ipipip/rtp/239.254.96.155:7152
-CETV4,http://ipipip/rtp/239.254.96.169:8148
-CGTN纪录,http://ipipip/rtp/239.254.96.58:7448
-CGTN英语,http://ipipip/rtp/239.254.96.16:7112
 

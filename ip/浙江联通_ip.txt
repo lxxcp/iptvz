@@ -1,1 +1,4 @@
 123.157.31.182:7912
+bgs.cchui.fun:7912
+bgs.cchui.fun:7911
+gslt.cchui.fun:7911
