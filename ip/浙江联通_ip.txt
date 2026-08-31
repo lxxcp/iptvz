@@ -2,3 +2,4 @@
 bgs.cchui.fun:7911
 bgs.cchui.fun:7912
 gslt.cchui.fun:7911
+zj-zb-lt.sohu.blog:7912
