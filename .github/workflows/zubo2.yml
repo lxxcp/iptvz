@@ -22,15 +22,21 @@ jobs:
         
       - name: 测试组播源
         run: |
+          # 设置中国时区
+          export TZ='Asia/Shanghai'
+          
           cd $GITHUB_WORKSPACE
           bash ./zubo.sh
+          
           # 修改时间格式，加上时分秒
           time=$(date +"%Y/%m/%d %H:%M:%S")
           echo "浙江频道 $time 更新,#genre#" > zubo.txt
+          
           # 先添加浙江的源（如果存在）
           if [ -f txt/浙江.txt ]; then
               cat txt/浙江.txt >> zubo.txt
           fi
+          
           # 再添加其他所有txt文件（排除浙江.txt，避免重复）
           for file in txt/*.txt; do
               if [ "$(basename "$file")" != "浙江.txt" ]; then
