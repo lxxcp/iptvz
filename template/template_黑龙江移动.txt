@@ -3,6 +3,7 @@ CCTV-2 财经,http://ipipip/rtp/239.0.2.7:5140
 CCTV-3 综艺,http://ipipip/rtp/239.0.2.20:5140
 CCTV-4 中文国际,http://ipipip/rtp/239.0.2.8:5140
 CCTV-5 体育,http://ipipip/rtp/239.0.2.35:5140
+CCTV-5+ 体育赛事,http://ipipip/rtp/239.0.2.58:5140
 CCTV-6 电影,http://ipipip/rtp/239.0.2.21:5140
 CCTV-7 国防军事,http://ipipip/rtp/239.0.2.36:5140
 CCTV-8 电视剧,http://ipipip/rtp/239.0.2.22:5140
@@ -15,7 +16,6 @@ CCTV-14 少儿,http://ipipip/rtp/239.0.2.32:5140
 CCTV-15 音乐,http://ipipip/rtp/239.0.2.6:5140
 CCTV-16 奥林匹克,http://ipipip/rtp/239.0.2.33:5140
 CCTV-17 农业农村,http://ipipip/rtp/239.0.2.34:5140
-CCTV-5+ 体育赛事,http://ipipip/rtp/239.0.2.58:5140
 辽宁卫视,http://ipipip/rtp/239.0.0.17:5140
 西藏卫视,http://ipipip/rtp/239.0.0.19:5140
 青海卫视,http://ipipip/rtp/239.0.0.21:5140
