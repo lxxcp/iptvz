@@ -282,7 +282,6 @@ CGTN阿语,http://www.chunktv.top:10000/rtp/239.111.205.86:5140
 西安都市,http://www.chunktv.top:10000/rtp/239.111.205.243:5140
 西安丝路,http://www.chunktv.top:10000/rtp/239.110.205.40:9866
 西安丝路,http://www.chunktv.top:10000/rtp/239.112.205.176:5140
-西安乐购购物,http://www.chunktv.top:10000/rtp/239.111.205.30:5140
 西安戏剧影视,http://www.chunktv.top:10000/rtp/239.110.205.39:9862
 西安戏剧影视,http://www.chunktv.top:10000/rtp/239.112.205.175:5140
 西安教育,http://www.chunktv.top:10000/rtp/239.110.205.24:9842
@@ -711,7 +710,6 @@ CGTN阿语,http://wddpmpc.sosos.run:4022/rtp/239.111.205.86:5140
 西安都市,http://wddpmpc.sosos.run:4022/rtp/239.111.205.243:5140
 西安丝路,http://wddpmpc.sosos.run:4022/rtp/239.110.205.40:9866
 西安丝路,http://wddpmpc.sosos.run:4022/rtp/239.112.205.176:5140
-西安乐购购物,http://wddpmpc.sosos.run:4022/rtp/239.111.205.30:5140
 西安戏剧影视,http://wddpmpc.sosos.run:4022/rtp/239.110.205.39:9862
 西安戏剧影视,http://wddpmpc.sosos.run:4022/rtp/239.112.205.175:5140
 西安教育,http://wddpmpc.sosos.run:4022/rtp/239.110.205.24:9842
