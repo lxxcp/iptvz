@@ -36,7 +36,7 @@ CGTN阿语,http://ipipip/rtp/228.1.1.208:4220
 山东卫视4K,http://ipipip/rtp/228.1.1.46:3006
 四川卫视4K,http://ipipip/rtp/228.1.1.47:3000
 北京卫视4K,http://ipipip/rtp/228.1.1.234:8002
-北京卫视HDR,http://ipipip/rtp/228.1.1.235:8002
+北京卫视4K,http://ipipip/rtp/228.1.1.235:8002
 安徽卫视,http://ipipip/rtp/228.1.1.21:8064
 北京卫视,http://ipipip/rtp/228.1.1.115:8000
 兵团卫视,http://ipipip/rtp/228.1.1.177:4120
