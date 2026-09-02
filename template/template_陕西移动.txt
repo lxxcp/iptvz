@@ -63,9 +63,9 @@ CETV1,http://ipipip/rtp/239.10.3.71:9000
 陕西生活,http://ipipip/rtp/239.10.3.75:9000
 陕西西部电影,http://ipipip/rtp/239.10.3.80:9000
 陕西影视,http://ipipip/rtp/239.10.3.76:9000
-西安都市,http://ipipip/rtp/239.10.3.101:9000
-西安教育台,http://ipipip/rtp/239.10.3.95:9000
 西安新闻综合,http://ipipip/rtp/239.10.3.100:9000
+西安都市,http://ipipip/rtp/239.10.3.101:9000
+西安教育,http://ipipip/rtp/239.10.3.95:9000
 央广购物,http://ipipip/rtp/239.10.3.91:9000
 优乐购,http://ipipip/rtp/239.10.3.94:9000
 CCTV央视网1,http://ipipip/rtp/239.10.3.67:9000
