@@ -35,7 +35,7 @@ case $city_choice in
         ;;
     3)
         city="湖北电信"
-        stream="rtp/239.69.1.40:9880"
+        stream="rtp/239.69.1.102:10250"
         url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiByZWdpb249Iua5luWMlyIgJiYgb3JnPSJDaGluYW5ldCIgJiYgcHJvdG9jb2w9Imh0dHAi&page=1&page_size=20"
         ;;
     4)

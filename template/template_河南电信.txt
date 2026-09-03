@@ -41,6 +41,8 @@ CCTV-14 少儿,http://ipipip/rtp/239.16.20.14:10140
 CCTV-15 音乐,http://ipipip/rtp/239.16.10.113:2000$1080p
 CCTV-15 音乐,http://ipipip/rtp/239.16.20.15:10150
 CCTV-16 奥林匹克,http://ipipip/rtp/239.16.20.34:10340
+CCTV-16 奥林匹克,http://ipipip/rtp/239.16.10.69:2000
+CCTV-16 奥林匹克,http://ipipip/rtp/239.16.20.249:12490
 CCTV-17 农业农村,http://ipipip/rtp/239.16.10.129:2000$1080p
 CCTV-17 农业农村,http://ipipip/rtp/239.16.20.7:10070
 CETV1,http://ipipip/rtp/239.16.10.100:2000$1080p
@@ -278,6 +280,7 @@ CCTV4K,http://ipipip/rtp/239.16.11.1:2000$2160p
 驻马店科教,http://ipipip/rtp/239.16.10.171:2000$1080p
 鹤壁新闻综合,http://ipipip/rtp/239.16.20.142:11420
 鲁山综合,http://ipipip/rtp/239.16.20.158:11580
+通许县综合,http://ipipip/rtp/239.16.20.214:12140
 东方财经,http://ipipip/rtp/239.16.10.235:2000$1080p
 东方财经,http://ipipip/rtp/239.16.20.64:10640
 乐游,http://ipipip/rtp/239.16.10.240:2000$1080p
@@ -302,7 +305,6 @@ CCTV4K,http://ipipip/rtp/239.16.11.1:2000$2160p
 快乐垂钓,http://ipipip/rtp/239.16.20.67:10670
 多彩文体,http://ipipip/rtp/239.16.10.233:2000$1080p
 多彩文体,http://ipipip/rtp/239.16.20.39:10390
-通许县综合,http://ipipip/rtp/239.16.20.214:12140
 法治天地,http://ipipip/rtp/239.16.10.254:2000$1080p
 法治天地,http://ipipip/rtp/239.16.20.156:11560
 环球旅游,http://ipipip/rtp/239.16.10.249:2000$1080p
