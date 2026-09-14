@@ -154,8 +154,6 @@ CHC影迷电影,http://ipipip/rtp/239.29.1.178:5000
 内蒙古蒙古语文化,http://ipipip/rtp/239.29.0.210:5000
 内蒙古蒙古语文化,http://ipipip/rtp/239.29.0.8:5000
 兴安盟新闻综合,http://ipipip/rtp/239.29.0.16:5000
-兴安盟影视娱乐,http://ipipip/rtp/239.29.0.18:5000
-兴安盟文化旅游,http://ipipip/rtp/239.29.0.17:5000
 满洲里电视台,http://ipipip/rtp/239.29.0.34:5000
 乌拉特中旗综合,http://ipipip/rtp/239.29.0.152:5000
 乌前旗综合,http://ipipip/rtp/239.29.0.150:5000
