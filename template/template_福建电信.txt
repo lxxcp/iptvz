@@ -17,7 +17,6 @@
 厦门卫视,http://ipipip/rtp/239.61.2.11:8060
 厦门综合,http://ipipip/rtp/239.61.3.55:9848
 厦门综合,http://ipipip/rtp/239.61.5.99:1025
-厦门影视,http://ipipip/rtp/239.61.3.56:9854
 海峡卫视,http://ipipip/rtp/239.61.2.151:8894
 海峡卫视,http://ipipip/rtp/239.61.5.45:1025
 漳州新闻综合,http://ipipip/rtp/239.61.5.91:1025

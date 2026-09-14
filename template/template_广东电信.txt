@@ -359,12 +359,8 @@ IPTV谍战剧场,http://ipipip/udp/239.77.0.99:5146$1080p
 珠海新闻综合,http://ipipip/udp/239.77.1.230:5146
 肇庆综合,http://ipipip/udp/239.253.43.1:5146
 肇庆综合,http://ipipip/udp/239.253.43.3:5146
-肇庆生活服务,http://ipipip/udp/239.253.43.2:5146
-肇庆生活服务,http://ipipip/udp/239.253.43.4:5146
 茂名综合,http://ipipip/udp/239.77.0.204:5146
 茂名综合,http://ipipip/udp/239.77.0.206:5146$1080p
-茂名文化生活,http://ipipip/udp/239.77.0.207:5146$1080p
-茂名文化生活,http://ipipip/udp/239.77.0.205:5146
 阳江综合,http://ipipip/udp/239.253.43.82:5146$1080p
 韶关新闻综合,http://ipipip/udp/239.77.0.116:5146
 韶关新闻综合,http://ipipip/udp/239.77.0.117:5146$1080p

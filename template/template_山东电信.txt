@@ -190,9 +190,8 @@ CHC影迷电影,http://ipipip/udp/239.21.2.127:5002
 新泰乡村,http://ipipip/udp/239.21.1.248:5002$1080p
 新泰综合,http://ipipip/udp/239.21.1.210:5002$1080p
 无棣综合,http://ipipip/udp/239.21.1.214:5002$1080p
-日照公共,http://ipipip/udp/239.21.2.81:5002
 日照新闻综合,http://ipipip/udp/239.21.1.79:5002$576p
-日照科教,http://ipipip/udp/239.21.1.80:5002$576p
+日照经济生活,http://ipipip/udp/239.21.1.80:5002$576p
 昌乐综合,http://ipipip/udp/239.21.1.245:5002$1080p
 昌邑综合,http://ipipip/udp/239.21.2.27:5002$1080p
 曲阜综合,http://ipipip/udp/239.21.1.225:5002$1080p
