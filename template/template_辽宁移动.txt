@@ -3,6 +3,7 @@ CCTV-2 财经,http://ipipip/rtp/232.11.0.41:20160
 CCTV-3 综艺,http://ipipip/rtp/232.11.0.198:20161
 CCTV-4 中文国际,http://ipipip/rtp/232.11.0.52:20162
 CCTV-5 体育,http://ipipip/rtp/232.11.0.89:20163
+CCTV-5+ 体育赛事,http://ipipip/rtp/232.11.0.63:20173
 CCTV-6 电影,http://ipipip/rtp/232.11.0.216:20164
 CCTV-7 国防军事,http://ipipip/rtp/232.11.0.93:20016
 CCTV-8 电视剧,http://ipipip/rtp/232.11.0.57:20166
@@ -15,7 +16,6 @@ CCTV-14 少儿,http://ipipip/rtp/232.11.0.61:20171
 CCTV-15 音乐,http://ipipip/rtp/232.11.0.184:20175
 CCTV-16 奥林匹克,http://ipipip/rtp/232.11.0.122:20176
 CCTV-17 农业农村,http://ipipip/rtp/232.11.0.62:20172
-CCTV-5+ 体育赛事,http://ipipip/rtp/232.11.0.63:20173
 辽宁卫视,http://ipipip/rtp/232.11.0.64:20158
 辽宁都市,http://ipipip/rtp/232.11.0.103:20030
 辽宁影视剧,http://ipipip/rtp/232.11.0.104:20031
@@ -24,7 +24,6 @@ CCTV-5+ 体育赛事,http://ipipip/rtp/232.11.0.63:20173
 辽宁教育青少,http://ipipip/rtp/232.11.0.105:20032
 辽宁北方,http://ipipip/rtp/232.11.0.108:20035
 辽宁宜佳购物,http://ipipip/rtp/232.11.0.109:20038
-辽宁移动电视,http://ipipip/rtp/232.11.0.111:20039
 辽宁公共,http://ipipip/rtp/232.11.0.197:20037
 辽宁经济,http://ipipip/rtp/232.11.0.196:20036
 央广购物,http://ipipip/rtp/232.11.0.117:20086
@@ -68,9 +67,8 @@ CETV1,http://ipipip/rtp/232.11.0.243:20230
 优漫卡通,http://ipipip/rtp/232.11.0.235:20112
 嘉佳卡通,http://ipipip/rtp/232.11.0.234:20111
 金鹰纪实,http://ipipip/rtp/232.11.0.195:20097
-北京纪实,http://ipipip/rtp/232.11.0.194:20096
+BRTV纪实科教,http://ipipip/rtp/232.11.0.194:20096
 家庭理财,http://ipipip/rtp/232.11.0.236:20117
-新动漫,http://ipipip/rtp/232.11.0.232:20107
 CCTV-1 综合,http://ipipip/rtp/232.11.0.88:20010
 CCTV-2 财经,http://ipipip/rtp/232.11.0.91:20011
 CCTV-4 中文国际,http://ipipip/rtp/232.11.0.92:20013

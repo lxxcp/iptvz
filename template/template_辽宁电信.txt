@@ -61,7 +61,6 @@ CHC高清电影,http://ipipip/rtp/239.33.4.209:22090
 广西卫视,http://ipipip/rtp/239.33.4.215:22150
 快乐垂钓,http://ipipip/rtp/239.33.5.69:23250
 文物宝库,http://ipipip/rtp/239.33.4.214:22140
-新动漫,http://ipipip/rtp/239.33.4.34:20340
 梨园频道,http://ipipip/rtp/239.33.4.212:22120
 欢笑剧场,http://ipipip/rtp/239.33.5.97:23530
 武术世界,http://ipipip/rtp/239.33.4.213:22130
@@ -87,7 +86,6 @@ CHC高清电影,http://ipipip/rtp/239.33.4.209:22090
 辽宁影视,http://ipipip/rtp/239.33.4.238:22380
 辽宁影视http://ipipip/rtp/239.33.4.238:22380
 辽宁生活,http://ipipip/rtp/239.33.5.201:24570
-辽宁移动,http://ipipip/rtp/239.33.4.235:22350
 辽宁经济,http://ipipip/rtp/239.33.4.121:21210
 辽宁都市,http://ipipip/rtp/239.33.4.236:22360
 辽宁青少,http://ipipip/rtp/239.33.4.233:22330
