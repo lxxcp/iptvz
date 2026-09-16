@@ -147,6 +147,7 @@ CCTV4K,http://ipipip/rtp/226.0.1.242:2127
 阳曲综合,http://ipipip/rtp/226.0.2.196:9480
 阳泉新闻综合,http://ipipip/rtp/226.0.2.233:9776
 阳泉科教,http://ipipip/rtp/226.0.2.234:9784
+盐湖频道,http://ipipip/rtp/226.0.2.106:9006
 东方财经,http://ipipip/rtp/226.0.2.76:8520
 中华特产,http://ipipip/rtp/226.0.2.128:8936
 中国天气,http://ipipip/rtp/226.0.2.103:8736
@@ -154,23 +155,17 @@ CCTV4K,http://ipipip/rtp/226.0.1.242:2127
 书画,http://ipipip/rtp/226.0.2.102:8728
 优优宝贝,http://ipipip/rtp/226.0.2.119:8864
 动漫秀场,http://ipipip/rtp/226.0.2.183:9376
-哈哈炫动,http://ipipip/rtp/226.0.2.44:8264
+同步课堂,http://ipipip/rtp/226.0.2.44:8264
 四海钓鱼,http://ipipip/rtp/226.0.2.123:8896
-家庭理财,http://ipipip/rtp/226.0.2.129:8944
 快乐垂钓,http://ipipip/rtp/226.0.2.214:9624
 文物宝库,http://ipipip/rtp/226.0.2.110:8792
-新动漫,http://ipipip/rtp/226.0.2.73:8496
-新纪实,http://ipipip/rtp/226.0.2.193:9456
 梨园频道,http://ipipip/rtp/226.0.2.115:8832
 武术世界,http://ipipip/rtp/226.0.2.97:8688
 法治天地,http://ipipip/rtp/226.0.2.83:8576
 游戏风云,http://ipipip/rtp/226.0.2.78:8536
 环球奇观,http://ipipip/rtp/226.0.2.111:8800
 环球旅游,http://ipipip/rtp/226.0.2.127:8928
-生态环境,http://ipipip/rtp/226.0.2.120:8872
 生活时尚,http://ipipip/rtp/226.0.2.84:8584
-证券服务,http://ipipip/rtp/226.0.2.71:8480
-财富天下,http://ipipip/rtp/226.0.2.139:9024
 都市剧场,http://ipipip/rtp/226.0.2.81:8560
 重庆汽摩,http://ipipip/rtp/226.0.2.95:8672
 金色学堂,http://ipipip/rtp/226.0.2.182:9368
@@ -179,10 +174,93 @@ CCTV4K,http://ipipip/rtp/226.0.1.242:2127
 金鹰纪实,http://ipipip/rtp/226.0.2.194:9464
 国学频道,http://ipipip/rtp/226.0.2.116:8840
 央广购物,http://ipipip/rtp/226.0.2.230:9752
-好享购物,http://ipipip/rtp/226.0.2.125:8912
 优购物,http://ipipip/rtp/226.0.2.131:8960
-家有购物,http://ipipip/rtp/226.0.2.126:8920
-党建,http://ipipip/rtp/226.0.2.184:9384
-百姓健康,http://ipipip/rtp/226.0.2.132:8968
 聚鲨环球精选,http://ipipip/rtp/226.0.2.122:8888
 
+BRTV卡酷少儿,http://ipipip/rtp/226.0.1.57:3059
+CCTV-1 综合,http://ipipip/rtp/226.0.1.157:3086
+CCTV-2 财经,http://ipipip/rtp/226.0.1.158:3087
+CCTV-3 综艺,http://ipipip/rtp/226.0.1.141:2018
+CCTV-4 中文国际,http://ipipip/rtp/226.0.1.160:2019
+CCTV-4 中文国际,http://ipipip/rtp/226.0.1.21:3036
+CCTV-5+ 体育赛事,http://ipipip/rtp/226.0.1.172:3096
+CCTV-5 体育,http://ipipip/rtp/226.0.1.135:2020
+CCTV-6 电影,http://ipipip/rtp/226.0.1.137:2021
+CCTV-7 国防军事,http://ipipip/rtp/226.0.1.163:3097
+CCTV-8 电视剧,http://ipipip/rtp/226.0.1.140:2023
+CCTV-9 纪录,http://ipipip/rtp/226.0.1.165:3093
+CCTV-10 科教,http://ipipip/rtp/226.0.1.166:3099
+CCTV-11 戏曲,http://ipipip/rtp/226.0.1.28:3021
+CCTV-12 社会与法,http://ipipip/rtp/226.0.1.168:3100
+CCTV-13 新闻,http://ipipip/rtp/226.0.1.30:3029
+CCTV-13 新闻,http://ipipip/rtp/226.0.1.98:2028
+CCTV-14 少儿,http://ipipip/rtp/226.0.1.170:3094
+CCTV-15 音乐,http://ipipip/rtp/226.0.1.32:3028
+CCTV-16 奥林匹克,http://ipipip/rtp/226.0.1.118:2032
+CCTV-17 农业农村,http://ipipip/rtp/226.0.1.117:2033
+CCTV世界地理,http://ipipip/rtp/226.0.1.169:2111
+CCTV兵器科技,http://ipipip/rtp/226.0.1.171:2115
+CCTV央视台球,http://ipipip/rtp/226.0.1.181:2118
+CCTV央视文化精品,http://ipipip/rtp/226.0.1.162:2108
+CCTV女性时尚,http://ipipip/rtp/226.0.1.210:2128
+CCTV怀旧剧场,http://ipipip/rtp/226.0.1.182:2121
+CCTV第一剧场,http://ipipip/rtp/226.0.1.167:2110
+CCTV第一剧场,http://ipipip/rtp/226.0.1.93:3210
+CCTV风云剧场,http://ipipip/rtp/226.0.1.212:2133
+CCTV风云足球,http://ipipip/rtp/226.0.1.105:3081
+CCTV风云足球,http://ipipip/rtp/226.0.1.209:2122
+CCTV风云音乐,http://ipipip/rtp/226.0.1.164:2109
+CCTV风云音乐,http://ipipip/rtp/226.0.1.92:3205
+CCTV高尔夫网球,http://ipipip/rtp/226.0.1.211:2132
+CHC动作电影,http://ipipip/rtp/226.0.1.113:2098
+CHC家庭影院,http://ipipip/rtp/226.0.1.108:2096
+CHC影迷电影,http://ipipip/rtp/226.0.1.109:2097
+东南卫视,http://ipipip/rtp/226.0.1.194:3119
+东方卫视,http://ipipip/rtp/226.0.1.183:3106
+云南卫视,http://ipipip/rtp/226.0.1.156:2070
+北京卫视,http://ipipip/rtp/226.0.1.185:3108
+吉林卫视,http://ipipip/rtp/226.0.1.220:2068
+四川卫视,http://ipipip/rtp/226.0.1.187:3110
+天津卫视,http://ipipip/rtp/226.0.1.153:3083
+宁夏卫视,http://ipipip/rtp/226.0.1.64:3050
+安徽卫视,http://ipipip/rtp/226.0.1.148:3077
+广东卫视,http://ipipip/rtp/226.0.1.149:3078
+广西卫视,http://ipipip/rtp/226.0.1.46:3031
+广西卫视,http://ipipip/rtp/226.0.1.75:2066
+江苏卫视,http://ipipip/rtp/226.0.1.184:3107
+江西卫视,http://ipipip/rtp/226.0.1.219:2067
+山东卫视,http://ipipip/rtp/226.0.1.154:3084
+河北卫视,http://ipipip/rtp/226.0.1.186:3109
+河南卫视,http://ipipip/rtp/226.0.1.201:2064
+浙江卫视,http://ipipip/rtp/226.0.1.147:3076
+海南卫视,http://ipipip/rtp/226.0.1.143:2071
+深圳卫视,http://ipipip/rtp/226.0.1.150:3079
+湖北卫视,http://ipipip/rtp/226.0.1.152:3082
+湖南卫视,http://ipipip/rtp/226.0.1.146:3075
+贵州卫视,http://ipipip/rtp/226.0.1.188:3116
+辽宁卫视,http://ipipip/rtp/226.0.1.177:3101
+重庆卫视,http://ipipip/rtp/226.0.1.178:3102
+青海卫视,http://ipipip/rtp/226.0.1.59:3043
+黑龙江卫视,http://ipipip/rtp/226.0.1.151:3080
+山西卫视,http://ipipip/rtp/226.0.1.156:3085
+山西卫视,http://ipipip/rtp/226.0.1.85:2001
+黄河卫视,http://ipipip/rtp/226.0.1.84:2002
+山西影视,http://ipipip/rtp/226.0.1.82:2004
+山西文体生活,http://ipipip/rtp/226.0.1.200:2006
+山西社会与法治,http://ipipip/rtp/226.0.1.83:2005
+山西经济与科技,http://ipipip/rtp/226.0.1.81:2003
+太原新闻综合,http://ipipip/rtp/226.0.1.225:2001
+太原社教法制,http://ipipip/rtp/226.0.1.227:2003
+太原教育,http://ipipip/rtp/226.0.1.230:2006
+东方财经,http://ipipip/rtp/226.0.1.76:3118
+乐游,http://ipipip/rtp/226.0.1.198:2103
+动漫秀场,http://ipipip/rtp/226.0.1.190:3113
+游戏风云,http://ipipip/rtp/226.0.1.173:2096
+生活时尚,http://ipipip/rtp/226.0.1.196:2101
+都市剧场,http://ipipip/rtp/226.0.1.174:2098
+文物宝库,http://ipipip/rtp/226.0.1.110:3190
+武术世界,http://ipipip/rtp/226.0.1.97:3197
+法治天地,http://ipipip/rtp/226.0.1.176:2100
+金鹰卡通,http://ipipip/rtp/226.0.1.41:3012
+金鹰卡通,http://ipipip/rtp/226.0.1.90:2078
+金鹰纪实,http://ipipip/rtp/226.0.1.203:2086
