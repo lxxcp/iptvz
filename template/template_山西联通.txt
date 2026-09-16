@@ -57,6 +57,7 @@ CCTV4K,http://ipipip/rtp/226.0.1.242:2127
 广东卫视4k,http://ipipip/rtp/226.0.1.245:2120
 深圳卫视4K,http://ipipip/rtp/226.0.1.244:2119
 北京卫视4K,http://ipipip/rtp/226.0.1.243:2118
+北京卫视4K,http://ipipip/rtp/226.0.2.155:9172
 湖南卫视4K,http://ipipip/rtp/226.0.1.246:2125
 浙江卫视4K,http://ipipip/rtp/226.0.1.247:2123
 东方卫视4K,http://ipipip/rtp/226.0.1.248:2121
