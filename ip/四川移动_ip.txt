@@ -3,10 +3,10 @@
 183.220.107.138:4022
 183.222.15.202:4321
 223.86.170.98:4500
-ai.xiaoshudiao.top:10086
-playerbfq.shangea.top:40064
 3865.bzlzm.eu.org:19998
 770622.xyz:19998
+ai.xiaoshudiao.top:10086
 gq.scvip.net.cn:8300
 nas.201606.xyz:4022
+playerbfq.shangea.top:40064
 ydzx.youzonggan.xyz:4500
