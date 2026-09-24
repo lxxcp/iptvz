@@ -2,3 +2,8 @@
 116.95.218.140:9999
 116.95.218.239:9999
 124.67.68.139:4022
+xtusrpa.com:8188
+a.zhangzp.top:4022
+tv.zhangzp.top:4022
+vpn.zhangzp.top:4022
+dabaoerbao2021.myds.me:9999
