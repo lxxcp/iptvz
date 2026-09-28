@@ -93,7 +93,6 @@ CETV早期教育,http://ipipip/rtp/239.5.1.144:5000
 大港油田企业,http://ipipip/rtp/239.5.1.135:5000
 BRTV卡酷少儿,http://ipipip/rtp/239.5.0.58:5000
 哈哈炫动,http://ipipip/rtp/239.5.0.62:5000
-新动漫,http://ipipip/rtp/239.5.0.109:5000
 山东教育,http://ipipip/rtp/239.5.0.141:5000
 重庆汽摩,http://ipipip/rtp/239.5.0.88:5000
 中华美食,http://ipipip/rtp/239.5.1.53:5000

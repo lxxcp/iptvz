@@ -41,11 +41,10 @@ CHC高清电影,http://ipipip/rtp/228.0.0.233:6108
 三沙卫视,http://ipipip/rtp/228.0.0.174:7174
 东南卫视,http://ipipip/rtp/228.0.0.144:7144
 东方卫视,http://ipipip/rtp/228.0.0.62:6108
-中国教育4,http://ipipip/rtp/228.0.0.177:7177
+CETV4,http://ipipip/rtp/228.0.0.177:7177
 中央新影-老故事,http://ipipip/rtp/228.0.0.238:6108
 云南卫视,http://ipipip/rtp/228.0.0.48:6108
 体 育赛事,http://ipipip/rtp/228.0.0.175:7175
-先锋乒羽,http://ipipip/rtp/228.0.0.241:6108
 内蒙古卫视,http://ipipip/rtp/228.0.0.52:6108
 北京卫视,http://ipipip/rtp/228.0.0.63:6108
 十堰公共,http://ipipip/rtp/228.0.0.200:7200
@@ -69,8 +68,7 @@ CHC高清电影,http://ipipip/rtp/228.0.0.233:6108
 怀旧剧场,http://ipipip/rtp/228.0.0.237:6108
 恩施公共,http://ipipip/rtp/228.0.0.229:6108
 恩施综合,http://ipipip/rtp/228.0.0.228:6108
-房县新闻,http://ipipip/rtp/228.0.0.31:6108
-新动漫,http://ipipip/rtp/228.0.0.240:6108
+房县综合,http://ipipip/rtp/228.0.0.31:6108
 新疆卫视,http://ipipip/rtp/228.0.0.53:6108
 武汉教育,http://ipipip/rtp/228.0.0.136:5136
 武汉新闻综合,http://ipipip/rtp/228.0.0.162:7162

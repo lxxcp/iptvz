@@ -99,7 +99,6 @@ CHC影迷电影,http://ipipip/rtp/239.1.0.150:1025
 快乐购,http://ipipip/rtp/239.1.0.115:1025
 快乐购,http://ipipip/rtp/239.1.0.20:1025
 文物宝库,http://ipipip/rtp/239.1.0.91:1025
-新动漫,http://ipipip/rtp/239.1.0.146:1025
 新疆卫视,http://ipipip/rtp/239.1.0.87:1025
 株洲公共,http://ipipip/rtp/239.1.0.197:1025
 株洲新闻综合,http://ipipip/rtp/239.1.0.138:1025

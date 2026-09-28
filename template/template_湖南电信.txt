@@ -59,6 +59,7 @@ CCTV-16 奥林匹克,http://ipipip/rtp/239.76.246.230:1234
 CCTV-16 奥林匹克,http://ipipip/rtp/239.76.246.98:1234$1080p
 CCTV-16 奥林匹克,http://ipipip/rtp/239.76.253.98:9000$1080p
 CCTV-16 奥林匹克,http://ipipip/rtp/239.76.253.230:9000$2160p
+CCTV-16 奥林匹克,http://ipipip/rtp/239.76.254.200:9000$2160p
 CCTV-17 农业农村,http://ipipip/rtp/239.76.245.238:1234$1080p
 CCTV-17 农业农村,http://ipipip/rtp/239.76.252.237:9000$576p
 CCTV-17 农业农村,http://ipipip/rtp/239.76.252.238:9000$1080p
@@ -336,8 +337,6 @@ CHC影迷电影,http://ipipip/rtp/239.76.252.242:9000$1080p
 快乐购,http://ipipip/rtp/239.76.253.112:9000$1080p
 文物宝库,http://ipipip/rtp/239.76.252.180:9000$1080p
 文物宝库,http://ipipip/rtp/239.76.245.180:1234$1080p
-新动漫,http://ipipip/rtp/239.76.245.244:1234$576p
-新动漫,http://ipipip/rtp/239.76.252.244:9000$576p
 梨园频道,http://ipipip/rtp/239.76.245.179:1234$1080p
 梨园频道,http://ipipip/rtp/239.76.252.179:9000$1080p
 欢笑剧场,http://ipipip/rtp/239.76.246.43:1234$2160p

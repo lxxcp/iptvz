@@ -101,7 +101,6 @@ CHC影迷电影,http://ipipip/udp/239.21.2.127:5002
 四海钓鱼,http://ipipip/udp/239.21.2.180:5002
 快乐垂钓,http://ipipip/udp/239.21.2.97:5002
 文物宝库,http://ipipip/udp/239.21.2.109:5002
-新动漫,http://ipipip/udp/239.21.2.93:5002$576p
 梨园频道,http://ipipip/udp/239.21.2.101:5002
 武术世界,http://ipipip/udp/239.21.2.96:5002
 求索纪录,http://ipipip/udp/239.21.2.159:5002

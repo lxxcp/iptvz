@@ -205,10 +205,9 @@ FTV足球,http://ipipip/udp/225.1.1.105:5002$576p
 快乐垂钓,http://ipipip/udp/225.1.2.20:5002$576p
 快乐购,http://ipipip/udp/225.1.2.24:5002$576p
 文物宝库,http://ipipip/udp/225.1.2.105:5002$1080p
-新动漫,http://ipipip/udp/225.1.1.216:5002$576p
 梨园频道,http://ipipip/udp/225.1.2.104:5002$1080p
-欢笑剧场,http://ipipip/udp/225.1.1.139:5002$1080p
-欢笑剧场,http://ipipip/udp/225.1.1.71:5002$576p
+多彩文体,http://ipipip/udp/225.1.1.139:5002$1080p
+多彩文体,http://ipipip/udp/225.1.1.71:5002$576p
 武术世界,http://ipipip/udp/225.1.2.129:5002$1080p
 江西陶瓷,http://ipipip/udp/225.1.2.189:5002$1080p
 法治天地,http://ipipip/udp/225.1.1.237:5002$1080p

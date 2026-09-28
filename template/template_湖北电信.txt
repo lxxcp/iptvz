@@ -147,7 +147,6 @@ CHC影迷电影,http://ipipip/rtp/239.69.1.241:11088
 书画,http://ipipip/rtp/239.69.1.189:10776
 环球奇观,http://ipipip/rtp/239.254.96.192:9232
 国学频道,http://ipipip/rtp/239.254.96.194:9244
-新动漫,http://ipipip/rtp/239.69.1.187:10764
 金鹰卡通,http://ipipip/rtp/239.254.96.189:9214
 BRTV卡酷少儿,http://ipipip/rtp/239.254.96.188:9208
 重庆汽摩,http://ipipip/rtp/239.69.1.84:10144

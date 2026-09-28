@@ -32,6 +32,7 @@ CCTV-14 少儿,http://ipipip/rtp/238.200.200.123:5540
 CCTV-14 少儿,http://ipipip/rtp/238.200.200.241:5540
 CCTV-15 音乐,http://ipipip/rtp/238.200.200.124:5540
 CCTV-15 音乐,http://ipipip/rtp/238.200.200.59:5540
+CCTV-16 奥林匹克,http://ipipip/rtp/238.200.200.108:5540
 CCTV-17 农业农村,http://ipipip/rtp/238.200.200.242:5540
 CCTV-17 农业农村,http://ipipip/rtp/238.200.200.244:5540
 CCTV4K,http://ipipip/rtp/238.200.200.92:5540

@@ -40,7 +40,6 @@ CCTV-1 综合,http://ipipip/rtp/239.10.0.57:5140$1080p
 CCTV-1 综合,http://ipipip/rtp/239.10.0.67:5140$1080p
 绵阳新闻综合,http://ipipip/rtp/239.10.0.96:5140$1080p
 南充综合,http://ipipip/rtp/239.10.0.68:5140$1080p
-南充科教生活,http://ipipip/rtp/239.10.0.70:5140$1080p
 内江综合,http://ipipip/rtp/239.10.0.71:5140$1080p
 内江科教生活,http://ipipip/rtp/239.10.0.73:5140$1080p
 攀枝花新闻综合,http://ipipip/rtp/239.10.0.74:5140
@@ -162,8 +161,6 @@ CCTV4K,http://ipipip/rtp/239.11.0.61:5140$2160p
 求索纪录,http://ipipip/rtp/239.10.0.221:5140$1080p
 武侠剧场,http://ipipip/rtp/239.10.0.133:5140$1080p
 喜剧影院,http://ipipip/rtp/239.10.0.132:5140$1080p
-新动漫,http://ipipip/rtp/239.10.0.159:5140$576p
-新动漫,http://ipipip/rtp/239.10.0.89:5140$576p
 央广购物,http://ipipip/rtp/239.10.0.200:5140$576p
 优购物,http://ipipip/rtp/239.10.0.227:5140$576p
 优漫卡通,http://ipipip/rtp/239.11.0.63:5140$576p

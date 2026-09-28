@@ -89,7 +89,6 @@ CHC动作电影,http://ipipip/rtp/225.2.1.215:5000
 青海卫视,http://ipipip/rtp/225.2.1.251:5000
 青海卫视,http://ipipip/rtp/225.2.1.54:5000
 黑龙江卫视,http://ipipip/rtp/225.2.1.115:5000
-
 BRTV卡酷少儿,http://ipipip/rtp/225.2.1.58:5000
 BRTV纪实科教,http://ipipip/239.0.2.30:5000
 CETV早期教育,http://ipipip/rtp/239.0.2.207:5000
@@ -108,9 +107,8 @@ IPTV5+,http://ipipip/rtp/225.2.1.106:5000
 山东教育,http://ipipip/rtp/239.0.2.118:5000
 快乐垂钓,http://ipipip/rtp/239.0.2.18:5000
 文物宝库,http://ipipip/rtp/239.0.2.105:5000
-新动漫,http://ipipip/rtp/225.2.1.216:5000
 梨园频道,http://ipipip/rtp/239.0.2.104:5000
-欢笑剧场,http://ipipip/rtp/225.2.1.139:5000
+多彩文体,http://ipipip/rtp/225.2.1.139:5000
 武术世界,http://ipipip/rtp/239.0.2.129:5000
 法治天地,http://ipipip/rtp/225.2.1.84:5000
 游戏风云,http://ipipip/rtp/225.2.1.135:5000

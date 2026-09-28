@@ -192,7 +192,6 @@ CHC影迷电影,http://ipipip/rtp/239.37.0.187:5540
 快乐垂钓,http://ipipip/rtp/239.37.0.244:5540
 快乐购,http://ipipip/rtp/239.37.0.143:5540$576p
 文物宝库,http://ipipip/rtp/239.37.0.87:5540$1080p
-新动漫,http://ipipip/rtp/239.37.0.106:5540$1080p
 梨园频道,http://ipipip/rtp/239.37.0.228:5540$1080p
 武术世界,http://ipipip/rtp/239.37.0.227:5540$1080p
 法治天地,http://ipipip/rtp/239.37.0.238:5540$1080p

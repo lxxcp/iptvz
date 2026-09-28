@@ -139,7 +139,7 @@ CCTV4K,http://ipipip/rtp/226.0.1.242:2127
 太原佰乐购,http://ipipip/rtp/226.0.2.215:9632
 太原教育,http://ipipip/rtp/226.0.2.206:9560
 大同教育,http://ipipip/rtp/226.0.2.232:9772
-古交电视台,http://ipipip/rtp/226.0.2.192:9448
+古交综合,http://ipipip/rtp/226.0.2.192:9448
 孝义综合,http://ipipip/rtp/226.0.2.189:9424
 晋能控股,http://ipipip/rtp/226.0.2.229:9744
 朔州新闻综合,http://ipipip/rtp/226.0.2.185:9392
