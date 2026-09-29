@@ -175,7 +175,6 @@ IPTV动画,http://media.lzqp.com:4022/udp/239.81.0.100:4056$1080p
 优购物,http://media.lzqp.com:4022/udp/239.81.0.132:4056$576p
 央广购物,http://media.lzqp.com:4022/udp/239.81.0.131:4056$576p
 嘉佳卡通,http://media.lzqp.com:4022/udp/239.81.0.64:4056$576p
-新动漫,http://media.lzqp.com:4022/udp/239.81.0.235:4056$576p
 家有购物,http://media.lzqp.com:4022/udp/239.81.0.224:4056$576p
 求索纪录,http://media.lzqp.com:4022/udp/239.81.0.153:4056$1080p
 电影,http://media.lzqp.com:4022/udp/239.81.0.1:4056$1080p
