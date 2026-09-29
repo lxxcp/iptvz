@@ -9,7 +9,7 @@
 陇上生活,http://ipipip/udp/239.255.30.73:8231
 临夏新闻综合,http://ipipip/udp/239.255.30.107:8231
 临夏文旅,http://ipipip/udp/239.255.30.108:8231
-皋兰电视台,http://ipipip/udp/239.255.30.236:8231
+皋兰综合,http://ipipip/udp/239.255.30.236:8231
 CCTV-1 综合,http://ipipip/udp/239.255.30.101:8231
 CCTV-2 财经,http://ipipip/udp/239.255.30.179:8231
 CCTV-3 综艺,http://ipipip/udp/239.255.29.12:8231

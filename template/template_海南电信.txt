@@ -103,7 +103,7 @@ BRTV卡酷少儿,http://ipipip/rtp/239.253.64.230:5140
 东方综合,http://ipipip/rtp/239.253.64.111:5140
 临高综合,http://ipipip/rtp/239.253.64.155:5140
 保亭综合,http://ipipip/rtp/239.253.64.159:5140
-儋州电视台,http://ipipip/rtp/239.253.64.107:5140
+儋州综合,http://ipipip/rtp/239.253.64.107:5140
 定安综合,http://ipipip/rtp/239.253.64.110:5140
 屯昌综合,http://ipipip/rtp/239.253.64.117:5140
 文昌综合,http://ipipip/rtp/239.253.64.105:5140

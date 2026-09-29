@@ -125,7 +125,7 @@ CHC影迷电影,http://ipipip/rtp/238.1.79.17:4248
 无为综合,http://ipipip/rtp/238.1.78.188:7376
 明光综合,http://ipipip/rtp/238.1.78.208:7536
 来安新闻综合,http://ipipip/rtp/238.1.78.204:7504
-枞阳电视台,http://ipipip/rtp/238.1.78.210:7552
+枞阳综合,http://ipipip/rtp/238.1.78.210:7552
 桐城综合,http://ipipip/rtp/238.1.78.28:6152
 歙县综合,http://ipipip/rtp/238.1.78.200:7472
 池州新闻综合,http://ipipip/rtp/238.1.78.147:7048

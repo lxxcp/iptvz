@@ -8,7 +8,7 @@
 天津少儿,http://ipipip/rtp/239.5.1.24:5000
 天视文旅,http://ipipip/rtp/239.5.1.116:5000
 天津购物,http://ipipip/rtp/239.5.1.114:5000
-蓟州电视台,http://ipipip/rtp/239.5.1.112:5000
+蓟州综合,http://ipipip/rtp/239.5.1.112:5000
 滨海新闻综合,http://ipipip/rtp/239.5.0.167:5000
 滨海生活,http://ipipip/rtp/239.5.0.168:5000
 CCTV-1 综合,http://ipipip/rtp/239.5.1.4:5000

@@ -10,3 +10,6 @@
 www.800128.xyz:62888
 800128.xyz:62888
 1266.kshome1266.top:8701
+cloud.sunrisecom.wang:8888
+cloud.sunrisecom.cn:8888
+yyf1991.direct.quickconnect.to:9999
