@@ -2,7 +2,7 @@ name: zubo
 
 on:
   schedule:
-    - cron: '0 20 * * *'
+    - cron: '25 18 * * *'   # UTC 25:18 = 北京 2:25
   workflow_dispatch:
 
 jobs:
