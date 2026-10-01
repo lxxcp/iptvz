@@ -192,7 +192,7 @@ CGTN西语,http://ipipip/rtp/239.49.1.30:8000$1080p
 好享购物,http://ipipip/rtp/239.49.8.121:8000$1080p
 家有购物,http://ipipip/rtp/239.49.8.124:8000$576p
 梨园频道,http://ipipip/rtp/239.49.8.193:8000$1080p
-欢笑剧场,http://ipipip/rtp/239.49.8.106:8000$2160p
+多彩文体,http://ipipip/rtp/239.49.8.106:8000$2160p
 睛彩广场舞,http://ipipip/rtp/239.49.8.64:8000$1080p
 睛彩竞技,http://ipipip/rtp/239.49.8.39:8000$1080p
 睛彩篮球,http://ipipip/rtp/239.49.8.42:8000$1080p

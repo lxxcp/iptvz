@@ -79,7 +79,7 @@ BRTV卡酷少儿,http://ipipip/udp/239.255.29.38:8231
 金鹰纪实,http://ipipip/udp/239.255.29.39:8231
 哈哈炫动,http://ipipip/udp/239.255.29.37:8231
 动漫秀场,http://ipipip/udp/239.255.29.16:8231
-欢笑剧场,http://ipipip/udp/239.255.29.19:8231
+多彩文体,http://ipipip/udp/239.255.29.19:8231
 多彩文体,http://ipipip/udp/239.255.29.7:8231
 乐游,http://ipipip/udp/239.255.29.17:8231
 生活时尚,http://ipipip/udp/239.255.29.18:8231

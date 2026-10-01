@@ -189,7 +189,7 @@ CHC影迷电影,http://ipipip/rtp/232.0.0.233:1234$1080p
 东方财经,http://ipipip/rtp/232.0.0.224:1234
 乐游,http://ipipip/rtp/232.0.0.108:1234$1080p
 优漫卡通,http://ipipip/rtp/232.0.0.159:1234$576p
-欢笑剧场,http://ipipip/rtp/232.0.0.98:1234$2160p
+多彩文体,http://ipipip/rtp/232.0.0.98:1234$2160p
 法治天地,http://ipipip/rtp/232.0.0.134:1234$1080p
 游戏风云,http://ipipip/rtp/232.0.0.127:1234$1080p
 生活时尚,http://ipipip/rtp/232.0.0.107:1234$1080p

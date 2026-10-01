@@ -226,7 +226,7 @@ FTV足球,http://ipipip/rtp/239.61.4.206:1025
 文物宝库,http://ipipip/rtp/239.61.4.171:1025
 梨园频道,http://ipipip/rtp/239.61.3.19:9634
 梨园频道,http://ipipip/rtp/239.61.4.170:1025
-欢笑剧场,http://ipipip/rtp/239.61.2.146:8864
+多彩文体,http://ipipip/rtp/239.61.2.146:8864
 武术世界,http://ipipip/rtp/239.61.3.22:9652
 武术世界,http://ipipip/rtp/239.61.4.172:1025
 法治天地,http://ipipip/rtp/239.61.2.75:8444

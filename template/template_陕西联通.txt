@@ -60,7 +60,7 @@ CETV4,http://ipipip/rtp/239.10.10.130:8516
 BRTV卡酷少儿,http://ipipip/rtp/239.10.10.68:8268
 金鹰纪实,http://ipipip/rtp/239.10.10.126:8500
 纪实人文,http://ipipip/rtp/239.10.10.127:8504
-欢笑剧场,http://ipipip/rtp/239.10.10.128:8508
+多彩文体,http://ipipip/rtp/239.10.10.128:8508
 陕西新闻资讯,http://ipipip/rtp/239.10.10.108:8428
 陕西都市青春,http://ipipip/rtp/239.10.10.109:8432
 陕西-生活,http://ipipip/rtp/239.10.10.110:8436

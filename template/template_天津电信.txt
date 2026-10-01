@@ -72,7 +72,7 @@ CCTV卫生健康,http://ipipip/rtp/239.5.1.131:5000
 兵团卫视,http://ipipip/rtp/239.5.0.57:5000
 动漫秀场,http://ipipip/rtp/239.5.1.35:5000
 游戏风云,http://ipipip/rtp/239.5.1.36:5000
-欢笑剧场,http://ipipip/rtp/239.5.1.39:5000
+多彩文体,http://ipipip/rtp/239.5.1.39:5000
 法治天地,http://ipipip/rtp/239.5.1.63:5000
 生活时尚,http://ipipip/rtp/239.5.1.41:5000
 乐游,http://ipipip/rtp/239.5.1.42:5000

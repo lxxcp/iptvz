@@ -134,7 +134,7 @@ CHC影迷电影,http://ipipip/rtp/239.69.1.241:11088
 快乐垂钓,http://ipipip/rtp/239.69.1.142:10488
 文物宝库,http://ipipip/rtp/239.69.1.46:9916
 梨园频道,http://ipipip/rtp/239.69.1.33:9838
-欢笑剧场,http://ipipip/rtp/239.69.2.5:11184
+多彩文体,http://ipipip/rtp/239.69.2.5:11184
 武术世界,http://ipipip/rtp/239.69.1.47:9922
 法治天地,http://ipipip/rtp/239.69.2.10:11214
 游戏风云,http://ipipip/rtp/239.69.2.8:11202
