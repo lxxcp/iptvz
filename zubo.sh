@@ -1,41 +1,27 @@
 #!/bin/bash
-# zubo.sh - 组播源检测与测速（手动并发版，兼容 GitHub Actions / Ubuntu runner）
-# 说明：
-#   - 不使用 xargs，全部用手动 & + wait 控制并发，兼容 bash/dash/BusyBox
-#   - 单城市：bash zubo.sh <编号>
-#   - 全部：  bash zubo.sh 0
-#   - 环境变量可调：NC_JOBS、SPEED_JOBS、CITY_JOBS
-#   - FOFA 可选：FOFA_ENABLE=1 FOFA_EMAIL=... FOFA_KEY=... FOFA_QBASE64=...
+# zubo.sh - 组播源检测与测速（手动并发版）
+# 单城市：bash zubo.sh <编号>
+# 全部：  bash zubo.sh 0
+# 可调：NC_JOBS、SPEED_JOBS、CITY_JOBS
+# FOFA：FOFA_ENABLE=1 FOFA_EMAIL=... FOFA_KEY=... FOFA_QBASE64=...
 
-# ============================================================
-# 可调参数（环境变量可覆盖）
-# ============================================================
-NC_JOBS=${NC_JOBS:-50}              # 单城市内：连通性检测并发
-SPEED_JOBS=${SPEED_JOBS:-10}        # 单城市内：测速并发（别太大，避免抢带宽失真）
-CITY_JOBS=${CITY_JOBS:-3}           # 城市级并发（选项0时生效）
+NC_JOBS=${NC_JOBS:-50}
+SPEED_JOBS=${SPEED_JOBS:-10}
+CITY_JOBS=${CITY_JOBS:-3}
 CURL_CONNECT_TIMEOUT=${CURL_CONNECT_TIMEOUT:-5}
 CURL_MAX_TIME=${CURL_MAX_TIME:-40}
 
-# FOFA API 可选模块（默认关闭）
 FOFA_ENABLE=${FOFA_ENABLE:-0}
 FOFA_EMAIL=${FOFA_EMAIL:-}
 FOFA_KEY=${FOFA_KEY:-}
 FOFA_QBASE64=${FOFA_QBASE64:-}
 FOFA_SIZE=${FOFA_SIZE:-100}
 
-# ============================================================
-# 0. 目录准备
-# ============================================================
 mkdir -p ip txt tmp
 
-# ============================================================
-# 1. 参数 / 交互
-# ============================================================
 if [ $# -eq 0 ]; then
     echo "开始测试······"
     echo "在5秒内输入编号可选择城市（0=测试全部）"
-    echo "示例：1.浙江电信  2.浙江联通  3.江苏电信  7.湖北电信  33.天津联通  48.安徽电信"
-    echo "完整列表见脚本 case 分支"
     if ! read -t 5 -p "超时未输入,将按默认设置测试全部: " city_choice || [ -z "$city_choice" ]; then
         echo "未检测到输入,默认测试全部"
         city_choice=0
@@ -44,9 +30,6 @@ else
     city_choice=$1
 fi
 
-# ============================================================
-# 2. 城市与流地址映射
-# ============================================================
 case $city_choice in
     1)  city="浙江电信";     stream="udp/233.50.201.100:5140" ;;
     2)  city="浙江联通";     stream="rtp/233.50.201.118:5140" ;;
@@ -120,7 +103,6 @@ case $city_choice in
     70) city="青海联通";     stream="rtp/239.120.2.145:5141" ;;
     71) city="西藏电信";     stream="rtp/239.105.0.102:5140" ;;
     0)
-        # ---- 城市级并发 ----
         echo "并发测试全部 71 个城市（城市并发=$CITY_JOBS）..."
         mkdir -p tmp/city_logs
         running=0
@@ -138,16 +120,7 @@ case $city_choice in
             fi
         done
         wait
-
-        # ---- 合并所有城市 txt 到 zubo.txt ----
-        echo "全部城市测试完成，开始合并..."
-        out_all="txt/zubo.txt"
-        : > "$out_all"
-        for f in $(ls txt/*.txt 2>/dev/null | grep -v '/zubo\.txt$' | sort); do
-            cat "$f" >> "$out_all"
-            echo "" >> "$out_all"
-        done
-        echo "已合并到 $out_all"
+        echo "全部城市测试完成"
         exit 0
         ;;
     *)
@@ -156,9 +129,6 @@ case $city_choice in
         ;;
 esac
 
-# ============================================================
-# 3. 单城市变量准备
-# ============================================================
 ts=$(date +%m%d%H%M)
 workdir="tmp/${city}_${ts}"
 mkdir -p "$workdir"
@@ -168,9 +138,6 @@ speedlog="speedtest_${city}_${ts}.log"
 
 echo "======== 开始检索 ${city} ========"
 
-# ============================================================
-# 4. 汇总待检测 IP（本地 + 可选 FOFA）
-# ============================================================
 tmp_ipfile=$(mktemp)
 : > "$tmp_ipfile"
 
@@ -181,7 +148,6 @@ else
     echo "警告: '${ipfile}' 不存在，跳过本地 IP 列表"
 fi
 
-# ---- 可选：FOFA API ----
 if [ "$FOFA_ENABLE" = "1" ]; then
     if [ -n "$FOFA_EMAIL" ] && [ -n "$FOFA_KEY" ] && [ -n "$FOFA_QBASE64" ]; then
         echo "从 FOFA API 拉取（size=$FOFA_SIZE）..."
@@ -210,9 +176,6 @@ if [ ! -s "$ipfile" ]; then
     exit 1
 fi
 
-# ============================================================
-# 5. 连通性检测（手动并发 nc）
-# ============================================================
 : > "$good_ip"
 echo "开始连通性检测（并发 $NC_JOBS）..."
 
@@ -221,7 +184,7 @@ nc_worker() {
     [ -z "$ip" ] && return
     host=${ip%:*}
     port=${ip##*:}
-    if nc -z -w 1 "$host" "$port" 2>/dev/null; then
+    if nc -z -w 3 "$host" "$port" 2>/dev/null; then
         echo "$ip" >> "$workdir/nc_ok.$$"
     fi
 }
@@ -251,9 +214,6 @@ if [ "$lines" -eq 0 ]; then
     exit 1
 fi
 
-# ============================================================
-# 6. 测速（手动并发 curl）
-# ============================================================
 : > "$speedlog"
 
 speed_worker() {
@@ -270,6 +230,7 @@ speed_worker() {
         else                   printf "%.2f B", s;
     }')
     echo -e "${speed_bps}\t${human}\t${ip}" >> "$workdir/spd.$$"
+    echo "[测速] $ip  ->  $human"
 }
 
 running=0
@@ -290,9 +251,6 @@ rm -f "$workdir"/spd.*
 total=$(wc -l < "$speedlog" | tr -d ' ')
 echo "测速完成，共 $total 条结果。"
 
-# ============================================================
-# 7. 排序并生成结果
-# ============================================================
 echo "测速结果排序"
 sort -k1,1nr "$speedlog" > "${speedlog}.sorted"
 
@@ -313,9 +271,6 @@ if [ -z "$ip1" ]; then
     exit 1
 fi
 
-# ============================================================
-# 8. 生成对应城市的 txt
-# ============================================================
 program="template/template_${city}.txt"
 if [ ! -f "$program" ]; then
     echo "模板文件不存在: $program，跳过生成。"

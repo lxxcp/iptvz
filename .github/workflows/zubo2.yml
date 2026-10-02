@@ -23,31 +23,32 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y yt-dlp sed nmap netcat-openbsd curl
 
-      - name: 测试组播源（全部城市）
+      - name: 测试组播源
         env:
           TZ: Asia/Shanghai
-          CITY_JOBS: '3'     # 城市级并发：同时跑 3 个城市
-          SPEED_JOBS: '5'    # 单城市内测速并发
-          NC_JOBS: '50'      # 单城市内连通性检测并发
+          CITY_JOBS: '3'
+          SPEED_JOBS: '5'
+          NC_JOBS: '50'
         run: |
           cd "$GITHUB_WORKSPACE"
           chmod +x zubo.sh
 
-          # 跑全部 71 个城市（脚本内部会并发 + 合并 zubo.txt）
+          # 跑全部 71 个城市
           bash ./zubo.sh 0
 
-          # 保险起见，再手动合并一次（防止脚本内合并被跳过）
+          # 合并：先浙江.txt，再其他城市
           time=$(date +"%Y/%m/%d %H:%M:%S")
           {
             echo "组播源 $time 更新,#genre#"
-            for f in $(ls txt/*.txt 2>/dev/null | grep -v '/zubo\.txt$' | sort); do
+            [ -f txt/浙江.txt ] && cat txt/浙江.txt
+            for f in $(ls txt/*.txt 2>/dev/null | grep -vE '/zubo\.txt$|/浙江\.txt$' | sort); do
               cat "$f"
             done
           } > zubo.txt
 
-          echo "===== 生成的城市文件 ====="
-          ls -la txt/
-          echo "===== zubo.txt 行数 ====="
+          echo "===== zubo.txt 前 5 行 ====="
+          head -n 5 zubo.txt
+          echo "===== 行数 ====="
           wc -l zubo.txt
 
       - name: 更新组播源
