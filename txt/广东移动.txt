@@ -312,5 +312,3 @@ IPTV魅力时尚,http://gzgxzm.dpdns.org:10086/rtp/239.20.0.239:2276
 咪视界29,http://gzgxzm.dpdns.org:10086/rtp/239.21.0.33:3472
 咪视界4K,http://gzgxzm.dpdns.org:10086/rtp/239.20.0.66:3136
 
-广东移动-组播3,#genre#
-
