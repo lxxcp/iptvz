@@ -3,3 +3,4 @@ requests
 selenium 
 futures 
 eventlet
+httpx

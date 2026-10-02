@@ -176,7 +176,6 @@ CCTV4K,http://ipipip/rtp/239.16.11.1:2000$2160p
 光山综合,http://ipipip/rtp/239.16.10.94:2000$576p
 内黄综合,http://ipipip/rtp/239.16.20.228:12280
 南阳新闻综合,http://ipipip/rtp/239.16.10.58:2000$1080p
-南阳公共,http://ipipip/rtp/239.16.10.165:2000$1080p
 南阳科教,http://ipipip/rtp/239.16.10.164:2000$1080p
 卢氏综合,http://ipipip/rtp/239.16.20.240:12400
 卫辉综合,http://ipipip/rtp/239.16.20.191:11910
