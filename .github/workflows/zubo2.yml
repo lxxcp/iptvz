@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      TZ: Asia/Shanghai
 
     steps:
       - name: Checkout Repository
@@ -25,7 +27,6 @@ jobs:
 
       - name: 测试组播源
         env:
-          TZ: Asia/Shanghai
           CITY_JOBS: '3'
           SPEED_JOBS: '5'
           NC_JOBS: '50'
@@ -33,10 +34,8 @@ jobs:
           cd "$GITHUB_WORKSPACE"
           chmod +x zubo.sh
 
-          # 跑全部 71 个城市
           bash ./zubo.sh 0
 
-          # 合并：先浙江.txt，再其他城市
           time=$(date +"%Y/%m/%d %H:%M:%S")
           {
             echo "组播源 $time 更新,#genre#"

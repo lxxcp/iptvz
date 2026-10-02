@@ -163,7 +163,7 @@ CETV4,http://ipipip/rtp/225.1.4.171:1710
 禹州综合,http://ipipip/rtp/225.1.4.238:1284
 临颍综合,http://ipipip/rtp/225.1.5.26:1337
 驻马店新闻综合,http://ipipip/rtp/225.1.4.132:1168
-驻马店公共,http://ipipip/rtp/225.1.4.136:1172
+CCTV-1 综合,http://ipipip/rtp/225.1.4.136:1172
 驻马店科教,http://ipipip/rtp/225.1.4.133:1168
 西平综合,http://ipipip/rtp/225.1.5.29:1341
 漯河新闻综合,http://ipipip/rtp/225.1.4.126:1162
