@@ -2,53 +2,61 @@ name: zubo2
 
 on:
   schedule:
-  - cron: '25 3 * * *'   # UTC 04:23 = 北京 11:25
+    - cron: '25 3 * * *'
   workflow_dispatch:
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write        # 允许 push
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0   
-      
+          ref: main
+          fetch-depth: 0
+
       - name: Install Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y yt-dlp sed nmap
-        
+          sudo apt-get install -y yt-dlp sed nmap netcat-openbsd curl
+
       - name: 测试组播源
+        env:
+          TZ: Asia/Shanghai
+          CITY_JOBS: '3'
+          SPEED_JOBS: '5'
         run: |
-          # 设置中国时区
-          export TZ='Asia/Shanghai'
-          
-          cd $GITHUB_WORKSPACE
-          bash ./zubo.sh
-          
-          # 修改时间格式，加上时分秒
+          cd "$GITHUB_WORKSPACE"
+          chmod +x zubo.sh
+
+          # 方式1：只跑单个城市（推荐，快）
+          bash ./zubo.sh 48          # 48=安徽电信，按需改
+
+          # 方式2：跑全部城市（慢，几十个并发任务）
+          # bash ./zubo.sh 0
+
+          # ---- 合并所有城市 txt 到 zubo.txt ----
           time=$(date +"%Y/%m/%d %H:%M:%S")
-          echo "浙江频道 $time 更新,#genre#" > zubo.txt
-          
-          # 先添加浙江的源（如果存在）
-          if [ -f txt/浙江.txt ]; then
-              cat txt/浙江.txt >> zubo.txt
-          fi
-          
-          # 再添加其他所有txt文件（排除浙江.txt，避免重复）
-          for file in txt/*.txt; do
-              if [ "$(basename "$file")" != "浙江.txt" ]; then
-                  cat "$file" >> zubo.txt
-              fi
-          done
+          {
+            echo "组播源 $time 更新,#genre#"
+            for f in $(ls txt/*.txt 2>/dev/null | grep -v '/zubo\.txt$' | sort); do
+              cat "$f"
+            done
+          } > zubo.txt
+
+          echo "===== zubo.txt 前 20 行 ====="
+          head -n 20 zubo.txt
+          echo "===== 行数 ====="
+          wc -l zubo.txt
 
       - name: 更新组播源
         run: |
-          git pull
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "更新组播源"
+          git add -A
+          git diff --cached --quiet && echo "无变化" && exit 0
+          git commit -m "更新组播源 $(date +'%Y-%m-%d %H:%M:%S')"
           git push

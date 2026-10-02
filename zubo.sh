@@ -1,5 +1,11 @@
 #!/bin/bash
-# zubo.sh - 组播源检测与测速脚本（城市并发 + 测速并发 + FOFA 可选）
+# zubo.sh - 组播源检测与测速（手动并发版，兼容 GitHub Actions / Ubuntu runner）
+# 说明：
+#   - 不使用 xargs，全部用手动 & + wait 控制并发，兼容 bash/dash/BusyBox
+#   - 单城市：bash zubo.sh <编号>
+#   - 全部：  bash zubo.sh 0
+#   - 环境变量可调：NC_JOBS、SPEED_JOBS、CITY_JOBS
+#   - FOFA 可选：FOFA_ENABLE=1 FOFA_EMAIL=... FOFA_KEY=... FOFA_QBASE64=...
 
 # ============================================================
 # 可调参数（环境变量可覆盖）
@@ -10,12 +16,8 @@ CITY_JOBS=${CITY_JOBS:-3}           # 城市级并发（选项0时生效）
 CURL_CONNECT_TIMEOUT=${CURL_CONNECT_TIMEOUT:-5}
 CURL_MAX_TIME=${CURL_MAX_TIME:-40}
 
-# ============================================================
-# FOFA API 可选模块（默认关闭，设置以下环境变量后启用）
-#   用法示例：
-#     FOFA_EMAIL=you@x.com FOFA_KEY=xxxx FOFA_QBASE64=InVkcHh5... bash zubo.sh 7
-# ============================================================
-FOFA_ENABLE=${FOFA_ENABLE:-0}       # 1=启用，0=关闭
+# FOFA API 可选模块（默认关闭）
+FOFA_ENABLE=${FOFA_ENABLE:-0}
 FOFA_EMAIL=${FOFA_EMAIL:-}
 FOFA_KEY=${FOFA_KEY:-}
 FOFA_QBASE64=${FOFA_QBASE64:-}
@@ -32,9 +34,8 @@ mkdir -p ip txt tmp
 if [ $# -eq 0 ]; then
     echo "开始测试······"
     echo "在5秒内输入编号可选择城市（0=测试全部）"
-    echo "完整列表见脚本 case 分支，例如："
-    echo "  1.浙江电信  2.浙江联通  3.江苏电信  7.湖北电信 33.天津联通"
-    echo "  0 = 并发测试全部 71 个城市"
+    echo "示例：1.浙江电信  2.浙江联通  3.江苏电信  7.湖北电信  33.天津联通  48.安徽电信"
+    echo "完整列表见脚本 case 分支"
     if ! read -t 5 -p "超时未输入,将按默认设置测试全部: " city_choice || [ -z "$city_choice" ]; then
         echo "未检测到输入,默认测试全部"
         city_choice=0
@@ -121,18 +122,32 @@ case $city_choice in
     0)
         # ---- 城市级并发 ----
         echo "并发测试全部 71 个城市（城市并发=$CITY_JOBS）..."
-        # 主日志目录
         mkdir -p tmp/city_logs
-        # 每个城市一个子任务，用 xargs -P 控制并发
-        seq 1 71 | xargs -I{} -P "$CITY_JOBS" bash -c '
-            opt="$1"
-            log="tmp/city_logs/city_${opt}.log"
-            # 子进程内自己控制单城市内的并发数
-            NC_JOBS='"$NC_JOBS"' SPEED_JOBS='"$SPEED_JOBS"' \
-                bash "$0" "$opt" > "$log" 2>&1
-            echo "[城市 $opt] 完成 -> $log"
-        ' _ {}
-        echo "全部城市测试完成，日志在 tmp/city_logs/"
+        running=0
+        for opt in $(seq 1 71); do
+            (
+                log="tmp/city_logs/city_${opt}.log"
+                NC_JOBS="$NC_JOBS" SPEED_JOBS="$SPEED_JOBS" \
+                    bash "$0" "$opt" > "$log" 2>&1
+                echo "[城市 $opt] 完成 -> $log"
+            ) &
+            running=$((running + 1))
+            if [ "$running" -ge "$CITY_JOBS" ]; then
+                wait -n 2>/dev/null || wait
+                running=$((running - 1))
+            fi
+        done
+        wait
+
+        # ---- 合并所有城市 txt 到 zubo.txt ----
+        echo "全部城市测试完成，开始合并..."
+        out_all="txt/zubo.txt"
+        : > "$out_all"
+        for f in $(ls txt/*.txt 2>/dev/null | grep -v '/zubo\.txt$' | sort); do
+            cat "$f" >> "$out_all"
+            echo "" >> "$out_all"
+        done
+        echo "已合并到 $out_all"
         exit 0
         ;;
     *)
@@ -170,16 +185,13 @@ fi
 if [ "$FOFA_ENABLE" = "1" ]; then
     if [ -n "$FOFA_EMAIL" ] && [ -n "$FOFA_KEY" ] && [ -n "$FOFA_QBASE64" ]; then
         echo "从 FOFA API 拉取（size=$FOFA_SIZE）..."
-        fofa_api="https://fofa.info/api/v1/search/all"
         resp=$(curl -s --connect-timeout 10 --max-time 30 \
-            "${fofa_api}?email=${FOFA_EMAIL}&key=${FOFA_KEY}&qbase64=${FOFA_QBASE64}&size=${FOFA_SIZE}&fields=host")
-        # 简单校验返回是否含错误
+            "https://fofa.info/api/v1/search/all?email=${FOFA_EMAIL}&key=${FOFA_KEY}&qbase64=${FOFA_QBASE64}&size=${FOFA_SIZE}&fields=host")
         if echo "$resp" | grep -q '"error":true'; then
             echo "FOFA API 返回错误："
             echo "$resp" | head -c 500
             echo
         else
-            # 从 JSON 中提取 host 字段（形如 1.2.3.4:8080）
             echo "$resp" | grep -oE '[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+:[0-9]+' \
                 | sort -u >> "$tmp_ipfile"
             echo "FOFA 拉取完成。"
@@ -189,7 +201,7 @@ if [ "$FOFA_ENABLE" = "1" ]; then
     fi
 fi
 
-sort -u "$tmp_ipfile" | sed '/^\s*$/d' > "$ipfile"
+sort -u "$tmp_ipfile" | sed '/^[[:space:]]*$/d' > "$ipfile"
 rm -f "$tmp_ipfile"
 
 if [ ! -s "$ipfile" ]; then
@@ -199,14 +211,12 @@ if [ ! -s "$ipfile" ]; then
 fi
 
 # ============================================================
-# 5. 连通性检测（单城市内并发 nc）
+# 5. 连通性检测（手动并发 nc）
 # ============================================================
 : > "$good_ip"
 echo "开始连通性检测（并发 $NC_JOBS）..."
 
-export workdir
-
-check_one() {
+nc_worker() {
     ip="$1"
     [ -z "$ip" ] && return
     host=${ip%:*}
@@ -215,9 +225,18 @@ check_one() {
         echo "$ip" >> "$workdir/nc_ok.$$"
     fi
 }
-export -f check_one
 
-xargs -a "$ipfile" -I{} -P "$NC_JOBS" bash -c 'check_one "$@"' _ {}
+running=0
+while IFS= read -r ip; do
+    [ -z "$ip" ] && continue
+    nc_worker "$ip" &
+    running=$((running + 1))
+    if [ "$running" -ge "$NC_JOBS" ]; then
+        wait -n 2>/dev/null || wait
+        running=$((running - 1))
+    fi
+done < "$ipfile"
+wait
 
 cat "$workdir"/nc_ok.* 2>/dev/null | sort -u > "$good_ip"
 rm -f "$workdir"/nc_ok.*
@@ -233,17 +252,14 @@ if [ "$lines" -eq 0 ]; then
 fi
 
 # ============================================================
-# 6. 测速（单城市内并发 curl）
+# 6. 测速（手动并发 curl）
 # ============================================================
 : > "$speedlog"
 
-export STREAM="$stream"
-export CURL_CONNECT_TIMEOUT CURL_MAX_TIME
-
-speed_one() {
+speed_worker() {
     ip="$1"
     [ -z "$ip" ] && return
-    url="http://$ip/$STREAM"
+    url="http://$ip/$stream"
     speed_bps=$(curl -o /dev/null -s -w "%{speed_download}" \
                      --connect-timeout "$CURL_CONNECT_TIMEOUT" \
                      --max-time "$CURL_MAX_TIME" "$url" 2>/dev/null)
@@ -255,9 +271,18 @@ speed_one() {
     }')
     echo -e "${speed_bps}\t${human}\t${ip}" >> "$workdir/spd.$$"
 }
-export -f speed_one
 
-xargs -a "$good_ip" -I{} -P "$SPEED_JOBS" bash -c 'speed_one "$@"' _ {}
+running=0
+while IFS= read -r ip; do
+    [ -z "$ip" ] && continue
+    speed_worker "$ip" &
+    running=$((running + 1))
+    if [ "$running" -ge "$SPEED_JOBS" ]; then
+        wait -n 2>/dev/null || wait
+        running=$((running - 1))
+    fi
+done < "$good_ip"
+wait
 
 cat "$workdir"/spd.* > "$speedlog" 2>/dev/null
 rm -f "$workdir"/spd.*
