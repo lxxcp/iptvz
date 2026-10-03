@@ -138,7 +138,7 @@ CHC影迷电影,http://ipipip/udp/239.21.2.127:5002
 山东广播,http://ipipip/udp/239.21.2.36:5002
 东平综合,http://ipipip/udp/239.21.1.216:5002$1080p
 东昌综合,http://ipipip/udp/239.21.2.190:5002
-东明新闻综合,http://ipipip/udp/239.21.1.246:5002$576p
+东明综合,http://ipipip/udp/239.21.1.246:5002$576p
 东营公共,http://ipipip/udp/239.21.1.82:5002
 东营新闻综合,http://ipipip/udp/239.21.1.81:5002$576p
 东阿综合,http://ipipip/udp/239.21.2.61:5002

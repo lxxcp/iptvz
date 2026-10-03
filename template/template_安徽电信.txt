@@ -104,7 +104,6 @@ CHC影迷电影,http://ipipip/rtp/238.1.79.17:4248
 休宁新闻综合,http://ipipip/rtp/238.1.79.20:4272
 六安社会生活,http://ipipip/rtp/238.1.78.145:7032
 六安综合,http://ipipip/rtp/238.1.78.144:7024
-凤阳综合,http://ipipip/rtp/238.1.78.207:7528
 利辛新闻综合,http://ipipip/rtp/238.1.78.196:7440
 南陵新闻综合,http://ipipip/rtp/238.1.78.189:7384
 合肥新闻,http://ipipip/rtp/238.1.78.111:6760
@@ -207,3 +206,4 @@ CHC影迷电影,http://ipipip/rtp/238.1.79.17:4248
 央视网·解密,http://ipipip/rtp/238.1.79.6:4160
 央视网·足球,http://ipipip/rtp/238.1.78.250:7872
 央视网·鉴赏,http://ipipip/rtp/238.1.78.38:4096
+中国电信宣传,http://ipipip/rtp/238.1.78.207:7528

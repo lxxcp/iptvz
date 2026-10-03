@@ -165,7 +165,7 @@ CCTV4K,http://ipipip/rtp/239.11.0.61:5140$2160p
 优购物,http://ipipip/rtp/239.10.0.227:5140$576p
 优漫卡通,http://ipipip/rtp/239.11.0.63:5140$576p
 中国交通,http://ipipip/rtp/239.10.0.143:5140$1080p
-中视购物,http://ipipip/rtp/239.10.0.225:5140$576p
+CCTV中视购物,http://ipipip/rtp/239.10.0.225:5140$576p
 中央新影-中学生,http://ipipip/rtp/239.11.0.247:5140$576p
 IPTV谍战剧场,http://ipipip/rtp/239.10.0.123:5140$1080p
 IPTV经典电影,http://ipipip/rtp/239.10.0.122:5140$1080p
@@ -209,5 +209,5 @@ IPTV热播剧场,http://ipipip/rtp/239.10.0.121:5140$1080p
 咪视界22,http://ipipip/rtp/239.10.0.236:5140$1080p
 咪视界23,http://ipipip/rtp/239.10.0.238:5140$1080p
 咪视界24,http://ipipip/rtp/239.10.0.239:5140$1080p
-关于部分,http://ipipip/rtp/239.11.0.85:5140$1080p
+
 
