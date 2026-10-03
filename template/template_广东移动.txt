@@ -30,6 +30,11 @@ CCTV-1 综合,http://ipipip/rtp/239.20.0.96:3016
 CCTV-2 财经,http://ipipip/rtp/239.20.0.197:2192
 CCTV-3 综艺,http://ipipip/rtp/239.20.0.28:3292
 CCTV-4 中文国际,http://ipipip/rtp/239.20.0.16:3340
+CCTV-4 欧洲,http://ipipip/rtp/239.11.0.101:1025
+CCTV-4 欧洲,http://ipipip/rtp/239.21.0.107:3768
+CCTV-4 欧洲,http://ipipip/rtp/239.11.0.187:1025
+CCTV-4 美洲,http://ipipip/rtp/239.11.0.102:1025
+CCTV-4 美洲,http://ipipip/rtp/239.21.0.108:3772
 CCTV-5 体育,http://ipipip/rtp/239.20.0.30:3284
 CCTV-5+ 体育赛事,http://ipipip/rtp/239.20.0.203:2204
 CCTV-6 电影,http://ipipip/rtp/239.20.0.29:3288
@@ -42,6 +47,7 @@ CCTV-12 社会与法,http://ipipip/rtp/239.20.0.201:2200
 CCTV-13 新闻,http://ipipip/rtp/239.21.0.88:3692
 CCTV-14 少儿,http://ipipip/rtp/239.20.0.202:2202
 CCTV-15 音乐,http://ipipip/rtp/239.21.0.36:3484
+CCTV-16 奥林匹克,http://ipipip/rtp/239.11.0.126:1025
 CCTV-17 农业农村,http://ipipip/rtp/239.20.0.7:3376
 CCTV世界地理,http://ipipip/rtp/239.21.0.74:3636
 CCTV兵器科技,http://ipipip/rtp/239.21.0.80:3660
