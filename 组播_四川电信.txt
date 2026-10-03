@@ -118,6 +118,7 @@ CCTV-15 音乐,http://www.160638.xyz:8888/rtp/239.94.0.15:5140$1080p
 CCTV-15 音乐,http://www.160638.xyz:8888/rtp/239.94.0.38:5140$1080p
 CCTV-17 农业农村,http://www.160638.xyz:8888/rtp/239.94.0.17:5140$1080p
 CCTV-17 农业农村,http://www.160638.xyz:8888/rtp/239.94.0.39:5140$1080p
+
 4K乐享,http://www.160638.xyz:8888/rtp/239.94.1.162:5140
 4K乐享,http://www.160638.xyz:8888/rtp/239.94.1.164:5140$1080p
 4K少儿,http://www.160638.xyz:8888/rtp/239.94.1.70:5140
@@ -140,10 +141,7 @@ CHC影迷电影,http://www.160638.xyz:8888/rtp/239.94.1.174:5140$1080p
 云看熊猫,http://www.160638.xyz:8888/rtp/239.94.1.7:5140
 亲子趣学4K,http://www.160638.xyz:8888/rtp/239.94.1.156:5140
 优漫卡通,http://www.160638.xyz:8888/rtp/239.94.1.31:5140$576p
-健康之路,http://www.160638.xyz:8888/rtp/239.94.1.41:5140$1080p
 健康养生,http://www.160638.xyz:8888/rtp/239.94.1.27:5140$1080p
-全球大片,http://www.160638.xyz:8888/rtp/239.94.1.24:5140$1080p
-军事专区,http://www.160638.xyz:8888/rtp/239.94.1.52:5140$1080p
 动漫秀场,http://www.160638.xyz:8888/rtp/239.94.1.171:5140$1080p
 华语影院,http://www.160638.xyz:8888/rtp/239.94.1.22:5140$1080p
 嘉佳卡通,http://www.160638.xyz:8888/rtp/239.94.1.10:5140$576p
@@ -154,31 +152,23 @@ CHC影迷电影,http://www.160638.xyz:8888/rtp/239.94.1.174:5140$1080p
 四川文化旅游,http://www.160638.xyz:8888/rtp/239.94.1.6:5140$1080p
 四川新闻,http://www.160638.xyz:8888/rtp/239.94.1.3:5140$1080p
 四海钓鱼,http://www.160638.xyz:8888/rtp/239.94.1.168:5140$1080p
-地理专区,http://www.160638.xyz:8888/rtp/239.94.1.54:5140$1080p
-墨宝专区,http://www.160638.xyz:8888/rtp/239.94.1.51:5140$1080p
 多彩文体,http://www.160638.xyz:8888/rtp/239.94.1.176:5140
 大爱四川专区,http://www.160638.xyz:8888/rtp/239.94.1.12:5140$1080p
 大爱四川专区,http://www.160638.xyz:8888/rtp/239.94.1.13:5140$1080p
 大爱四川专区,http://www.160638.xyz:8888/rtp/239.94.1.14:5140$1080p
 大爱时尚专区,http://www.160638.xyz:8888/rtp/239.94.1.15:5140$1080p
 天元围棋,http://www.160638.xyz:8888/rtp/239.94.1.152:5140$1080p
-宝宝动画,http://www.160638.xyz:8888/rtp/239.94.1.32:5140$1080p
 家庭理财,http://www.160638.xyz:8888/rtp/239.94.1.50:5140$576p
 导视,http://www.160638.xyz:8888/rtp/239.94.1.64:5140$1080p
 导视专区,http://www.160638.xyz:8888/rtp/239.94.1.55:5140$576p
 少儿动画,http://www.160638.xyz:8888/rtp/239.94.1.33:5140$1080p
 少儿天地,http://www.160638.xyz:8888/rtp/239.94.1.138:5140$1080p
 快乐垂钓,http://www.160638.xyz:8888/rtp/239.94.1.153:5140$1080p
-戏曲专区,http://www.160638.xyz:8888/rtp/239.94.1.38:5140$1080p
-戏曲精选,http://www.160638.xyz:8888/rtp/239.94.1.37:5140$1080p
-收视指南,http://www.160638.xyz:8888/rtp/239.94.1.56:5140$1080p
-星光院线,http://www.160638.xyz:8888/rtp/239.94.1.23:5140$1080p
 来钓鱼吧,http://www.160638.xyz:8888/rtp/239.94.1.148:5140$1080p
 求索纪录,http://www.160638.xyz:8888/rtp/239.94.1.142:5140$1080p
 法治天地,http://www.160638.xyz:8888/rtp/239.94.1.166:5140$1080p
 游戏风云,http://www.160638.xyz:8888/rtp/239.94.1.46:5140$1080p
 热播剧场,http://www.160638.xyz:8888/rtp/239.94.1.25:5140$1080p
-热门剧场,http://www.160638.xyz:8888/rtp/239.94.1.26:5140$1080p
 热门综艺,http://www.160638.xyz:8888/rtp/239.94.1.35:5140$1080p
 爱体育,http://www.160638.xyz:8888/rtp/239.94.1.143:5140$1080p
 爱体育,http://www.160638.xyz:8888/rtp/239.94.1.44:5140$1080p
@@ -199,9 +189,6 @@ CHC影迷电影,http://www.160638.xyz:8888/rtp/239.94.1.174:5140$1080p
 环球旅游,http://www.160638.xyz:8888/rtp/239.94.1.147:5140$1080p
 生活时尚,http://www.160638.xyz:8888/rtp/239.94.1.146:5140$1080p
 生活时尚,http://www.160638.xyz:8888/rtp/239.94.1.40:5140$576p
-电竞天堂,http://www.160638.xyz:8888/rtp/239.94.1.45:5140$1080p
-百变课堂,http://www.160638.xyz:8888/rtp/239.94.1.43:5140$1080p
-看天下精选,http://www.160638.xyz:8888/rtp/239.94.1.68:5140$1080p
 精彩导视,http://www.160638.xyz:8888/rtp/239.94.1.63:5140
 精彩影视,http://www.160638.xyz:8888/rtp/239.94.1.172:5140$1080p
 红色影院,http://www.160638.xyz:8888/rtp/239.94.1.48:5140$1080p
@@ -209,19 +196,34 @@ CHC影迷电影,http://www.160638.xyz:8888/rtp/239.94.1.174:5140$1080p
 经典电影,http://www.160638.xyz:8888/rtp/239.94.1.21:5140$1080p
 绚影4K,http://www.160638.xyz:8888/rtp/239.94.1.150:5140
 蓉城先锋,http://www.160638.xyz:8888/rtp/239.94.1.57:5140$1080p
-解密专区,http://www.160638.xyz:8888/rtp/239.94.1.53:5140$1080p
-谍战剧场,http://www.160638.xyz:8888/rtp/239.94.1.28:5140$1080p
 财富天下,http://www.160638.xyz:8888/rtp/239.94.1.42:5140$1080p
 财富天下,http://www.160638.xyz:8888/rtp/239.94.1.67:5140$576p
-足球专区,http://www.160638.xyz:8888/rtp/239.94.1.47:5140$1080p
 都市剧场,http://www.160638.xyz:8888/rtp/239.94.1.133:5140$1080p
 金色学堂,http://www.160638.xyz:8888/rtp/239.94.1.165:5140$1080p
 金鹰卡通,http://www.160638.xyz:8888/rtp/239.94.1.30:5140$576p
 金鹰纪实,http://www.160638.xyz:8888/rtp/239.94.1.1:5140$1080p
-青春动漫,http://www.160638.xyz:8888/rtp/239.94.1.34:5140$1080p
-音乐现场,http://www.160638.xyz:8888/rtp/239.94.1.36:5140$1080p
 魅力时尚,http://www.160638.xyz:8888/rtp/239.94.1.39:5140$1080p
 麻辣体育,http://www.160638.xyz:8888/rtp/239.94.1.149:5140
+IPTV军事,http://www.160638.xyz:8888/rtp/239.94.1.52:5140$1080p
+IPTV地理,http://www.160638.xyz:8888/rtp/239.94.1.54:5140$1080p
+IPTV墨宝,http://www.160638.xyz:8888/rtp/239.94.1.51:5140$1080p
+IPTV戏曲,http://www.160638.xyz:8888/rtp/239.94.1.38:5140$1080p
+IPTV收视指南,http://www.160638.xyz:8888/rtp/239.94.1.56:5140$1080p
+IPTV爱生活,http://www.160638.xyz:8888/rtp/239.94.1.41:5140$1080p
+IPTV爱综艺,http://www.160638.xyz:8888/rtp/239.94.1.23:5140$1080p
+IPTV解密,http://www.160638.xyz:8888/rtp/239.94.1.53:5140$1080p
+IPTV足球,http://www.160638.xyz:8888/rtp/239.94.1.47:5140$1080p
+IPTV音乐现场,http://www.160638.xyz:8888/rtp/239.94.1.36:5140$1080p
+BESTV全球大片,http://www.160638.xyz:8888/rtp/239.94.1.24:5140$1080p
+BESTV宝宝动画,http://www.160638.xyz:8888/rtp/239.94.1.32:5140$1080p
+BESTV戏曲精选,http://www.160638.xyz:8888/rtp/239.94.1.37:5140$1080p
+BESTV热门剧场,http://www.160638.xyz:8888/rtp/239.94.1.26:5140$1080p
+BESTV电竞天堂,http://www.160638.xyz:8888/rtp/239.94.1.45:5140$1080p
+BESTV百变课堂,http://www.160638.xyz:8888/rtp/239.94.1.43:5140$1080p
+BESTV看天下精选,http://www.160638.xyz:8888/rtp/239.94.1.68:5140$1080p
+BESTV谍战剧场,http://www.160638.xyz:8888/rtp/239.94.1.28:5140$1080p
+BESTV青春动漫,http://www.160638.xyz:8888/rtp/239.94.1.34:5140$1080p
+
 
 BESTV,http://www.160638.xyz:8888/rtp/239.94.2.11:5140
 BESTV,http://www.160638.xyz:8888/rtp/239.94.2.12:5140$1080p
@@ -272,7 +274,6 @@ i成都,http://www.160638.xyz:8888/rtp/239.94.2.1:5140$1080p
 天翼4K,http://www.160638.xyz:8888/rtp/239.94.2.45:5140$1080p
 天翼4K,http://www.160638.xyz:8888/rtp/239.94.2.46:5140$1080p
 普天乐中餐厅,http://www.160638.xyz:8888/rtp/239.94.2.5:5140$720p
-未知,http://www.160638.xyz:8888/rtp/239.94.2.3:5140$368p
 爱喜剧,http://www.160638.xyz:8888/rtp/239.94.2.71:5140$1080p
 电信5G,http://www.160638.xyz:8888/rtp/239.94.2.19:5140$1080p
 电信5G,http://www.160638.xyz:8888/rtp/239.94.2.20:5140$1080p
@@ -286,7 +287,6 @@ i成都,http://www.160638.xyz:8888/rtp/239.94.2.1:5140$1080p
 风景,http://www.160638.xyz:8888/rtp/239.94.2.75:5140$720p
 风景,http://www.160638.xyz:8888/rtp/239.94.2.76:5140$1080p
 风景,http://www.160638.xyz:8888/rtp/239.94.2.77:5140$1080p
-黑屏,http://www.160638.xyz:8888/rtp/239.94.2.23:5140$1080p
 CCTV-1 综合,http://www.160638.xyz:8888/rtp/239.94.2.146:5140$320p
 CCTV-2 财经,http://www.160638.xyz:8888/rtp/239.94.2.147:5140$320p
 CCTV-3 综艺,http://www.160638.xyz:8888/rtp/239.94.2.148:5140$320p
@@ -322,7 +322,7 @@ CGTN,http://www.160638.xyz:8888/rtp/239.94.2.164:5140$320p
 四川新闻,http://www.160638.xyz:8888/rtp/239.94.2.178:5140$320p
 四川影视文艺,http://www.160638.xyz:8888/rtp/239.94.2.179:5140$320p
 四川星空购物,http://www.160638.xyz:8888/rtp/239.94.2.180:5140$320p
-四川妇女儿童,http://www.160638.xyz:8888/rtp/239.94.2.181:5140$320p
+四川女儿,http://www.160638.xyz:8888/rtp/239.94.2.181:5140$320p
 四川科教,http://www.160638.xyz:8888/rtp/239.94.2.182:5140$320p
 四川乡村,http://www.160638.xyz:8888/rtp/239.94.2.183:5140$320p
 康巴卫视,http://www.160638.xyz:8888/rtp/239.94.2.184:5140$320p
@@ -345,7 +345,7 @@ CGTN,http://www.160638.xyz:8888/rtp/239.94.2.164:5140$320p
 青海卫视,http://www.160638.xyz:8888/rtp/239.94.2.201:5140$320p
 宁夏卫视,http://www.160638.xyz:8888/rtp/239.94.2.202:5140$320p
 西藏卫视,http://www.160638.xyz:8888/rtp/239.94.2.203:5140$320p
-未知,http://www.160638.xyz:8888/rtp/239.94.2.204:5140$320p
+新疆卫视,http://www.160638.xyz:8888/rtp/239.94.2.204:5140$320p
 甘肃卫视,http://www.160638.xyz:8888/rtp/239.94.2.205:5140$320p
 海南卫视,http://www.160638.xyz:8888/rtp/239.94.2.206:5140$320p
 辽宁卫视,http://www.160638.xyz:8888/rtp/239.94.2.207:5140$320p
@@ -498,6 +498,7 @@ CCTV-15 音乐,http://www.yanbingg.com:1888/rtp/239.94.0.15:5140$1080p
 CCTV-15 音乐,http://www.yanbingg.com:1888/rtp/239.94.0.38:5140$1080p
 CCTV-17 农业农村,http://www.yanbingg.com:1888/rtp/239.94.0.17:5140$1080p
 CCTV-17 农业农村,http://www.yanbingg.com:1888/rtp/239.94.0.39:5140$1080p
+
 4K乐享,http://www.yanbingg.com:1888/rtp/239.94.1.162:5140
 4K乐享,http://www.yanbingg.com:1888/rtp/239.94.1.164:5140$1080p
 4K少儿,http://www.yanbingg.com:1888/rtp/239.94.1.70:5140
@@ -520,10 +521,7 @@ CHC影迷电影,http://www.yanbingg.com:1888/rtp/239.94.1.174:5140$1080p
 云看熊猫,http://www.yanbingg.com:1888/rtp/239.94.1.7:5140
 亲子趣学4K,http://www.yanbingg.com:1888/rtp/239.94.1.156:5140
 优漫卡通,http://www.yanbingg.com:1888/rtp/239.94.1.31:5140$576p
-健康之路,http://www.yanbingg.com:1888/rtp/239.94.1.41:5140$1080p
 健康养生,http://www.yanbingg.com:1888/rtp/239.94.1.27:5140$1080p
-全球大片,http://www.yanbingg.com:1888/rtp/239.94.1.24:5140$1080p
-军事专区,http://www.yanbingg.com:1888/rtp/239.94.1.52:5140$1080p
 动漫秀场,http://www.yanbingg.com:1888/rtp/239.94.1.171:5140$1080p
 华语影院,http://www.yanbingg.com:1888/rtp/239.94.1.22:5140$1080p
 嘉佳卡通,http://www.yanbingg.com:1888/rtp/239.94.1.10:5140$576p
@@ -534,31 +532,23 @@ CHC影迷电影,http://www.yanbingg.com:1888/rtp/239.94.1.174:5140$1080p
 四川文化旅游,http://www.yanbingg.com:1888/rtp/239.94.1.6:5140$1080p
 四川新闻,http://www.yanbingg.com:1888/rtp/239.94.1.3:5140$1080p
 四海钓鱼,http://www.yanbingg.com:1888/rtp/239.94.1.168:5140$1080p
-地理专区,http://www.yanbingg.com:1888/rtp/239.94.1.54:5140$1080p
-墨宝专区,http://www.yanbingg.com:1888/rtp/239.94.1.51:5140$1080p
 多彩文体,http://www.yanbingg.com:1888/rtp/239.94.1.176:5140
 大爱四川专区,http://www.yanbingg.com:1888/rtp/239.94.1.12:5140$1080p
 大爱四川专区,http://www.yanbingg.com:1888/rtp/239.94.1.13:5140$1080p
 大爱四川专区,http://www.yanbingg.com:1888/rtp/239.94.1.14:5140$1080p
 大爱时尚专区,http://www.yanbingg.com:1888/rtp/239.94.1.15:5140$1080p
 天元围棋,http://www.yanbingg.com:1888/rtp/239.94.1.152:5140$1080p
-宝宝动画,http://www.yanbingg.com:1888/rtp/239.94.1.32:5140$1080p
 家庭理财,http://www.yanbingg.com:1888/rtp/239.94.1.50:5140$576p
 导视,http://www.yanbingg.com:1888/rtp/239.94.1.64:5140$1080p
 导视专区,http://www.yanbingg.com:1888/rtp/239.94.1.55:5140$576p
 少儿动画,http://www.yanbingg.com:1888/rtp/239.94.1.33:5140$1080p
 少儿天地,http://www.yanbingg.com:1888/rtp/239.94.1.138:5140$1080p
 快乐垂钓,http://www.yanbingg.com:1888/rtp/239.94.1.153:5140$1080p
-戏曲专区,http://www.yanbingg.com:1888/rtp/239.94.1.38:5140$1080p
-戏曲精选,http://www.yanbingg.com:1888/rtp/239.94.1.37:5140$1080p
-收视指南,http://www.yanbingg.com:1888/rtp/239.94.1.56:5140$1080p
-星光院线,http://www.yanbingg.com:1888/rtp/239.94.1.23:5140$1080p
 来钓鱼吧,http://www.yanbingg.com:1888/rtp/239.94.1.148:5140$1080p
 求索纪录,http://www.yanbingg.com:1888/rtp/239.94.1.142:5140$1080p
 法治天地,http://www.yanbingg.com:1888/rtp/239.94.1.166:5140$1080p
 游戏风云,http://www.yanbingg.com:1888/rtp/239.94.1.46:5140$1080p
 热播剧场,http://www.yanbingg.com:1888/rtp/239.94.1.25:5140$1080p
-热门剧场,http://www.yanbingg.com:1888/rtp/239.94.1.26:5140$1080p
 热门综艺,http://www.yanbingg.com:1888/rtp/239.94.1.35:5140$1080p
 爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.143:5140$1080p
 爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.44:5140$1080p
@@ -579,9 +569,6 @@ CHC影迷电影,http://www.yanbingg.com:1888/rtp/239.94.1.174:5140$1080p
 环球旅游,http://www.yanbingg.com:1888/rtp/239.94.1.147:5140$1080p
 生活时尚,http://www.yanbingg.com:1888/rtp/239.94.1.146:5140$1080p
 生活时尚,http://www.yanbingg.com:1888/rtp/239.94.1.40:5140$576p
-电竞天堂,http://www.yanbingg.com:1888/rtp/239.94.1.45:5140$1080p
-百变课堂,http://www.yanbingg.com:1888/rtp/239.94.1.43:5140$1080p
-看天下精选,http://www.yanbingg.com:1888/rtp/239.94.1.68:5140$1080p
 精彩导视,http://www.yanbingg.com:1888/rtp/239.94.1.63:5140
 精彩影视,http://www.yanbingg.com:1888/rtp/239.94.1.172:5140$1080p
 红色影院,http://www.yanbingg.com:1888/rtp/239.94.1.48:5140$1080p
@@ -589,19 +576,34 @@ CHC影迷电影,http://www.yanbingg.com:1888/rtp/239.94.1.174:5140$1080p
 经典电影,http://www.yanbingg.com:1888/rtp/239.94.1.21:5140$1080p
 绚影4K,http://www.yanbingg.com:1888/rtp/239.94.1.150:5140
 蓉城先锋,http://www.yanbingg.com:1888/rtp/239.94.1.57:5140$1080p
-解密专区,http://www.yanbingg.com:1888/rtp/239.94.1.53:5140$1080p
-谍战剧场,http://www.yanbingg.com:1888/rtp/239.94.1.28:5140$1080p
 财富天下,http://www.yanbingg.com:1888/rtp/239.94.1.42:5140$1080p
 财富天下,http://www.yanbingg.com:1888/rtp/239.94.1.67:5140$576p
-足球专区,http://www.yanbingg.com:1888/rtp/239.94.1.47:5140$1080p
 都市剧场,http://www.yanbingg.com:1888/rtp/239.94.1.133:5140$1080p
 金色学堂,http://www.yanbingg.com:1888/rtp/239.94.1.165:5140$1080p
 金鹰卡通,http://www.yanbingg.com:1888/rtp/239.94.1.30:5140$576p
 金鹰纪实,http://www.yanbingg.com:1888/rtp/239.94.1.1:5140$1080p
-青春动漫,http://www.yanbingg.com:1888/rtp/239.94.1.34:5140$1080p
-音乐现场,http://www.yanbingg.com:1888/rtp/239.94.1.36:5140$1080p
 魅力时尚,http://www.yanbingg.com:1888/rtp/239.94.1.39:5140$1080p
 麻辣体育,http://www.yanbingg.com:1888/rtp/239.94.1.149:5140
+IPTV军事,http://www.yanbingg.com:1888/rtp/239.94.1.52:5140$1080p
+IPTV地理,http://www.yanbingg.com:1888/rtp/239.94.1.54:5140$1080p
+IPTV墨宝,http://www.yanbingg.com:1888/rtp/239.94.1.51:5140$1080p
+IPTV戏曲,http://www.yanbingg.com:1888/rtp/239.94.1.38:5140$1080p
+IPTV收视指南,http://www.yanbingg.com:1888/rtp/239.94.1.56:5140$1080p
+IPTV爱生活,http://www.yanbingg.com:1888/rtp/239.94.1.41:5140$1080p
+IPTV爱综艺,http://www.yanbingg.com:1888/rtp/239.94.1.23:5140$1080p
+IPTV解密,http://www.yanbingg.com:1888/rtp/239.94.1.53:5140$1080p
+IPTV足球,http://www.yanbingg.com:1888/rtp/239.94.1.47:5140$1080p
+IPTV音乐现场,http://www.yanbingg.com:1888/rtp/239.94.1.36:5140$1080p
+BESTV全球大片,http://www.yanbingg.com:1888/rtp/239.94.1.24:5140$1080p
+BESTV宝宝动画,http://www.yanbingg.com:1888/rtp/239.94.1.32:5140$1080p
+BESTV戏曲精选,http://www.yanbingg.com:1888/rtp/239.94.1.37:5140$1080p
+BESTV热门剧场,http://www.yanbingg.com:1888/rtp/239.94.1.26:5140$1080p
+BESTV电竞天堂,http://www.yanbingg.com:1888/rtp/239.94.1.45:5140$1080p
+BESTV百变课堂,http://www.yanbingg.com:1888/rtp/239.94.1.43:5140$1080p
+BESTV看天下精选,http://www.yanbingg.com:1888/rtp/239.94.1.68:5140$1080p
+BESTV谍战剧场,http://www.yanbingg.com:1888/rtp/239.94.1.28:5140$1080p
+BESTV青春动漫,http://www.yanbingg.com:1888/rtp/239.94.1.34:5140$1080p
+
 
 BESTV,http://www.yanbingg.com:1888/rtp/239.94.2.11:5140
 BESTV,http://www.yanbingg.com:1888/rtp/239.94.2.12:5140$1080p
@@ -652,7 +654,6 @@ i成都,http://www.yanbingg.com:1888/rtp/239.94.2.1:5140$1080p
 天翼4K,http://www.yanbingg.com:1888/rtp/239.94.2.45:5140$1080p
 天翼4K,http://www.yanbingg.com:1888/rtp/239.94.2.46:5140$1080p
 普天乐中餐厅,http://www.yanbingg.com:1888/rtp/239.94.2.5:5140$720p
-未知,http://www.yanbingg.com:1888/rtp/239.94.2.3:5140$368p
 爱喜剧,http://www.yanbingg.com:1888/rtp/239.94.2.71:5140$1080p
 电信5G,http://www.yanbingg.com:1888/rtp/239.94.2.19:5140$1080p
 电信5G,http://www.yanbingg.com:1888/rtp/239.94.2.20:5140$1080p
@@ -666,7 +667,6 @@ i成都,http://www.yanbingg.com:1888/rtp/239.94.2.1:5140$1080p
 风景,http://www.yanbingg.com:1888/rtp/239.94.2.75:5140$720p
 风景,http://www.yanbingg.com:1888/rtp/239.94.2.76:5140$1080p
 风景,http://www.yanbingg.com:1888/rtp/239.94.2.77:5140$1080p
-黑屏,http://www.yanbingg.com:1888/rtp/239.94.2.23:5140$1080p
 CCTV-1 综合,http://www.yanbingg.com:1888/rtp/239.94.2.146:5140$320p
 CCTV-2 财经,http://www.yanbingg.com:1888/rtp/239.94.2.147:5140$320p
 CCTV-3 综艺,http://www.yanbingg.com:1888/rtp/239.94.2.148:5140$320p
@@ -702,7 +702,7 @@ CGTN,http://www.yanbingg.com:1888/rtp/239.94.2.164:5140$320p
 四川新闻,http://www.yanbingg.com:1888/rtp/239.94.2.178:5140$320p
 四川影视文艺,http://www.yanbingg.com:1888/rtp/239.94.2.179:5140$320p
 四川星空购物,http://www.yanbingg.com:1888/rtp/239.94.2.180:5140$320p
-四川妇女儿童,http://www.yanbingg.com:1888/rtp/239.94.2.181:5140$320p
+四川女儿,http://www.yanbingg.com:1888/rtp/239.94.2.181:5140$320p
 四川科教,http://www.yanbingg.com:1888/rtp/239.94.2.182:5140$320p
 四川乡村,http://www.yanbingg.com:1888/rtp/239.94.2.183:5140$320p
 康巴卫视,http://www.yanbingg.com:1888/rtp/239.94.2.184:5140$320p
@@ -725,7 +725,7 @@ CGTN,http://www.yanbingg.com:1888/rtp/239.94.2.164:5140$320p
 青海卫视,http://www.yanbingg.com:1888/rtp/239.94.2.201:5140$320p
 宁夏卫视,http://www.yanbingg.com:1888/rtp/239.94.2.202:5140$320p
 西藏卫视,http://www.yanbingg.com:1888/rtp/239.94.2.203:5140$320p
-未知,http://www.yanbingg.com:1888/rtp/239.94.2.204:5140$320p
+新疆卫视,http://www.yanbingg.com:1888/rtp/239.94.2.204:5140$320p
 甘肃卫视,http://www.yanbingg.com:1888/rtp/239.94.2.205:5140$320p
 海南卫视,http://www.yanbingg.com:1888/rtp/239.94.2.206:5140$320p
 辽宁卫视,http://www.yanbingg.com:1888/rtp/239.94.2.207:5140$320p
@@ -878,6 +878,7 @@ CCTV-15 音乐,http://yanke.icu:20189/rtp/239.94.0.15:5140$1080p
 CCTV-15 音乐,http://yanke.icu:20189/rtp/239.94.0.38:5140$1080p
 CCTV-17 农业农村,http://yanke.icu:20189/rtp/239.94.0.17:5140$1080p
 CCTV-17 农业农村,http://yanke.icu:20189/rtp/239.94.0.39:5140$1080p
+
 4K乐享,http://yanke.icu:20189/rtp/239.94.1.162:5140
 4K乐享,http://yanke.icu:20189/rtp/239.94.1.164:5140$1080p
 4K少儿,http://yanke.icu:20189/rtp/239.94.1.70:5140
@@ -900,10 +901,7 @@ CHC影迷电影,http://yanke.icu:20189/rtp/239.94.1.174:5140$1080p
 云看熊猫,http://yanke.icu:20189/rtp/239.94.1.7:5140
 亲子趣学4K,http://yanke.icu:20189/rtp/239.94.1.156:5140
 优漫卡通,http://yanke.icu:20189/rtp/239.94.1.31:5140$576p
-健康之路,http://yanke.icu:20189/rtp/239.94.1.41:5140$1080p
 健康养生,http://yanke.icu:20189/rtp/239.94.1.27:5140$1080p
-全球大片,http://yanke.icu:20189/rtp/239.94.1.24:5140$1080p
-军事专区,http://yanke.icu:20189/rtp/239.94.1.52:5140$1080p
 动漫秀场,http://yanke.icu:20189/rtp/239.94.1.171:5140$1080p
 华语影院,http://yanke.icu:20189/rtp/239.94.1.22:5140$1080p
 嘉佳卡通,http://yanke.icu:20189/rtp/239.94.1.10:5140$576p
@@ -914,31 +912,23 @@ CHC影迷电影,http://yanke.icu:20189/rtp/239.94.1.174:5140$1080p
 四川文化旅游,http://yanke.icu:20189/rtp/239.94.1.6:5140$1080p
 四川新闻,http://yanke.icu:20189/rtp/239.94.1.3:5140$1080p
 四海钓鱼,http://yanke.icu:20189/rtp/239.94.1.168:5140$1080p
-地理专区,http://yanke.icu:20189/rtp/239.94.1.54:5140$1080p
-墨宝专区,http://yanke.icu:20189/rtp/239.94.1.51:5140$1080p
 多彩文体,http://yanke.icu:20189/rtp/239.94.1.176:5140
 大爱四川专区,http://yanke.icu:20189/rtp/239.94.1.12:5140$1080p
 大爱四川专区,http://yanke.icu:20189/rtp/239.94.1.13:5140$1080p
 大爱四川专区,http://yanke.icu:20189/rtp/239.94.1.14:5140$1080p
 大爱时尚专区,http://yanke.icu:20189/rtp/239.94.1.15:5140$1080p
 天元围棋,http://yanke.icu:20189/rtp/239.94.1.152:5140$1080p
-宝宝动画,http://yanke.icu:20189/rtp/239.94.1.32:5140$1080p
 家庭理财,http://yanke.icu:20189/rtp/239.94.1.50:5140$576p
 导视,http://yanke.icu:20189/rtp/239.94.1.64:5140$1080p
 导视专区,http://yanke.icu:20189/rtp/239.94.1.55:5140$576p
 少儿动画,http://yanke.icu:20189/rtp/239.94.1.33:5140$1080p
 少儿天地,http://yanke.icu:20189/rtp/239.94.1.138:5140$1080p
 快乐垂钓,http://yanke.icu:20189/rtp/239.94.1.153:5140$1080p
-戏曲专区,http://yanke.icu:20189/rtp/239.94.1.38:5140$1080p
-戏曲精选,http://yanke.icu:20189/rtp/239.94.1.37:5140$1080p
-收视指南,http://yanke.icu:20189/rtp/239.94.1.56:5140$1080p
-星光院线,http://yanke.icu:20189/rtp/239.94.1.23:5140$1080p
 来钓鱼吧,http://yanke.icu:20189/rtp/239.94.1.148:5140$1080p
 求索纪录,http://yanke.icu:20189/rtp/239.94.1.142:5140$1080p
 法治天地,http://yanke.icu:20189/rtp/239.94.1.166:5140$1080p
 游戏风云,http://yanke.icu:20189/rtp/239.94.1.46:5140$1080p
 热播剧场,http://yanke.icu:20189/rtp/239.94.1.25:5140$1080p
-热门剧场,http://yanke.icu:20189/rtp/239.94.1.26:5140$1080p
 热门综艺,http://yanke.icu:20189/rtp/239.94.1.35:5140$1080p
 爱体育,http://yanke.icu:20189/rtp/239.94.1.143:5140$1080p
 爱体育,http://yanke.icu:20189/rtp/239.94.1.44:5140$1080p
@@ -959,9 +949,6 @@ CHC影迷电影,http://yanke.icu:20189/rtp/239.94.1.174:5140$1080p
 环球旅游,http://yanke.icu:20189/rtp/239.94.1.147:5140$1080p
 生活时尚,http://yanke.icu:20189/rtp/239.94.1.146:5140$1080p
 生活时尚,http://yanke.icu:20189/rtp/239.94.1.40:5140$576p
-电竞天堂,http://yanke.icu:20189/rtp/239.94.1.45:5140$1080p
-百变课堂,http://yanke.icu:20189/rtp/239.94.1.43:5140$1080p
-看天下精选,http://yanke.icu:20189/rtp/239.94.1.68:5140$1080p
 精彩导视,http://yanke.icu:20189/rtp/239.94.1.63:5140
 精彩影视,http://yanke.icu:20189/rtp/239.94.1.172:5140$1080p
 红色影院,http://yanke.icu:20189/rtp/239.94.1.48:5140$1080p
@@ -969,19 +956,34 @@ CHC影迷电影,http://yanke.icu:20189/rtp/239.94.1.174:5140$1080p
 经典电影,http://yanke.icu:20189/rtp/239.94.1.21:5140$1080p
 绚影4K,http://yanke.icu:20189/rtp/239.94.1.150:5140
 蓉城先锋,http://yanke.icu:20189/rtp/239.94.1.57:5140$1080p
-解密专区,http://yanke.icu:20189/rtp/239.94.1.53:5140$1080p
-谍战剧场,http://yanke.icu:20189/rtp/239.94.1.28:5140$1080p
 财富天下,http://yanke.icu:20189/rtp/239.94.1.42:5140$1080p
 财富天下,http://yanke.icu:20189/rtp/239.94.1.67:5140$576p
-足球专区,http://yanke.icu:20189/rtp/239.94.1.47:5140$1080p
 都市剧场,http://yanke.icu:20189/rtp/239.94.1.133:5140$1080p
 金色学堂,http://yanke.icu:20189/rtp/239.94.1.165:5140$1080p
 金鹰卡通,http://yanke.icu:20189/rtp/239.94.1.30:5140$576p
 金鹰纪实,http://yanke.icu:20189/rtp/239.94.1.1:5140$1080p
-青春动漫,http://yanke.icu:20189/rtp/239.94.1.34:5140$1080p
-音乐现场,http://yanke.icu:20189/rtp/239.94.1.36:5140$1080p
 魅力时尚,http://yanke.icu:20189/rtp/239.94.1.39:5140$1080p
 麻辣体育,http://yanke.icu:20189/rtp/239.94.1.149:5140
+IPTV军事,http://yanke.icu:20189/rtp/239.94.1.52:5140$1080p
+IPTV地理,http://yanke.icu:20189/rtp/239.94.1.54:5140$1080p
+IPTV墨宝,http://yanke.icu:20189/rtp/239.94.1.51:5140$1080p
+IPTV戏曲,http://yanke.icu:20189/rtp/239.94.1.38:5140$1080p
+IPTV收视指南,http://yanke.icu:20189/rtp/239.94.1.56:5140$1080p
+IPTV爱生活,http://yanke.icu:20189/rtp/239.94.1.41:5140$1080p
+IPTV爱综艺,http://yanke.icu:20189/rtp/239.94.1.23:5140$1080p
+IPTV解密,http://yanke.icu:20189/rtp/239.94.1.53:5140$1080p
+IPTV足球,http://yanke.icu:20189/rtp/239.94.1.47:5140$1080p
+IPTV音乐现场,http://yanke.icu:20189/rtp/239.94.1.36:5140$1080p
+BESTV全球大片,http://yanke.icu:20189/rtp/239.94.1.24:5140$1080p
+BESTV宝宝动画,http://yanke.icu:20189/rtp/239.94.1.32:5140$1080p
+BESTV戏曲精选,http://yanke.icu:20189/rtp/239.94.1.37:5140$1080p
+BESTV热门剧场,http://yanke.icu:20189/rtp/239.94.1.26:5140$1080p
+BESTV电竞天堂,http://yanke.icu:20189/rtp/239.94.1.45:5140$1080p
+BESTV百变课堂,http://yanke.icu:20189/rtp/239.94.1.43:5140$1080p
+BESTV看天下精选,http://yanke.icu:20189/rtp/239.94.1.68:5140$1080p
+BESTV谍战剧场,http://yanke.icu:20189/rtp/239.94.1.28:5140$1080p
+BESTV青春动漫,http://yanke.icu:20189/rtp/239.94.1.34:5140$1080p
+
 
 BESTV,http://yanke.icu:20189/rtp/239.94.2.11:5140
 BESTV,http://yanke.icu:20189/rtp/239.94.2.12:5140$1080p
@@ -1032,7 +1034,6 @@ i成都,http://yanke.icu:20189/rtp/239.94.2.1:5140$1080p
 天翼4K,http://yanke.icu:20189/rtp/239.94.2.45:5140$1080p
 天翼4K,http://yanke.icu:20189/rtp/239.94.2.46:5140$1080p
 普天乐中餐厅,http://yanke.icu:20189/rtp/239.94.2.5:5140$720p
-未知,http://yanke.icu:20189/rtp/239.94.2.3:5140$368p
 爱喜剧,http://yanke.icu:20189/rtp/239.94.2.71:5140$1080p
 电信5G,http://yanke.icu:20189/rtp/239.94.2.19:5140$1080p
 电信5G,http://yanke.icu:20189/rtp/239.94.2.20:5140$1080p
@@ -1046,7 +1047,6 @@ i成都,http://yanke.icu:20189/rtp/239.94.2.1:5140$1080p
 风景,http://yanke.icu:20189/rtp/239.94.2.75:5140$720p
 风景,http://yanke.icu:20189/rtp/239.94.2.76:5140$1080p
 风景,http://yanke.icu:20189/rtp/239.94.2.77:5140$1080p
-黑屏,http://yanke.icu:20189/rtp/239.94.2.23:5140$1080p
 CCTV-1 综合,http://yanke.icu:20189/rtp/239.94.2.146:5140$320p
 CCTV-2 财经,http://yanke.icu:20189/rtp/239.94.2.147:5140$320p
 CCTV-3 综艺,http://yanke.icu:20189/rtp/239.94.2.148:5140$320p
@@ -1082,7 +1082,7 @@ CGTN,http://yanke.icu:20189/rtp/239.94.2.164:5140$320p
 四川新闻,http://yanke.icu:20189/rtp/239.94.2.178:5140$320p
 四川影视文艺,http://yanke.icu:20189/rtp/239.94.2.179:5140$320p
 四川星空购物,http://yanke.icu:20189/rtp/239.94.2.180:5140$320p
-四川妇女儿童,http://yanke.icu:20189/rtp/239.94.2.181:5140$320p
+四川女儿,http://yanke.icu:20189/rtp/239.94.2.181:5140$320p
 四川科教,http://yanke.icu:20189/rtp/239.94.2.182:5140$320p
 四川乡村,http://yanke.icu:20189/rtp/239.94.2.183:5140$320p
 康巴卫视,http://yanke.icu:20189/rtp/239.94.2.184:5140$320p
@@ -1105,7 +1105,7 @@ CGTN,http://yanke.icu:20189/rtp/239.94.2.164:5140$320p
 青海卫视,http://yanke.icu:20189/rtp/239.94.2.201:5140$320p
 宁夏卫视,http://yanke.icu:20189/rtp/239.94.2.202:5140$320p
 西藏卫视,http://yanke.icu:20189/rtp/239.94.2.203:5140$320p
-未知,http://yanke.icu:20189/rtp/239.94.2.204:5140$320p
+新疆卫视,http://yanke.icu:20189/rtp/239.94.2.204:5140$320p
 甘肃卫视,http://yanke.icu:20189/rtp/239.94.2.205:5140$320p
 海南卫视,http://yanke.icu:20189/rtp/239.94.2.206:5140$320p
 辽宁卫视,http://yanke.icu:20189/rtp/239.94.2.207:5140$320p
