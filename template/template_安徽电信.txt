@@ -162,7 +162,7 @@ CHC影迷电影,http://ipipip/rtp/238.1.79.17:4248
 阜阳生活,http://ipipip/rtp/238.1.78.125:6872
 阜阳都市文艺,http://ipipip/rtp/238.1.78.127:6888
 霍山综合,http://ipipip/rtp/238.1.78.220:7632
-霍邱新闻综合,http://ipipip/rtp/238.1.78.119:6824
+霍邱综合,http://ipipip/rtp/238.1.78.119:6824
 颍上新闻综合,http://ipipip/rtp/238.1.78.194:7424
 马鞍山新闻综合,http://ipipip/rtp/238.1.79.15:4232
 马鞍山科教生活,http://ipipip/rtp/238.1.78.77:6488

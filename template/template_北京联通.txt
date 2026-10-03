@@ -105,7 +105,7 @@ BRTV财经,http://ipipip/rtp/239.3.1.116:8000
 睛彩竞技,http://ipipip/rtp/239.3.1.125:8001
 睛彩篮球,http://ipipip/rtp/239.3.1.126:8001
 睛彩青少,http://ipipip/rtp/239.3.1.127:8001
-求索记录,http://ipipip/rtp/239.3.1.107:8001
+求索纪录4K,http://ipipip/rtp/239.3.1.107:8001
 CHC动作电影,http://ipipip/rtp/239.3.1.106:8001
 环球旅游,http://ipipip/rtp/239.3.1.109:8001
 军旅剧场,http://ipipip/rtp/239.3.1.68:4120
@@ -113,7 +113,7 @@ CHC动作电影,http://ipipip/rtp/239.3.1.106:8001
 嘉佳卡通,http://ipipip/rtp/239.3.1.147:9268
 山东教育,http://ipipip/rtp/239.3.1.52:4120
 快乐垂钓,http://ipipip/rtp/239.3.1.164:8001
-收视指南,http://ipipip/rtp/239.3.1.193:8012
+IPTV收视指南,http://ipipip/rtp/239.3.1.193:8012
 经典电影,http://ipipip/rtp/239.3.1.195:9024
 证券服务,http://ipipip/rtp/239.3.1.24:8001
 财富天下,http://ipipip/rtp/239.3.1.53:9136
