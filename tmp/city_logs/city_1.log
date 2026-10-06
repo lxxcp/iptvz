@@ -2,14 +2,14 @@
 从 'ip/浙江电信_ip.txt' 读取 IP 并添加到检测列表
 开始连通性检测（并发 50）...
 连接成功 3 个,开始测速（并发 5）······
-[测速] dous.cc:4023  ->  887.46 k
-[测速] www.tangtuanpp.fun:4000  ->  937.13 k
-[测速] zjhuct.synology.me:8881  ->  1.04 M
+[测速] zjhuct.synology.me:8881  ->  1.01 M
+[测速] www.tangtuanpp.fun:4000  ->  864.70 k
+[测速] dous.cc:4023  ->  1.03 M
 测速完成，共 3 条结果。
 测速结果排序
 ----- 测速排行（前10）-----
-zjhuct.synology.me:8881 1.04 M
-www.tangtuanpp.fun:4000 937.13 k
-dous.cc:4023           887.46 k
+dous.cc:4023           1.03 M
+zjhuct.synology.me:8881 1.01 M
+www.tangtuanpp.fun:4000 864.70 k
 ---------------------------
 浙江电信 测试完成，生成可用文件：'txt/浙江电信.txt'
