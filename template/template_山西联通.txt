@@ -29,6 +29,7 @@ CCTV-14 少儿,http://ipipip/rtp/226.0.2.166:9240
 CCTV-14 少儿,http://ipipip/rtp/226.0.2.31:8160
 CCTV-15 音乐,http://ipipip/rtp/226.0.2.32:8168
 CCTV-16 奥林匹克,http://ipipip/rtp/226.0.2.169:9264
+CCTV-16 奥林匹克,http://ipipip/rtp/226.0.2.73:8496
 CCTV-17 农业农村,http://ipipip/rtp/226.0.2.170:9272
 CCTV-17 农业农村,http://ipipip/rtp/226.0.2.207:9568
 CCTV世界地理,http://ipipip/rtp/226.0.2.222:9688
