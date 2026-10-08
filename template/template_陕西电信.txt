@@ -75,6 +75,19 @@ CCTV-17 农业农村,http://ipipip/rtp/239.109.205.81:8584
 CCTV-17 农业农村,http://ipipip/rtp/239.109.205.88:8640
 CCTV-17 农业农村,http://ipipip/rtp/239.112.205.210:5140
 CCTV-17 农业农村,http://ipipip/rtp/239.112.205.211:5140
+CCTV第一剧场,http://ipipip/rtp/239.111.205.65:5140
+CCTV风云剧场,http://ipipip/rtp/239.111.205.66:5140
+CCTV怀旧剧场,http://ipipip/rtp/239.111.205.67:5140
+CCTV风云足球,http://ipipip/rtp/239.111.205.68:5140
+CCTV风云音乐,http://ipipip/rtp/239.111.205.69:5140
+CCTV央视台球,http://ipipip/rtp/239.111.205.70:5140
+CCTV世界地理,http://ipipip/rtp/239.111.205.71:5140
+CCTV女性时尚,http://ipipip/rtp/239.111.205.72:5140
+CCTV高尔夫网球,http://ipipip/rtp/239.111.205.73:5140
+CCTV兵器科技,http://ipipip/rtp/239.111.205.74:5140
+CCTV文化精品,http://ipipip/rtp/239.111.205.75:5140
+CCTV电视指南,http://ipipip/rtp/239.110.205.89:7920
+
 CCTV4K,http://ipipip/rtp/239.109.205.192:9608
 CCTV4K,http://ipipip/rtp/239.111.205.38:5140
 CCTV4K,http://ipipip/rtp/239.111.205.40:5140
@@ -100,6 +113,9 @@ CGTN纪录,http://ipipip/rtp/239.111.205.85:5140
 CGTN西语,http://ipipip/rtp/239.110.205.79:7960
 CGTN西语,http://ipipip/rtp/239.111.205.33:5140
 CGTN阿语,http://ipipip/rtp/239.111.205.86:5140
+HC家庭影院,http://ipipip/rtp/239.112.205.205:5140
+CHC高清电影,http://ipipip/rtp/239.112.205.206:5140
+CHC动作电影,http://ipipip/rtp/239.112.205.207:5140
 凤凰中文,http://ipipip/rtp/239.111.205.78:5140
 凤凰资讯,http://ipipip/rtp/239.111.205.82:5140
 爱上4K,http://ipipip/rtp/239.109.205.53:8360
@@ -354,13 +370,13 @@ CGTN阿语,http://ipipip/rtp/239.111.205.86:5140
 铜川综合,http://ipipip/rtp/239.109.205.194:9638
 铜川综合,http://ipipip/rtp/239.111.205.29:5140
 IPTV高网,http://ipipip/rtp/239.110.205.16:9810
-IPTV3,http://ipipip/rtp/239.109.205.197:9650
-IPTV3＋,http://ipipip/rtp/239.112.205.116:5140
-IPTV5,http://ipipip/rtp/239.109.205.211:9184
-IPTV6,http://ipipip/rtp/239.109.205.198:9654
-IPTV6＋,http://ipipip/rtp/239.112.205.118:5140
-IPTV8,http://ipipip/rtp/239.109.205.199:9658
-IPTV8＋,http://ipipip/rtp/239.112.205.119:5140
+IPTV爱综艺,http://ipipip/rtp/239.109.205.197:9650
+IPTV爱综艺,http://ipipip/rtp/239.112.205.116:5140
+IPTV爱体育,http://ipipip/rtp/239.109.205.211:9184
+IPTV爱电影,http://ipipip/rtp/239.109.205.198:9654
+IPTV爱电影,http://ipipip/rtp/239.112.205.118:5140
+IPTV电视剧,http://ipipip/rtp/239.109.205.199:9658
+IPTV电视剧,http://ipipip/rtp/239.112.205.119:5140
 IPTV相声小品,http://ipipip/rtp/239.109.205.212:9192
 IPTV爱生活,http://ipipip/rtp/239.110.205.55:9946
 IPTV爱生活,http://ipipip/rtp/239.112.205.234:5140
@@ -385,9 +401,8 @@ IPTV爱生活,http://ipipip/rtp/239.112.205.234:5140
 电影,http://ipipip/rtp/239.112.205.90:5140
 财富天下,http://ipipip/rtp/239.109.205.94:8688
 财富天下,http://ipipip/rtp/239.112.205.196:5140
-足球,http://ipipip/rtp/239.110.205.25:9846
-足球,http://ipipip/rtp/239.112.205.127:5140
-足球,http://ipipip/rtp/239.110.205.89:7920
+IPTV足球,http://ipipip/rtp/239.110.205.25:9846
+IPTV足球,http://ipipip/rtp/239.112.205.127:5140
 都市剧场,http://ipipip/rtp/239.109.205.50:8336
 都市剧场,http://ipipip/rtp/239.111.205.171:5140
 金色学堂,http://ipipip/rtp/239.109.205.65:8456
