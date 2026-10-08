@@ -3,7 +3,6 @@
 183.236.43.98:4013
 183.36.240.113:9901
 408.135560.xyz:58888
-58.62.234.226:10000
 ddns.cyruslee.top:8888
 demo.lbs.eeue.net:8888
 hongzhijiaoyu.net:8188
