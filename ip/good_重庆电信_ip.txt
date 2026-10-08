@@ -3,7 +3,5 @@
 125.80.95.44:8088
 17782331118.top:8188
 dyzy.pub:8003
-iid.ccwu.cc:4070
 www.msen.site:8000
 www.wpfhome.cn:5555
-zj.zh.kg:4070
