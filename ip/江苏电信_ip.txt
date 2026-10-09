@@ -6,3 +6,4 @@ njbobo.mycloudnas.com:4022
 qh.diaglepm.cn:8333
 vpn.a5521.top:9889
 www.huijie5421.cn:8800
+xurishangcheng.top:10888
