@@ -5,3 +5,5 @@
 27.184.217.150:12521
 27.188.107.116:9009
 prozyt.top:4022
+dsm4.xlangnan.cn:8189
+emby.xlangnan.cn:10316
