@@ -1,3 +1,6 @@
+
+更新时间,https://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+
 静态源,#genre#
 浙江卫视,https://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江钱江都市,https://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
@@ -691,3 +694,4 @@ baseUrl:http://litchi-play-encrypted-site.jstv.com/applive/
 达州新闻综合,http://file.dzrm.cn/nmip-media/channellive/channel104234/playlist.m3u8
 达州文化生活,http://file.dzrm.cn/nmip-media/channellive/channel104727/playlist.m3u8
 达州通川,http://file.dzrm.cn/nmip-media/channellive/channel105011/playlist.m3u8
+

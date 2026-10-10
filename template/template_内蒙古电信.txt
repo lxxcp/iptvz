@@ -2,8 +2,6 @@ BRTV卡酷少儿,http://ipipip/rtp/239.29.1.41:5001
 BRTV纪实科教,http://ipipip/rtp/239.29.0.110:5000
 CCTV-1 综合,http://ipipip/rtp/239.29.0.113:5000
 CCTV-1 综合,http://ipipip/rtp/239.29.0.133:5000
-CCTV-1 综合,http://ipipip/rtp/239.29.0.151:5000
-CCTV-1 综合,http://ipipip/rtp/239.29.1.151:5000
 CCTV-1 综合,http://ipipip/rtp/239.29.1.1:5001
 CCTV-2 财经,http://ipipip/rtp/239.29.0.116:5000
 CCTV-2 财经,http://ipipip/rtp/239.29.1.8:5001
@@ -157,6 +155,7 @@ CHC影迷电影,http://ipipip/rtp/239.29.1.178:5000
 满洲里综合,http://ipipip/rtp/239.29.0.34:5000
 乌拉特中旗综合,http://ipipip/rtp/239.29.0.152:5000
 乌前旗综合,http://ipipip/rtp/239.29.0.150:5000
+乌拉特后旗综合,http://ipipip/rtp/239.29.0.151:5000
 乌海新闻综合,http://ipipip/rtp/239.29.0.11:5000
 乌海都市生活,http://ipipip/rtp/239.29.0.12:5000
 乌兰察布新闻综合,http://ipipip/rtp/239.29.0.22:5000
@@ -188,6 +187,7 @@ CHC影迷电影,http://ipipip/rtp/239.29.1.178:5000
 扎赉特综合,http://ipipip/rtp/239.29.0.185:5000
 扎鲁特旗综合,http://ipipip/rtp/239.29.1.181:5000
 杭锦后旗综合,http://ipipip/rtp/239.29.0.149:5000
+杭锦后旗综合,http://ipipip/rtp/239.29.1.151:5000
 杭锦旗综合,http://ipipip/rtp/239.29.1.147:5000
 正蓝旗综合,http://ipipip/rtp/239.29.0.147:5000
 武川综合,http://ipipip/rtp/239.29.0.182:5000

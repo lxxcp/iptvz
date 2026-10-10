@@ -8,7 +8,7 @@ CCTV-6 电影,http://ipipip/rtp/239.254.22.67:7000
 CCTV-7 国防军事,http://ipipip/rtp/239.254.22.10:7000
 CCTV-8 电视剧,http://ipipip/rtp/239.254.22.68:7000
 CCTV-9 纪录,http://ipipip/rtp/239.254.22.17:7000
-CCTV-10科教,http://ipipip/rtp/239.254.22.18:7000
+CCTV-10 科教,http://ipipip/rtp/239.254.22.18:7000
 CCTV-11 戏曲,http://ipipip/rtp/239.254.22.19:7000
 CCTV-12 社会与法,http://ipipip/rtp/239.254.22.20:7000
 CCTV-13 新闻,http://ipipip/rtp/239.254.22.21:7000
@@ -52,42 +52,41 @@ CETV1,http://ipipip/rtp/239.254.22.157:7000
 贵州公共,http://ipipip/rtp/239.254.22.2:7000
 贵州影视文艺,http://ipipip/rtp/239.254.22.3:7000
 贵州大众生活,http://ipipip/rtp/239.254.22.4:7000
-贵州法制,http://ipipip/rtp/239.254.22.5:7000
 贵州科教健康,http://ipipip/rtp/239.254.22.6:7000
 贵州经济,http://ipipip/rtp/239.254.22.201:7000
+贵州移动电视,http://ipipip/rtp/239.254.22.167:6000
+贵阳新闻综合,http://ipipip/rtp/239.254.22.152:7000
 家有购物,http://ipipip/rtp/239.254.22.204:7000
 CCTV兵器科技,http://ipipip/rtp/239.254.22.216:7000
 CCTV世界地理,http://ipipip/rtp/239.254.22.208:7000
 CCTV风云音乐,http://ipipip/rtp/239.254.22.206:7000
-武术,http://ipipip/rtp/239.254.22.94:7000
-财富天下,http://ipipip/rtp/239.254.22.61:7000
+IPTV武术,http://ipipip/rtp/239.254.22.94:7000
 IPTV法治,http://ipipip/rtp/239.254.22.65:7000
-地理,http://ipipip/rtp/239.254.22.78:7000
-军事,http://ipipip/rtp/239.254.22.83:7000
-足球,http://ipipip/rtp/239.254.22.96:7000
-贵州移动电视,http://ipipip/rtp/239.254.22.167:6000
-少儿动画,http://ipipip/rtp/239.254.22.69:7000
+IPTV地理,http://ipipip/rtp/239.254.22.78:7000
+IPTV军事,http://ipipip/rtp/239.254.22.83:7000
+IPTV足球,http://ipipip/rtp/239.254.22.96:7000
+IPTV少儿动画,http://ipipip/rtp/239.254.22.69:7000
 BRTV卡酷少儿,http://ipipip/rtp/239.254.22.55:7000
-金鹰卡通,http://ipipip/rtp/239.254.22.56:7000
-嘉佳卡通,http://ipipip/rtp/239.254.22.57:7000
-热播剧场,http://ipipip/rtp/239.254.22.72:7000
-经典电影,http://ipipip/rtp/239.254.22.73:7000
-都市剧场,http://ipipip/rtp/239.254.16.74:6000
-军旅剧场,http://ipipip/rtp/239.254.22.75:7000
-古装剧场,http://ipipip/rtp/239.254.22.76:7000
-喜剧影院,http://ipipip/rtp/239.254.22.98:7000
-动作影院,http://ipipip/rtp/239.254.22.99:7000
-家庭影院,http://ipipip/rtp/239.254.22.100:7000
-音乐现场,http://ipipip/rtp/239.254.22.77:7000
-武侠剧场,http://ipipip/rtp/239.254.22.97:7000
-精选,http://ipipip/rtp/239.254.22.81:7000
-国学,http://ipipip/rtp/239.254.22.84:7000
-动画,http://ipipip/rtp/239.254.22.87:7000
-早教,http://ipipip/rtp/239.254.22.86:7000
-贵阳新闻综合,http://ipipip/rtp/239.254.22.152:7000
+IPTV热播剧场,http://ipipip/rtp/239.254.22.72:7000
+IPTV经典电影,http://ipipip/rtp/239.254.22.73:7000
+IPTV都市剧场,http://ipipip/rtp/239.254.16.74:6000
+IPTV军旅剧场,http://ipipip/rtp/239.254.22.75:7000
+IPTV古装剧场,http://ipipip/rtp/239.254.22.76:7000
+IPTV喜剧影院,http://ipipip/rtp/239.254.22.98:7000
+IPTV动作影院,http://ipipip/rtp/239.254.22.99:7000
+IPTV家庭影院,http://ipipip/rtp/239.254.22.100:7000
+IPTV音乐现场,http://ipipip/rtp/239.254.22.77:7000
+IPTV武侠剧场,http://ipipip/rtp/239.254.22.97:7000
+IPTV精选,http://ipipip/rtp/239.254.22.81:7000
+IPTV国学,http://ipipip/rtp/239.254.22.84:7000
+IPTV动画,http://ipipip/rtp/239.254.22.87:7000
+IPTV早教,http://ipipip/rtp/239.254.22.86:7000
+IPTV爱体育,http://ipipip/rtp/239.254.22.9:7000
 BRTV纪实科教,http://ipipip/rtp/239.254.22.161:7000
 金鹰纪实,http://ipipip/rtp/239.254.22.162:7000
 六盘水综合,http://ipipip/rtp/239.254.22.163:7000
-IPTV5＋,http://ipipip/rtp/239.254.22.9:7000
+金鹰卡通,http://ipipip/rtp/239.254.22.56:7000
+嘉佳卡通,http://ipipip/rtp/239.254.22.57:7000
+财富天下,http://ipipip/rtp/239.254.22.61:7000
 VSPN全电竞,http://ipipip/rtp/239.254.22.166:7000
 
