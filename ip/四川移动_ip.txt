@@ -9,5 +9,5 @@ ai.xiaoshudiao.top:10086
 gq.scvip.net.cn:8300
 nas.201606.xyz:4022
 playerbfq.shangea.top:40064
-ydzx.youzonggan.xyz:4500
 www.sccckj.cn:8899
+ydzx.youzonggan.xyz:4500

@@ -1,2 +1,3 @@
 120.234.187.66:10086
+gd.wsd.gd.cn:1698
 gzgxzm.dpdns.org:10086

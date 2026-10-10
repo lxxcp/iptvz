@@ -1,6 +1,16 @@
 122.230.90.27:8881
 125.120.216.75:4000
+125.123.141.122:44022
+183.156.151.188:9999
 36.25.232.63:8881
-dous.cc:4023
+36.25.232.63:8888
+36.25.232.63:8889
+bit.nlmxy.cn:4000
+dk.song.zj.cn:4043
+dknas.song.zj.cn:4043
+dootask.nlmxy.cn:4000
+hjro.cn:9999
+www.kod.nlmxy.cn:4000
+www.nlmxy.cn:4000
 www.tangtuanpp.fun:4000
 zjhuct.synology.me:8881
