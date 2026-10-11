@@ -1,23 +1,34 @@
 BRTV卡酷少儿,http://ipipip/rtp/238.1.78.97:6648
 CCTV-1 综合,http://ipipip/rtp/238.1.78.166:7200
 CCTV-2 财经,http://ipipip/rtp/238.1.78.235:7752
+CCTV-2 财经,http://ipipip/rtp/238.1.78.43:6216
 CCTV-3 综艺,http://ipipip/rtp/238.1.78.170:7232
 CCTV-4 中文国际,http://ipipip/rtp/238.1.78.236:7760
+CCTV-4 中文国际,http://ipipip/rtp/238.1.78.46:6240
 CCTV-5 体育,http://ipipip/rtp/238.1.78.171:7240
 CCTV-5+ 体育赛事,http://ipipip/rtp/238.1.78.237:7768
 CCTV-6 电影,http://ipipip/rtp/238.1.78.172:7248
 CCTV-7 国防军事,http://ipipip/rtp/238.1.78.239:7784
+CCTV-7 国防军事,http://ipipip/rtp/238.1.78.48:6256
 CCTV-8 电视剧,http://ipipip/rtp/238.1.78.173:7256
 CCTV-9 纪录,http://ipipip/rtp/238.1.78.240:7792
 CCTV-10 科教,http://ipipip/rtp/238.1.78.241:7800
+CCTV-10 科教,http://ipipip/rtp/238.1.78.51:6280
 CCTV-11 戏曲,http://ipipip/rtp/238.1.78.206:7502
+CCTV-11 戏曲,http://ipipip/rtp/238.1.78.52:6288
 CCTV-12 社会与法,http://ipipip/rtp/238.1.78.242:7808
+CCTV-12 社会与法,http://ipipip/rtp/238.1.78.53:6296
 CCTV-13 新闻,http://ipipip/rtp/238.1.79.35:4392
+CCTV-13 新闻,http://ipipip/rtp/238.1.78.45:6232
 CCTV-14 少儿,http://ipipip/rtp/238.1.78.243:7816
+CCTV-14 少儿,http://ipipip/rtp/238.1.78.54:6304
 CCTV-15 音乐,http://ipipip/rtp/238.1.78.222:7648
+CCTV-15 音乐,http://ipipip/rtp/238.1.78.47:6248
 CCTV-16 奥林匹克,http://ipipip/rtp/238.1.78.138:6976
 CCTV-17 农业农村,http://ipipip/rtp/238.1.78.178:7296
+CCTV-17 农业农村,http://ipipip/rtp/238.1.78.179:7304
 CCTV4K,http://ipipip/rtp/238.1.79.23:4296
+华数4K,http://ipipip/rtp/238.1.78.23:6112
 CCTV世界地理,http://ipipip/rtp/238.1.79.60:4616
 CCTV兵器科技,http://ipipip/rtp/238.1.79.56:4584
 CCTV央视台球,http://ipipip/rtp/238.1.79.59:4608
@@ -48,12 +59,15 @@ CHC影迷电影,http://ipipip/rtp/238.1.79.17:4248
 湖南卫视4K,http://ipipip/rtp/238.1.79.38:4416
 三沙卫视,http://ipipip/rtp/238.1.78.27:6144
 东南卫视,http://ipipip/rtp/238.1.78.22:6104
+东南卫视,http://ipipip/rtp/238.1.78.62:6368
 东方卫视,http://ipipip/rtp/238.1.78.163:7176
+东方卫视,http://ipipip/rtp/238.1.78.44:6224
 云南卫视,http://ipipip/rtp/238.1.78.89:6584
 兵团卫视,http://ipipip/rtp/238.1.78.104:6704
 兵团卫视,http://ipipip/rtp/238.1.79.3:4136
 内蒙古卫视,http://ipipip/rtp/238.1.78.103:6696
 北京卫视,http://ipipip/rtp/238.1.78.162:7168
+北京卫视,http://ipipip/rtp/238.1.78.63:6376
 厦门卫视,http://ipipip/rtp/238.1.78.246:7840
 吉林卫视,http://ipipip/rtp/238.1.79.48:4496
 四川卫视,http://ipipip/rtp/238.1.78.30:6168
@@ -64,6 +78,7 @@ CHC影迷电影,http://ipipip/rtp/238.1.79.17:4248
 山东教育,http://ipipip/rtp/238.1.78.254:7904
 山西卫视,http://ipipip/rtp/238.1.78.95:6632
 广东卫视,http://ipipip/rtp/238.1.78.161:7160
+广东卫视,http://ipipip/rtp/238.1.78.68:6416
 广西卫视,http://ipipip/rtp/238.1.78.70:6432
 新疆卫视,http://ipipip/rtp/238.1.78.110:6752
 新疆卫视,http://ipipip/rtp/238.1.79.2:4128
@@ -73,13 +88,16 @@ CHC影迷电影,http://ipipip/rtp/238.1.79.17:4248
 河南卫视,http://ipipip/rtp/238.1.79.65:4632
 浙江卫视,http://ipipip/rtp/238.1.78.164:7184
 海南卫视,http://ipipip/rtp/238.1.79.49:4504
+海南卫视,http://ipipip/rtp/238.1.78.49:6264
 深圳卫视,http://ipipip/rtp/238.1.78.156:7120
 湖北卫视,http://ipipip/rtp/238.1.78.168:7216
 湖南卫视,http://ipipip/rtp/238.1.78.160:7152
 甘肃卫视,http://ipipip/rtp/238.1.79.36:4400
+甘肃卫视,http://ipipip/rtp/238.1.78.108:6736
 西藏卫视,http://ipipip/rtp/238.1.78.101:6680
 西藏卫视,http://ipipip/rtp/238.1.79.1:4120
 贵州卫视,http://ipipip/rtp/238.1.78.244:7824
+贵州卫视,http://ipipip/rtp/238.1.78.90:6592
 辽宁卫视,http://ipipip/rtp/238.1.78.21:6096
 重庆卫视,http://ipipip/rtp/238.1.78.31:6176
 陕西卫视,http://ipipip/rtp/238.1.78.88:6576
@@ -89,12 +107,15 @@ CHC影迷电影,http://ipipip/rtp/238.1.79.17:4248
 安徽卫视,http://ipipip/rtp/238.1.78.150:7072
 安徽卫视,http://ipipip/rtp/238.1.78.33:6192
 安徽卫视,http://ipipip/rtp/238.1.79.27:4328
+安徽卫视,http://ipipip/rtp/238.1.78.42:6208
 安徽公共,http://ipipip/rtp/238.1.79.43:4456
+安徽公共,http://ipipip/rtp/238.1.78.57:6328
 安徽农业科教,http://ipipip/rtp/238.1.79.40:4432
 安徽国际,http://ipipip/rtp/238.1.78.61:6360
 安徽导视,http://ipipip/rtp/238.1.79.66:4664
 安徽影视,http://ipipip/rtp/238.1.79.42:4448
 安徽经济生活,http://ipipip/rtp/238.1.79.44:4464
+安徽经济生活,http://ipipip/rtp/238.1.78.55:6312
 安徽综艺体育,http://ipipip/rtp/238.1.79.41:4440
 临泉综合,http://ipipip/rtp/238.1.78.29:6160
 义安新闻综合,http://ipipip/rtp/238.1.78.211:7560
@@ -137,6 +158,7 @@ CHC影迷电影,http://ipipip/rtp/238.1.79.17:4248
 滁州科教,http://ipipip/rtp/238.1.78.134:6944
 潜山综合,http://ipipip/rtp/238.1.78.192:7408
 濉溪综合,http://ipipip/rtp/238.1.78.209:7544
+太平综合,http://ipipip/rtp/238.1.78.199:7464
 灵璧新闻综合,http://ipipip/rtp/238.1.79.68:4680
 界首综合,http://ipipip/rtp/238.1.78.195:7432
 祁门综合,http://ipipip/rtp/238.1.79.14:4224
@@ -174,6 +196,7 @@ CHC影迷电影,http://ipipip/rtp/238.1.79.17:4248
 动漫秀场,http://ipipip/rtp/238.1.78.154:7104
 生活时尚,http://ipipip/rtp/238.1.78.155:7112
 快乐垂钓,http://ipipip/rtp/238.1.79.31:4360
+四海钓鱼,http://ipipip/rtp/238.1.78.18:4048
 文物宝库,http://ipipip/rtp/238.1.79.16:4240
 梨园频道,http://ipipip/rtp/238.1.79.10:4192
 武术世界,http://ipipip/rtp/238.1.79.8:4176
@@ -188,22 +211,27 @@ CHC影迷电影,http://ipipip/rtp/238.1.79.17:4248
 金色学堂,http://ipipip/rtp/238.1.78.6:7952
 金鹰卡通,http://ipipip/rtp/238.1.78.100:6672
 金鹰纪实,http://ipipip/rtp/238.1.79.9:4184
+环球旅游,http://ipipip/rtp/238.1.78.24:6120
 华数·军旅剧场,http://ipipip/rtp/238.1.78.11:7992
 华数·古装剧场,http://ipipip/rtp/238.1.78.12:4000
 华数·家庭影院,http://ipipip/rtp/238.1.78.14:4016
 华数·星影,http://ipipip/rtp/238.1.79.7:4168
+华数·动作影院,http://ipipip/rtp/238.1.78.13:4008
+华数·热播剧场,http://ipipip/rtp/238.1.78.9:7976
 华数·经典电影,http://ipipip/rtp/238.1.78.10:7984
 华数·谍战剧场,http://ipipip/rtp/238.1.78.2:7920
-央视网·军事,http://ipipip/rtp/238.1.79.3:4136
-央视网·台球,http://ipipip/rtp/238.1.78.251:7880
-央视网·国学,http://ipipip/rtp/238.1.78.34:4064
-央视网·地理,http://ipipip/rtp/238.1.79.4:4144
-央视网·墨宝,http://ipipip/rtp/238.1.78.39:4104
+IPTV收视指南,http://ipipip/rtp/238.1.78.8:7968
+IPTV军事,http://ipipip/rtp/238.1.79.3:4136
+IPTV台球,http://ipipip/rtp/238.1.78.251:7880
+IPTV国学,http://ipipip/rtp/238.1.78.34:4064
+IPTV地理,http://ipipip/rtp/238.1.79.4:4144
+IPTV墨宝,http://ipipip/rtp/238.1.78.39:4104
 央视网·戏曲,http://ipipip/rtp/238.1.78.35:4072
-央视网·爱生活,http://ipipip/rtp/238.1.78.17:4040
-央视网·相声小品,http://ipipip/rtp/238.1.78.3:7928
-央视网·精选,http://ipipip/rtp/238.1.78.19:4056
-央视网·解密,http://ipipip/rtp/238.1.79.6:4160
-央视网·足球,http://ipipip/rtp/238.1.78.250:7872
-央视网·鉴赏,http://ipipip/rtp/238.1.78.38:4096
+IPTV爱生活,http://ipipip/rtp/238.1.78.17:4040
+IPTV相声小品,http://ipipip/rtp/238.1.78.3:7928
+IPTV高网,http://ipipip/rtp/238.1.78.252:7888
+IPTV精选,http://ipipip/rtp/238.1.78.19:4056
+IPTV解密,http://ipipip/rtp/238.1.79.6:4160
+IPTV足球,http://ipipip/rtp/238.1.78.250:7872
+IPTV鉴赏,http://ipipip/rtp/238.1.78.38:4096
 中国电信宣传,http://ipipip/rtp/238.1.78.207:7528
