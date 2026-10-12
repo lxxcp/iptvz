@@ -1,13 +1,12 @@
 BRTV卡酷少儿,http://ipipip/rtp/232.0.0.54:1234$1080p
 BRTV卡酷少儿,http://ipipip/rtp/232.0.0.57:1234$576p
 BRTV纪实科教,http://ipipip/rtp/232.0.0.162:1234$1080p
-CCTV-1 综合,http://ipipip/rtp/232.0.0.189:1234$1080p
+CCTV-1 综合,http://ipipip/rtp/232.0.0.220:1234$1080p
+CCTV-1 综合,http://ipipip/rtp/232.0.0.27:1234$1080p
 CCTV-1 综合,http://ipipip/rtp/232.0.0.1:1234$576p
 CCTV-1 综合,http://ipipip/rtp/232.0.0.217:1234$1080p
 CCTV-1 综合,http://ipipip/rtp/232.0.0.218:1234$1080p
 CCTV-1 综合,http://ipipip/rtp/232.0.0.219:1234$1080p
-CCTV-1 综合,http://ipipip/rtp/232.0.0.220:1234$1080p
-CCTV-1 综合,http://ipipip/rtp/232.0.0.27:1234$1080p
 CCTV-2 财经,http://ipipip/rtp/232.0.0.135:1234$1080p
 CCTV-2 财经,http://ipipip/rtp/232.0.0.148:1234$1080p
 CCTV-2 财经,http://ipipip/rtp/232.0.0.2:1234$576p
@@ -221,3 +220,4 @@ CHC影迷电影,http://ipipip/rtp/232.0.0.233:1234$1080p
 广播未知,http://ipipip/rtp/232.0.0.167:1234$2160p
 广播未知,http://ipipip/rtp/232.0.0.216:1234$2160p
 央广购物,http://ipipip/rtp/232.0.0.240:1234$576p
+电视剧,http://ipipip/rtp/232.0.0.189:1234$1080p

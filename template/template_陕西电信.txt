@@ -5,7 +5,6 @@ CCTV-1 综合,http://ipipip/rtp/239.109.205.118:8880
 CCTV-1 综合,http://ipipip/rtp/239.109.205.222:9726
 CCTV-1 综合,http://ipipip/rtp/239.109.205.9:8000
 CCTV-1 综合,http://ipipip/rtp/239.111.205.46:5140
-CCTV-1 综合,http://ipipip/rtp/239.111.205.89:5140
 CCTV-1 综合,http://ipipip/rtp/239.111.205.9:5140
 CCTV-1 综合,http://ipipip/rtp/239.112.205.59:5140
 CCTV-2 财经,http://ipipip/rtp/239.109.205.106:8784
@@ -313,6 +312,7 @@ CGTN阿语,http://ipipip/rtp/239.111.205.86:5140
 宝鸡陇县,http://ipipip/rtp/239.111.205.252:5140
 宝鸡麟游,http://ipipip/rtp/239.111.205.31:5140
 宝鸡凤县,http://ipipip/rtp/239.111.205.244:5140
+宝鸡凤县,http://ipipip/rtp/239.111.205.89:5140
 宝鸡陈仓,http://ipipip/rtp/239.111.205.245:5140
 延安综合,http://ipipip/rtp/239.112.205.169:5140
 渭南新闻综合,http://ipipip/rtp/239.110.205.37:9854

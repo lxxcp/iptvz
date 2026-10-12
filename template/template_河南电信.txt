@@ -2,7 +2,6 @@
 河南4K试验,http://ipipip/rtp/239.16.20.199:11990
 BRTV卡酷少儿,http://ipipip/rtp/239.16.10.116:2000$576p
 BRTV卡酷少儿,http://ipipip/rtp/239.16.20.105:11050
-CCTV-1 综合,http://ipipip/rtp/239.16.10.117:2000$576p
 CCTV-1 综合,http://ipipip/rtp/239.16.10.1:2000$1080p
 CCTV-1 综合,http://ipipip/rtp/239.16.10.36:2000$576p
 CCTV-1 综合,http://ipipip/rtp/239.16.10.41:2000$576p

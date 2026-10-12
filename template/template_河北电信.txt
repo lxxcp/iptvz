@@ -1,6 +1,5 @@
 BRTV卡酷少儿,http://ipipip/rtp/239.254.200.91:9248
 BRTV纪实科教,http://ipipip/rtp/239.254.200.188:6311
-CCTV-1 综合,http://ipipip/rtp/239.254.200.27:6000
 CCTV-1 综合,http://ipipip/rtp/239.254.200.45:8008
 CCTV-2 财经,http://ipipip/rtp/239.254.200.158:6000$1080p
 CCTV-3 综艺,http://ipipip/rtp/239.254.201.152:7205
