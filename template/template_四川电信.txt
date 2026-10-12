@@ -27,7 +27,6 @@
 攀枝花新闻综合,http://ipipip/rtp/239.94.0.168:5140
 德阳新闻综合,http://ipipip/rtp/239.94.0.176:5140
 广元综合,http://ipipip/rtp/239.94.0.167:5140
-广元文化生活,http://ipipip/rtp/239.94.0.179:5140
 宜宾新闻综合,http://ipipip/rtp/239.94.0.161:5140
 宜宾科教文旅,http://ipipip/rtp/239.94.0.172:5140
 凉山新闻综合,http://ipipip/rtp/239.94.0.171:5140
@@ -92,6 +91,7 @@ CGTN,http://ipipip/rtp/239.94.0.22:5140
 中国交通,http://ipipip/rtp/239.94.0.87:5140$1080p
 CCTV-1 综合,http://ipipip/rtp/239.94.0.1:5140$1080p
 CCTV-1 综合,http://ipipip/rtp/239.94.0.31:5140$1080p
+CCTV-1 综合,http://ipipip/rtp/239.94.0.179:5140
 CCTV-2 财经,http://ipipip/rtp/239.94.0.2:5140$1080p
 CCTV-3 综艺,http://ipipip/rtp/239.94.0.32:5140$1080p
 CCTV-3 综艺,http://ipipip/rtp/239.94.0.3:5140$1080p
@@ -322,7 +322,7 @@ CGTN,http://ipipip/rtp/239.94.2.164:5140$320p
 四川新闻,http://ipipip/rtp/239.94.2.178:5140$320p
 四川影视文艺,http://ipipip/rtp/239.94.2.179:5140$320p
 四川星空购物,http://ipipip/rtp/239.94.2.180:5140$320p
-四川女儿,http://ipipip/rtp/239.94.2.181:5140$320p
+四川妇儿,http://ipipip/rtp/239.94.2.181:5140$320p
 四川科教,http://ipipip/rtp/239.94.2.182:5140$320p
 四川乡村,http://ipipip/rtp/239.94.2.183:5140$320p
 康巴卫视,http://ipipip/rtp/239.94.2.184:5140$320p

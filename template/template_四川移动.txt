@@ -22,13 +22,11 @@
 达州新闻综合,http://ipipip/rtp/239.10.0.54:5140
 达州文化生活,http://ipipip/rtp/239.10.0.55:5140$1080p
 德阳新闻综合,http://ipipip/rtp/239.10.0.56:5140$1080p
-CCTV-1 综合,http://ipipip/rtp/239.10.0.57:5140$1080p
 甘孜综合,http://ipipip/rtp/239.10.0.32:5140$1080p
 稻城综合,http://ipipip/rtp/239.10.0.29:5140$1080p
 广安新闻综合,http://ipipip/rtp/239.10.0.58:5140$1080p
 广安文旅乡村,http://ipipip/rtp/239.10.0.59:5140$1080p
 广元综合,http://ipipip/rtp/239.10.0.60:5140
-广元文化生活,http://ipipip/rtp/239.10.0.61:5140$1080p
 康定综合,http://ipipip/rtp/239.10.0.30:5140$1080p
 乐山新闻综合,http://ipipip/rtp/239.10.0.62:5140$1080p
 乐山文旅生活,http://ipipip/rtp/239.10.0.63:5140$1080p
@@ -37,7 +35,6 @@ CCTV-1 综合,http://ipipip/rtp/239.10.0.57:5140$1080p
 泸州新闻综合,http://ipipip/rtp/239.10.0.46:5140$1080p
 泸州科教生活,http://ipipip/rtp/239.10.0.48:5140$1080p
 眉山综合,http://ipipip/rtp/239.10.0.66:5140$1080p
-CCTV-1 综合,http://ipipip/rtp/239.10.0.67:5140$1080p
 绵阳新闻综合,http://ipipip/rtp/239.10.0.96:5140$1080p
 南充综合,http://ipipip/rtp/239.10.0.68:5140$1080p
 内江综合,http://ipipip/rtp/239.10.0.71:5140$1080p
@@ -67,6 +64,9 @@ CCTV-1 综合,http://ipipip/rtp/239.10.0.98:5140$1080p
 CCTV-1 综合,http://ipipip/rtp/239.11.0.130:5140$576p
 CCTV-1 综合,http://ipipip/rtp/239.11.0.65:5140$1080p
 CCTV-1 综合,http://ipipip/rtp/239.11.0.69:5140$1080p
+CCTV-1 综合,http://ipipip/rtp/239.10.0.67:5140$1080p
+CCTV-1 综合,http://ipipip/rtp/239.10.0.61:5140$1080p
+CCTV-1 综合,http://ipipip/rtp/239.10.0.57:5140$1080p
 CCTV-2 财经,http://ipipip/rtp/239.11.0.108:5140$1080p
 CCTV-3 综艺,http://ipipip/rtp/239.11.0.101:5140$1080p
 CCTV-4 中文国际,http://ipipip/rtp/239.10.0.190:5140$1080p
