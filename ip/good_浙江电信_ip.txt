@@ -1,12 +1,10 @@
-122.230.90.27:8881
+122.230.90.13:8881
 125.123.141.122:44022
-183.156.151.188:9999
 bit.nlmxy.cn:4000
 dk.song.zj.cn:4043
 dknas.song.zj.cn:4043
 dootask.nlmxy.cn:4000
 dous.cc:4023
-hjro.cn:9999
 www.kod.nlmxy.cn:4000
 www.nlmxy.cn:4000
 www.tangtuanpp.fun:4000
