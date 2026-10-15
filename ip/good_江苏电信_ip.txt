@@ -17,6 +17,7 @@ j1900.silicaite.com:58888
 j1900.silicaite.top:58888
 mail.ck.wiki:4022
 njbobo.com:4022
+njbobo.mycloudnas.com:4022
 qh.diaglepm.cn:8333
 st.dhdasheng.cn:8188
 vpn.a5521.top:9889
