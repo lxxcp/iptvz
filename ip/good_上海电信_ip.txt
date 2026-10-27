@@ -7,6 +7,8 @@
 218.1.145.110:30100
 800128.xyz:62888
 aima.520006.xyz:10855
+cloud.sunrisecom.cn:8888
+cloud.sunrisecom.wang:8888
 home.wscxy.fun:30100
 wqcjoy.diskstation.me:8188
 wsc2007123.myds.me:30100
