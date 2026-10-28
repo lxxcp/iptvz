@@ -1,40 +1,41 @@
 ======== 开始检索 北京联通 ========
 从 'ip/北京联通_ip.txt' 读取 IP 并添加到检测列表
 开始连通性检测（并发 50）...
-连接成功 21 个,开始测速（并发 5）······
-[测速] 111.196.135.80:20000  ->  841.79 k
-[测速] 221.220.131.65:8012  ->  964.46 k
-[测速] guoxue.synology.me:57022  ->  934.73 k
-[测速] 6.triq.cc:8012  ->  853.65 k
-[测速] fnos.cgproxy.cn:4022  ->  681.18 k
-[测速] guoxue7.3322.org:57022  ->  921.78 k
+连接成功 22 个,开始测速（并发 5）······
+[测速] 111.196.135.80:20000  ->  945.89 k
+[测速] 221.220.132.148:8012  ->  967.30 k
+[测速] guoxue.synology.me:57022  ->  942.76 k
+[测速] guoxue7.3322.org:57022  ->  937.88 k
+[测速] 6.triq.cc:8012  ->  953.10 k
+[测速] fnos.cgproxy.cn:4022  ->  894.76 k
 [测速] guoxue7.xicp.net:57022  ->  0.00 B
 [测速] happylive.asuscomm.com:8888  ->  0.00 B
 [测速] qqdwtypm3.xicp.net:64022  ->  0.00 B
-[测速] home.zgnc.fun:8824  ->  1.06 M
-[测速] home.zgnc.fun:8821  ->  1.10 M
-[测速] n2.192372.xyz:8888  ->  938.19 k
-[测速] naslmd2.myqnapcloud.com:4022  ->  910.90 k
+[测速] home.zgnc.fun:8824  ->  1.25 M
+[测速] n2.192372.xyz:8888  ->  934.88 k
+[测速] naslmd2.myqnapcloud.com:4022  ->  773.38 k
+[测速] home.zgnc.fun:8821  ->  1.29 M
 [测速] thomastian.duckdns.org:8012  ->  0.00 B
-[测速] qqdwtypm.f3322.org:64022  ->  934.95 k
+[测速] qqdwtypm.f3322.org:64022  ->  951.00 k
 [测速] www.49156116.xyz:23234  ->  0.00 B
-[测速] rt.096096.xyz:61612  ->  873.54 k
-[测速] superpostmail.3322.org:1193  ->  920.21 k
-[测速] triq.cc:8012  ->  837.43 k
-[测速] wuyanjiang.cn:8012  ->  962.09 k
-[测速] www.photoby.us:28012  ->  868.73 k
-测速完成，共 21 条结果。
+[测速] rt.096096.xyz:61612  ->  952.26 k
+[测速] triq.cc:8012  ->  954.18 k
+[测速] superpostmail.3322.org:1193  ->  897.38 k
+[测速] wuyanjiang.cn:8012  ->  963.01 k
+[测速] www.ljun.cc:4022  ->  955.25 k
+[测速] www.photoby.us:28012  ->  957.72 k
+测速完成，共 22 条结果。
 测速结果排序
 ----- 测速排行（前10）-----
-home.zgnc.fun:8821     1.10 M
-home.zgnc.fun:8824     1.06 M
-221.220.131.65:8012    964.46 k
-wuyanjiang.cn:8012     962.09 k
-n2.192372.xyz:8888     938.19 k
-qqdwtypm.f3322.org:64022 934.95 k
-guoxue.synology.me:57022 934.73 k
-guoxue7.3322.org:57022 921.78 k
-superpostmail.3322.org:1193 920.21 k
-naslmd2.myqnapcloud.com:4022 910.90 k
+home.zgnc.fun:8821     1.29 M
+home.zgnc.fun:8824     1.25 M
+221.220.132.148:8012   967.30 k
+wuyanjiang.cn:8012     963.01 k
+www.photoby.us:28012   957.72 k
+www.ljun.cc:4022       955.25 k
+triq.cc:8012           954.18 k
+6.triq.cc:8012         953.10 k
+rt.096096.xyz:61612    952.26 k
+qqdwtypm.f3322.org:64022 951.00 k
 ---------------------------
 北京联通 测试完成，生成可用文件：'txt/北京联通.txt'

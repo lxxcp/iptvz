@@ -1,7 +1,6 @@
 125.123.141.122:44022
 bit.nlmxy.cn:4000
 dootask.nlmxy.cn:4000
-dous.cc:4023
 www.kod.nlmxy.cn:4000
 www.nlmxy.cn:4000
 www.tangtuanpp.fun:4000

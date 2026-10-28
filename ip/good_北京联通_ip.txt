@@ -1,5 +1,5 @@
 111.196.135.80:20000
-221.220.131.65:8012
+221.220.132.148:8012
 6.triq.cc:8012
 fnos.cgproxy.cn:4022
 guoxue.synology.me:57022
@@ -18,4 +18,5 @@ thomastian.duckdns.org:8012
 triq.cc:8012
 wuyanjiang.cn:8012
 www.49156116.xyz:23234
+www.ljun.cc:4022
 www.photoby.us:28012

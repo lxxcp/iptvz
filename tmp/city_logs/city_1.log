@@ -1,25 +1,23 @@
 ======== 开始检索 浙江电信 ========
 从 'ip/浙江电信_ip.txt' 读取 IP 并添加到检测列表
 开始连通性检测（并发 50）...
-连接成功 8 个,开始测速（并发 5）······
-[测速] dootask.nlmxy.cn:4000  ->  811.64 k
-[测速] 125.123.141.122:44022  ->  921.43 k
-[测速] bit.nlmxy.cn:4000  ->  749.14 k
-[测速] www.kod.nlmxy.cn:4000  ->  857.23 k
-[测速] www.nlmxy.cn:4000  ->  890.31 k
-[测速] dous.cc:4023  ->  858.77 k
-[测速] www.tangtuanpp.fun:4000  ->  405.12 k
-[测速] zjhuct.synology.me:8881  ->  940.58 k
-测速完成，共 8 条结果。
+连接成功 7 个,开始测速（并发 5）······
+[测速] www.kod.nlmxy.cn:4000  ->  1.03 M
+[测速] bit.nlmxy.cn:4000  ->  1.05 M
+[测速] 125.123.141.122:44022  ->  1.01 M
+[测速] dootask.nlmxy.cn:4000  ->  1.04 M
+[测速] www.nlmxy.cn:4000  ->  1.04 M
+[测速] www.tangtuanpp.fun:4000  ->  817.56 k
+[测速] zjhuct.synology.me:8881  ->  1.05 M
+测速完成，共 7 条结果。
 测速结果排序
 ----- 测速排行（前10）-----
-zjhuct.synology.me:8881 940.58 k
-125.123.141.122:44022  921.43 k
-www.nlmxy.cn:4000      890.31 k
-dous.cc:4023           858.77 k
-www.kod.nlmxy.cn:4000  857.23 k
-dootask.nlmxy.cn:4000  811.64 k
-bit.nlmxy.cn:4000      749.14 k
-www.tangtuanpp.fun:4000 405.12 k
+zjhuct.synology.me:8881 1.05 M
+bit.nlmxy.cn:4000      1.05 M
+dootask.nlmxy.cn:4000  1.04 M
+www.nlmxy.cn:4000      1.04 M
+www.kod.nlmxy.cn:4000  1.03 M
+125.123.141.122:44022  1.01 M
+www.tangtuanpp.fun:4000 817.56 k
 ---------------------------
 浙江电信 测试完成，生成可用文件：'txt/浙江电信.txt'
