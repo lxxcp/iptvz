@@ -1,4 +1,4 @@
-61.184.232.168:8888
+61.184.232.10:8888
 a.liuxiaobo.top:8888
 alist.xicp.fun:52057
 d.liuxiaobo.top:8888
