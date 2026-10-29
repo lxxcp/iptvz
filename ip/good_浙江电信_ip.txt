@@ -4,4 +4,3 @@ dootask.nlmxy.cn:4000
 www.kod.nlmxy.cn:4000
 www.nlmxy.cn:4000
 www.tangtuanpp.fun:4000
-zjhuct.synology.me:8881
