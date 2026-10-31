@@ -1,4 +1,3 @@
-114.226.193.5:8005
 202.8090pc.cn:58888
 222.92.158.106:9889
 222.92.158.107:9889
@@ -22,7 +21,5 @@ st.dhdasheng.cn:8188
 vpn.a5521.top:9889
 www.huijie5421.cn:8800
 www.yzddy.top:8800
-xpshat.i234.me:8188
 xuekuan.site:8088
-xurishangcheng.top:10888
 z.d4p.cn:8000
