@@ -11,7 +11,6 @@ home.zgnc.fun:8824
 n2.192372.xyz:8888
 naslmd2.myqnapcloud.com:4022
 qqdwtypm.f3322.org:64022
-qqdwtypm3.xicp.net:64022
 rt.096096.xyz:61612
 superpostmail.3322.org:1193
 thomastian.duckdns.org:8012

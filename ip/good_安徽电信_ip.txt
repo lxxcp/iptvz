@@ -4,8 +4,8 @@
 60.168.237.231:6688
 60.172.132.104:8008
 chengzhiming.myds.me:4000
+home.pinkfloyd.cn:5000
 nas.191919.xyz:8888
 op.191919.xyz:8888
-wang0910.wang:7000
 www.191919.xyz:8888
 www.pizhiwei.cn:6688
