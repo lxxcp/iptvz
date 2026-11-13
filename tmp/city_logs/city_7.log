@@ -2,30 +2,30 @@
 从 'ip/湖北电信_ip.txt' 读取 IP 并添加到检测列表
 开始连通性检测（并发 50）...
 连接成功 12 个,开始测速（并发 5）······
-[测速] d.liuxiaobo.top:8888  ->  217.98 k
-[测速] 61.184.232.109:8888  ->  144.40 k
-[测速] alist.xicp.fun:52057  ->  473.15 k
-[测速] paul.paulli.fun:8188  ->  1009.77 k
-[测速] a.liuxiaobo.top:8888  ->  120.44 k
-[测速] www.3872327.top:1225  ->  423.74 k
-[测速] site.zhouqi.homes:4022  ->  97.31 k
-[测速] ud.mc.paulli.fun:8188  ->  1014.09 k
-[测速] sy.mc.paulli.fun:8188  ->  1.00 M
-[测速] www.661130.xyz:8188  ->  932.98 k
-[测速] yong1166.vicp.net:9999  ->  0.00 B
-[测速] xuanxindong.mycloudnas.com:10001  ->  10.79 k
+[测速] 61.184.232.109:8888  ->  180.69 k
+[测速] site.zhouqi.homes:4022  ->  120.79 k
+[测速] a.liuxiaobo.top:8888  ->  151.61 k
+[测速] alist.xicp.fun:52057  ->  404.93 k
+[测速] d.liuxiaobo.top:8888  ->  100.64 k
+[测速] paul.paulli.fun:8188  ->  967.56 k
+[测速] ud.mc.paulli.fun:8188  ->  922.63 k
+[测速] sy.mc.paulli.fun:8188  ->  998.26 k
+[测速] www.661130.xyz:8188  ->  804.45 k
+[测速] www.3872327.top:1225  ->  407.21 k
+[测速] xuanxindong.mycloudnas.com:10001  ->  29.29 k
+[测速] yong1166.vicp.net:9999  ->  9.88 k
 测速完成，共 12 条结果。
 测速结果排序
 ----- 测速排行（前10）-----
-sy.mc.paulli.fun:8188  1.00 M
-ud.mc.paulli.fun:8188  1014.09 k
-paul.paulli.fun:8188   1009.77 k
-www.661130.xyz:8188    932.98 k
-alist.xicp.fun:52057   473.15 k
-www.3872327.top:1225   423.74 k
-d.liuxiaobo.top:8888   217.98 k
-61.184.232.109:8888    144.40 k
-a.liuxiaobo.top:8888   120.44 k
-site.zhouqi.homes:4022 97.31 k
+sy.mc.paulli.fun:8188  998.26 k
+paul.paulli.fun:8188   967.56 k
+ud.mc.paulli.fun:8188  922.63 k
+www.661130.xyz:8188    804.45 k
+www.3872327.top:1225   407.21 k
+alist.xicp.fun:52057   404.93 k
+61.184.232.109:8888    180.69 k
+a.liuxiaobo.top:8888   151.61 k
+site.zhouqi.homes:4022 120.79 k
+d.liuxiaobo.top:8888   100.64 k
 ---------------------------
 湖北电信 测试完成，生成可用文件：'txt/湖北电信.txt'
