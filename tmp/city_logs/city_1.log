@@ -2,20 +2,20 @@
 从 'ip/浙江电信_ip.txt' 读取 IP 并添加到检测列表
 开始连通性检测（并发 50）...
 连接成功 6 个,开始测速（并发 5）······
-[测速] bit.nlmxy.cn:4000  ->  945.76 k
-[测速] www.kod.nlmxy.cn:4000  ->  900.28 k
-[测速] 125.123.141.122:44022  ->  883.65 k
-[测速] dootask.nlmxy.cn:4000  ->  931.68 k
-[测速] www.nlmxy.cn:4000  ->  821.60 k
-[测速] www.tangtuanpp.fun:4000  ->  439.85 k
+[测速] dootask.nlmxy.cn:4000  ->  819.22 k
+[测速] 125.123.141.122:44022  ->  1.03 M
+[测速] www.nlmxy.cn:4000  ->  879.68 k
+[测速] www.kod.nlmxy.cn:4000  ->  790.14 k
+[测速] www.tangtuanpp.fun:4000  ->  369.62 k
+[测速] bit.nlmxy.cn:4000  ->  889.21 k
 测速完成，共 6 条结果。
 测速结果排序
 ----- 测速排行（前10）-----
-bit.nlmxy.cn:4000      945.76 k
-dootask.nlmxy.cn:4000  931.68 k
-www.kod.nlmxy.cn:4000  900.28 k
-125.123.141.122:44022  883.65 k
-www.nlmxy.cn:4000      821.60 k
-www.tangtuanpp.fun:4000 439.85 k
+125.123.141.122:44022  1.03 M
+bit.nlmxy.cn:4000      889.21 k
+www.nlmxy.cn:4000      879.68 k
+dootask.nlmxy.cn:4000  819.22 k
+www.kod.nlmxy.cn:4000  790.14 k
+www.tangtuanpp.fun:4000 369.62 k
 ---------------------------
 浙江电信 测试完成，生成可用文件：'txt/浙江电信.txt'
