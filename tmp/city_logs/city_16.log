@@ -3,40 +3,40 @@
 开始连通性检测（并发 50）...
 连接成功 23 个,开始测速（并发 5）······
 [测速] 6.triq.cc:8012  ->  0.00 B
-[测速] 221.220.132.128:8012  ->  0.00 B
+[测速] 221.220.132.128:8012  ->  964.72 k
+[测速] 111.196.135.80:20000  ->  539.82 k
+[测速] 111.193.231.63:8888  ->  480.88 k
+[测速] fnos.cgproxy.cn:4022  ->  704.33 k
+[测速] guoxue.synology.me:57022  ->  944.80 k
+[测速] guoxue7.3322.org:57022  ->  520.46 k
 [测速] guoxue7.xicp.net:57022  ->  0.00 B
+[测速] qqdwtypm.f3322.org:64022  ->  0.00 B
 [测速] happylive.asuscomm.com:8888  ->  0.00 B
-[测速] 111.196.135.80:20000  ->  582.35 k
-[测速] guoxue.synology.me:57022  ->  955.83 k
-[测速] 111.193.231.63:8888  ->  72.94 k
-[测速] fnos.cgproxy.cn:4022  ->  859.88 k
-[测速] guoxue7.3322.org:57022  ->  593.63 k
-[测速] rt.096096.xyz:61612  ->  0.00 B
-[测速] home.zgnc.fun:8821  ->  1.23 M
+[测速] n2.192372.xyz:8888  ->  598.00 k
+[测速] home.zgnc.fun:8821  ->  1.13 M
+[测速] home.zgnc.fun:8824  ->  932.73 k
+[测速] naslmd2.myqnapcloud.com:4022  ->  931.11 k
 [测速] thomastian.duckdns.org:8012  ->  0.00 B
-[测速] triq.cc:8012  ->  0.00 B
 [测速] wuyanjiang.cn:8012  ->  0.00 B
+[测速] triq.cc:8012  ->  0.00 B
+[测速] rt.096096.xyz:61612  ->  886.35 k
 [测速] www.49156116.xyz:23234  ->  0.00 B
-[测速] home.zgnc.fun:8824  ->  1.19 M
-[测速] n2.192372.xyz:8888  ->  136.08 k
-[测速] naslmd2.myqnapcloud.com:4022  ->  69.28 k
-[测速] qqdwtypm.f3322.org:64022  ->  602.20 k
-[测速] superpostmail.3322.org:1193  ->  538.90 k
-[测速] www.ljun.cc:4022  ->  505.31 k
-[测速] www.photoby.us:28012  ->  588.08 k
-[测速] www.xiongnas.top:8888  ->  128.50 k
+[测速] superpostmail.3322.org:1193  ->  240.06 k
+[测速] www.ljun.cc:4022  ->  521.80 k
+[测速] www.photoby.us:28012  ->  68.13 k
+[测速] www.xiongnas.top:8888  ->  434.33 k
 测速完成，共 23 条结果。
 测速结果排序
 ----- 测速排行（前10）-----
-home.zgnc.fun:8821     1.23 M
-home.zgnc.fun:8824     1.19 M
-guoxue.synology.me:57022 955.83 k
-fnos.cgproxy.cn:4022   859.88 k
-qqdwtypm.f3322.org:64022 602.20 k
-guoxue7.3322.org:57022 593.63 k
-www.photoby.us:28012   588.08 k
-111.196.135.80:20000   582.35 k
-superpostmail.3322.org:1193 538.90 k
-www.ljun.cc:4022       505.31 k
+home.zgnc.fun:8821     1.13 M
+221.220.132.128:8012   964.72 k
+guoxue.synology.me:57022 944.80 k
+home.zgnc.fun:8824     932.73 k
+naslmd2.myqnapcloud.com:4022 931.11 k
+rt.096096.xyz:61612    886.35 k
+fnos.cgproxy.cn:4022   704.33 k
+n2.192372.xyz:8888     598.00 k
+111.196.135.80:20000   539.82 k
+www.ljun.cc:4022       521.80 k
 ---------------------------
 北京联通 测试完成，生成可用文件：'txt/北京联通.txt'
