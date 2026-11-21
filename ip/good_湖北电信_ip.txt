@@ -1,6 +1,5 @@
 59.173.122.81:19999
-61.184.232.215:8888
-a.liuxiaobo.top:8888
+61.184.232.69:8888
 alist.xicp.fun:52057
 paul.paulli.fun:8188
 site.zhouqi.homes:4022
