@@ -1,7 +1,5 @@
 1.30.80.192:4022
 110.18.154.6:17777
-116.114.138.235:8686
-a.zhangzp.top:4022
 tv.zhangzp.top:4022
 vpn.zhangzp.top:4022
 xtusrpa.com:8188
