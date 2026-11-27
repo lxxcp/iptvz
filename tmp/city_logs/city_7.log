@@ -1,27 +1,30 @@
 ======== 开始检索 湖北电信 ========
 从 'ip/湖北电信_ip.txt' 读取 IP 并添加到检测列表
 开始连通性检测（并发 50）...
-连接成功 9 个,开始测速（并发 5）······
-[测速] site.zhouqi.homes:4022  ->  369.93 k
-[测速] paul.paulli.fun:8188  ->  1013.70 k
-[测速] sy.mc.paulli.fun:8188  ->  1.00 M
-[测速] alist.xicp.fun:52057  ->  454.71 k
-[测速] www.3872327.top:1225  ->  429.53 k
-[测速] ud.mc.paulli.fun:8188  ->  1023.18 k
-[测速] www.661130.xyz:8188  ->  993.69 k
-[测速] xuanxindong.mycloudnas.com:10001  ->  180.55 k
-[测速] yong1166.vicp.net:9999  ->  268.44 k
-测速完成，共 9 条结果。
+连接成功 11 个,开始测速（并发 5）······
+[测速] 61.184.232.243:8888  ->  434.68 k
+[测速] paul.paulli.fun:8188  ->  1004.36 k
+[测速] 119.100.147.169:4022  ->  475.22 k
+[测速] site.zhouqi.homes:4022  ->  962.81 k
+[测速] alist.xicp.fun:52057  ->  438.68 k
+[测速] sy.mc.paulli.fun:8188  ->  1015.44 k
+[测速] www.3872327.top:1225  ->  431.81 k
+[测速] ud.mc.paulli.fun:8188  ->  1010.83 k
+[测速] xuanxindong.mycloudnas.com:10001  ->  66.41 k
+[测速] www.661130.xyz:8188  ->  924.52 k
+[测速] yong1166.vicp.net:9999  ->  27.58 k
+测速完成，共 11 条结果。
 测速结果排序
 ----- 测速排行（前10）-----
-sy.mc.paulli.fun:8188  1.00 M
-ud.mc.paulli.fun:8188  1023.18 k
-paul.paulli.fun:8188   1013.70 k
-www.661130.xyz:8188    993.69 k
-alist.xicp.fun:52057   454.71 k
-www.3872327.top:1225   429.53 k
-site.zhouqi.homes:4022 369.93 k
-yong1166.vicp.net:9999 268.44 k
-xuanxindong.mycloudnas.com:10001 180.55 k
+sy.mc.paulli.fun:8188  1015.44 k
+ud.mc.paulli.fun:8188  1010.83 k
+paul.paulli.fun:8188   1004.36 k
+site.zhouqi.homes:4022 962.81 k
+www.661130.xyz:8188    924.52 k
+119.100.147.169:4022   475.22 k
+alist.xicp.fun:52057   438.68 k
+61.184.232.243:8888    434.68 k
+www.3872327.top:1225   431.81 k
+xuanxindong.mycloudnas.com:10001 66.41 k
 ---------------------------
 湖北电信 测试完成，生成可用文件：'txt/湖北电信.txt'

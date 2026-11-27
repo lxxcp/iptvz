@@ -1,3 +1,5 @@
+119.100.147.169:4022
+61.184.232.243:8888
 alist.xicp.fun:52057
 paul.paulli.fun:8188
 site.zhouqi.homes:4022
